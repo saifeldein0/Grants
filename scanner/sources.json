@@ -1,0 +1,90 @@
+{
+  "sources": [
+    {
+      "name": "Opportunity Desk",
+      "base": "https://opportunitydesk.org"
+    },
+    {
+      "name": "Opportunities for Africans",
+      "base": "https://www.opportunitiesforafricans.com"
+    },
+    {
+      "name": "Scholars4Dev",
+      "base": "https://www.scholars4dev.com"
+    },
+    {
+      "name": "Opportunities Corners",
+      "base": "https://opportunitiescorners.com"
+    },
+    {
+      "name": "ProFellow",
+      "base": "https://www.profellow.com"
+    },
+    {
+      "name": "Opportunities for Youth",
+      "base": "https://opportunitiesforyouth.org"
+    },
+    {
+      "name": "After School Africa",
+      "base": "https://www.afterschoolafrica.com"
+    },
+    {
+      "name": "Opportunities Feed",
+      "base": "https://opportunitiesfeed.com"
+    },
+    {
+      "name": "Opportunities Radar",
+      "base": "https://opportunitiesradar.com"
+    },
+    {
+      "name": "Opportunities Circle",
+      "base": "https://www.opportunitiescircle.com"
+    },
+    {
+      "name": "Opportunities Nexus",
+      "base": "https://opportunitiesnexus.com"
+    },
+    {
+      "name": "Oya Opportunities",
+      "base": "https://oyaop.com"
+    },
+    {
+      "name": "Persmind",
+      "base": "https://persmind.com"
+    },
+    {
+      "name": "Mladiinfo",
+      "base": "https://www.mladiinfo.eu"
+    },
+    {
+      "name": "Scholarship Region",
+      "base": "https://www.scholarshipregion.com"
+    },
+    {
+      "name": "Greatyop",
+      "base": "https://www.greatyop.com"
+    },
+    {
+      "name": "fundsforNGOs",
+      "base": "https://www2.fundsforngos.org"
+    },
+    {
+      "name": "&Purpose",
+      "base": "https://andpurpose.world"
+    }
+  ],
+  "queries": [
+    "data science",
+    "artificial intelligence",
+    "machine learning",
+    "health informatics",
+    "public health",
+    "computer science",
+    "bioinformatics",
+    "fully funded master",
+    "research fellowship",
+    "summer school"
+  ],
+  "per_query": 20,
+  "keep_days": 120
+}
