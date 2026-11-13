@@ -1,26 +1,453 @@
 {
- "generated": "2026-11-12T12:50:51+00:00",
+ "generated": "2026-11-13T12:20:52+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+15)",
-  "Opportunities for Africans": "ok (+56)",
-  "Scholars4Dev": "ok (+59)",
+  "Opportunity Desk": "ok (+17)",
+  "Opportunities for Africans": "ok (+55)",
+  "Scholars4Dev": "ok (+48)",
   "Opportunities Corners": "ok (+40)",
-  "ProFellow": "ok (+55)",
-  "Opportunities for Youth": "ok (+12)",
-  "After School Africa": "ok (+32)",
-  "Opportunities Feed": "ok (+9)",
-  "Opportunities Radar": "ok (+27)",
-  "Opportunities Circle": "ok (+17)",
+  "ProFellow": "ok (+54)",
+  "Opportunities for Youth": "ok (+7)",
+  "After School Africa": "ok (+30)",
+  "Opportunities Feed": "ok (+18)",
+  "Opportunities Radar": "ok (+28)",
+  "Opportunities Circle": "ok (+15)",
   "Opportunities Nexus": "ok (+15)",
-  "Oya Opportunities": "ok (+45)",
-  "Persmind": "ok (+3)",
+  "Oya Opportunities": "failed: TimeoutError",
+  "Persmind": "ok (+2)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+22)",
+  "Scholarship Region": "ok (+21)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+19)",
-  "&Purpose": "failed: TimeoutError"
+  "fundsforNGOs": "ok (+18)",
+  "&Purpose": "ok (+49)"
  },
  "items": [
+  {
+   "title": "Top 30 University-wide Scholarships for International Students",
+   "excerpt": "University-wide scholarships are open to students in any subject or course at the university, with only a few exceptions such as medicine, law or the MBA. See 30 university-wide scholarships for international students in the UK, Europe, the USA, Canada, Australia, New Zealand and Hong Kong, from Bachelor’s to PhD level. Read more »",
+   "link": "https://www.scholars4dev.com/top-33-university-wide-scholarships-in-any-course-for-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 25 Tuition Scholarships Offered by Universities for International Students",
+   "excerpt": "If you were unsuccessful in getting a fully funded scholarship, you can apply to universities that offer full and partial tuition fee waivers instead. See 25 tuition scholarships offered by universities in the UK, Europe, the USA, Canada, Australia and Asia, each covering at least half of tuition. Read more »",
+   "link": "https://www.scholars4dev.com/tuition-scholarships-for-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 75 International Scholarships to Watch out for in 2027",
+   "excerpt": "Want to study abroad in 2027? Browse through 75 of the best international scholarship programmes for exchanges, Bachelor’s, Master’s and PhD degrees that you should watch out for in 2027. Read more »",
+   "link": "https://www.scholars4dev.com/top-100-international-scholarships-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10 Scholarships in New Zealand for International Students",
+   "excerpt": "Do you want to study in New Zealand in 2027? Know more about the top 10 scholarships in New Zealand for international students, from fully funded government and doctoral scholarships to university awards towards tuition fees. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-new-zealand-for-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10 Scholarships in Denmark for International Students",
+   "excerpt": "Do you want to study in Denmark in 2027? Know more about the top 10 scholarships in Denmark for international students from outside the EU/EEA, which waive tuition fees and in many cases add a monthly grant for living costs. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-denmark-for-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "IT University of Copenhagen State Scholarships in Denmark",
+   "excerpt": "2027-2028 IT University of Copenhagen State Scholarships are open to students from outside the EU/EEA. The scholarship covers free tuition and part of the living costs for an MSc degree at the IT University of Copenhagen in Denmark. Deadline is 1 March 2027. Read more »",
+   "link": "https://www.scholars4dev.com/it-university-of-copenhagen-state-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Lincoln University Taught Master’s Merit Scholarship for International Students",
+   "excerpt": "2027 Lincoln University Taught Master Merit Scholarships are open to international students with a B+ average. The scholarship gives NZ$7,000 to NZ$15,000 towards the cost of a taught Master’s degree at Lincoln University in New Zealand. No separate application is needed. Read more »",
+   "link": "https://www.scholars4dev.com/180-credit-taught-masters-merit-scholarship-at-lincoln-university/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 7+ Scholarships for Study in Any Country or Anywhere",
+   "excerpt": "Do you want to study for free anywhere you choose? scholars4dev.com lists the top international scholarship programs that let you study in any country of your choice, in a wide selection of countries, or online wherever you may be. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-study-any-country/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Malaysia International Scholarships (MIS)",
+   "excerpt": "Malaysia International Scholarships (MIS) are open to citizens of ASEAN, Commonwealth and selected other countries. The scholarships are towards a full-time Master’s or PhD at 24 Malaysian universities, with tuition and RM 1,500 a month covered. The 2026 call closed on 3 April 2026, and the 2027 call has not been announced yet. Read more »",
+   "link": "https://www.scholars4dev.com/malaysian-international-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Chinese Government Scholarships for International Students",
+   "excerpt": "2027 Chinese Government Scholarships are open to international students from countries other than China. The scholarships are towards a Bachelor’s, Master’s or PhD degree at designated universities in China and can cover tuition, accommodation, a monthly stipend and medical insurance. Deadlines are set by each embassy or university, mostly between January and April 2027. Read more »",
+   "link": "https://www.scholars4dev.com/chinese-government-scholarships-for-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ Scholarships in Asia for International Students",
+   "excerpt": "Many international students dream of studying in the USA, UK or Australia without knowing that Asia also has world-class universities and generous funding. Here are 15+ of the best scholarships offered by governments and top universities in Japan, China, Korea, Taiwan, Hong Kong, Singapore, Malaysia and Türkiye. Read more »",
+   "link": "https://www.scholars4dev.com/asia-scholarships-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Danish State Tuition Fee Waivers and Scholarships at Roskilde University",
+   "excerpt": "2027-2028 Danish State Tuition Fee Waivers and Scholarships at Roskilde University are open to students from outside the EU/EEA. The award covers the tuition fee plus DKK 7,800 a month for selected Master’s programmes at Roskilde University in Denmark. Deadline is 15 January 2027. Read more »",
+   "link": "https://www.scholars4dev.com/danish-state-tuition-fee-waivers-and-scholarships-at-roskilde-university/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10 Commonwealth Scholarships for Students from Commonwealth Countries",
+   "excerpt": "Under the Commonwealth Scholarship and Fellowship Plan (CSFP), Commonwealth countries offer scholarships to citizens of other member countries. See the top Commonwealth scholarships and the university scholarships set aside for students from Commonwealth countries. Read more »",
+   "link": "https://www.scholars4dev.com/international-scholarships-for-commonwealth-countries/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Queen Elizabeth Commonwealth Scholarships",
+   "excerpt": "2027–28 Queen Elizabeth Commonwealth Scholarships are open to citizens of all Commonwealth countries. The fully funded scholarships are towards a two-year Master’s degree at universities in low- and middle-income Commonwealth countries. Cycle 1 runs from 18 November 2026 to 13 January 2027, and cycle 2 from 3 March to 27 April 2027. Read more »",
+   "link": "https://www.scholars4dev.com/queen-elizabeth-commonwealth-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "University of Waikato Vice-Chancellor’s International Excellence Scholarship",
+   "excerpt": "2027 University of Waikato Vice-Chancellor’s International Excellence Scholarships are open to new international students. The scholarship gives up to NZ$15,000 towards tuition fees for undergraduate or taught postgraduate study at the University of Waikato in New Zealand. Deadline for February 2027 entry is 30 November 2026. Read more »",
+   "link": "https://www.scholars4dev.com/university-of-waikato-international-excellence-scholarship/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "RC Trust Internship 2027 in Germany (Fully Funded)",
+   "excerpt": "Applications are now open for the RC Trust Internship 2027 in Germany. This is an international research internship offered by the Research Center Trustworthy Data Science and Security (RC Trust). The program offers students, researchers, and professionals worldwide the opportunity to gain practical research experience by joining one of its research groups in Germany. The […]",
+   "link": "https://opportunitiescorners.com/rc-trust-internship-2027/",
+   "date": "2026-11-13",
+   "source": "Opportunities Corners"
+  },
+  {
+   "title": "UCD Iseult Honohan Doctoral Scholarship 2027 in Ireland: Fully Funded PhD Opportunity with €25,000 Annual Stipend for EU and International Students",
+   "excerpt": "University College Dublin (UCD), through its School of Politics and International Relations (SPIRe), is inviting applications for the Iseult Honohan Doctoral Scholarship 2027 in Ireland. This prestigious doctoral funding opportunity is designed to attract academically outstanding candidates who wish to pursue advanced PhD research in politics, international relations, political theory, quantitativ",
+   "link": "https://opportunitiesforyouth.org/2026/11/13/ucd-iseult-honohan-doctoral-scholarship-2027-in-ireland-fully-funded-phd-opportunity-with-e25000-annual-stipend-for-eu-and-international-students/",
+   "date": "2026-11-13",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Global Youth Forum 2027 in Italy: €600 Scholarships Available for Eligible Applicants",
+   "excerpt": "Location: Turin, Italy Dates: 18–29 January 2027 Format: In person Language: English Scholarship Application Deadline: 20 November 2026 Application Deadline: 3 December 2026 Organiser: International Training Centre of the International Labour Organization (ITCILO) The Global Youth Forum 2027, organised by the International Training Centre of the International Labour Organization (ITCILO), invites ",
+   "link": "https://opportunitiesforyouth.org/2026/11/13/global-youth-forum-2027-in-italy-e600-scholarships-available-for-eligible-applicants/",
+   "date": "2026-11-13",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Switzer Fellowship 2027: $18,000 Environmental Leadership Fellowship for Graduate Students in the United States",
+   "excerpt": "Applications are now open for the 2027 Switzer Fellowship, an environmental leadership development programme offering selected graduate students an $18,000 cash award, leadership training, professional development opportunities and access to a network of more than 800 environmental leaders and professionals. Organised by the Robert and Patricia Switzer Foundation, the Switzer Fellowship supports g",
+   "link": "https://opportunitiesforyouth.org/2026/11/13/2027-switzer-fellowship-in-the-usa-18000-award-for-environmental-leaders/",
+   "date": "2026-11-13",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Coca-Cola CCBA Kenya Internship Program 2026/2027 for Young Kenyan Students",
+   "excerpt": "Apply for the CCBA Kenya Internship Program 2026/2027. This 3-month internship is open to eligible Kenyan students, with applications due by 16 November 2026.",
+   "link": "https://www.afterschoolafrica.com/123597/ccba-kenya-internship-program/",
+   "date": "2026-11-13",
+   "source": "After School Africa"
+  },
+  {
+   "title": "World Maritime University PhD Fellowship for Africans in Sweden 2026/2027: SEK 22,000 Monthly Allowance for 4 Years",
+   "excerpt": "Applications are open until December 11, 2026, for the R. Howard Dobbs, Jr. Foundation Winter 2027 Grantmaking Cycle. The grant supports nonprofit organizations operating in Georgia, USA, and working in health, education, or environmental sustainability.",
+   "link": "https://www.afterschoolafrica.com/123609/world-maritime-university-phd-fellowship/",
+   "date": "2026-11-13",
+   "source": "After School Africa"
+  },
+  {
+   "title": "VHIO International PhD Fellowships 2027: (4-Year Work Contract: Full Employment & Competitive Salary)",
+   "excerpt": "Apply for the Zenith Insurance Graduate Trainee Program 2026 for young Nigerian graduates. Find the eligibility, location, deadline, and official application details here.",
+   "link": "https://www.afterschoolafrica.com/123599/vhio-international-phd-fellowships/",
+   "date": "2026-11-13",
+   "source": "After School Africa"
+  },
+  {
+   "title": "CEGA Fellowship Program 2027-2028 for African Researchers | Fully Funded UC Berkeley Residency + Stipend",
+   "excerpt": "The Center for Effective Global Action (CEGA) is accepting applications for its 2027-2028 Fellowship Program. The deadline is Friday, January 17, 2027 at 5 PM GMT. This 16-week fellowship supports researchers and practitioners from East and West Africa. Fellows may join as resident fellows at UC Berkeley or as non-resident fellows participating virtually. In both … Read more",
+   "link": "https://www.afterschoolafrica.com/90920/call-for-applications-for-the-2025-26-cega-fellowship-program-for-african-researchers/",
+   "date": "2026-11-13",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Sungkyunkwan University (SKKU) Spring 2027 Scholarships in South Korea: Undergraduate & Graduate Guide",
+   "excerpt": "Apply for the IWMF Kim Wall Memorial Fund 2027. The program offers a $5,000 grant to women or nonbinary journalists worldwide to support reporting projects focused on subculture and the undercurrents of rebellion. Deadline: December 6, 2026.",
+   "link": "https://www.afterschoolafrica.com/123606/sungkyunkwan-university-skku-scholarships/",
+   "date": "2026-11-13",
+   "source": "After School Africa"
+  },
+  {
+   "title": "IWMF Kim Wall Memorial Fund 2027 for Women and Nonbinary Journalists ($5,000 Grant)",
+   "excerpt": "The International Women’s Media Foundation (IWMF) is accepting applications for the Kim Wall Memorial Fund 2027. The deadline is December 6, 2026 at 11:59 PM EST. This opportunity supports women or nonbinary journalists worldwide with a $5,000 grant for reporting projects. Specifically, the fund supports reporting on subculture and “the undercurrents of rebellion.” Moreover, applicants … Read more",
+   "link": "https://www.afterschoolafrica.com/69846/iwmf-kim-wall-memorial-fund/",
+   "date": "2026-11-13",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Cisco Offers a Free Introduction to Cybersecurity Course for Beginners",
+   "excerpt": "Cisco offers a free Introduction to Cybersecurity course for beginners through Cisco Networking Academy. The supplied…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/cisco-cybersecurity/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "ISTA Scientific Internships Accept Rolling Applications With Pay From €1,583 Gross Per Month",
+   "excerpt": "ISTA Scientific Internships accept rolling applications with pay from €1,583 gross per month under the supplied…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/ista-internships/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "IFAD Internship Programme Offers Six Months of Experience and a Monthly Allowance",
+   "excerpt": "The IFAD Internship Programme offers six months of experience and a monthly allowance for selected participants…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/ifad-internship/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "UNDP Climate and Energy Internship Offers a Home-Based Option",
+   "excerpt": "The UNDP Climate and Energy Internship offers a home-based option alongside an office-based arrangement. The official…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/undp-climate-internship/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "FAO Internship Call 2026 Offers Three to Eleven Months of Experience With Stipend Support",
+   "excerpt": "The FAO Internship Call 2026 offers three to eleven months of experience with stipend support under…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/fao-internship-call/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "UNFPA Internship Roster 2026 Includes Monthly Stipend Support for Eligible Interns",
+   "excerpt": "The UNFPA Internship Roster 2026 includes monthly stipend support for eligible interns, subject to the programme’s…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/unfpa-internship-roster/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "OECD Internship Programme Accepts Rolling Applications With Remote and Hybrid Options",
+   "excerpt": "The OECD Internship Programme accepts rolling applications and includes remote and hybrid options where the host…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/oecd-internship/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "UNICEF Offers a Paid 26-Week Internship in Artificial Intelligence",
+   "excerpt": "The UNICEF artificial intelligence internship offers 26 weeks of paid experience for eligible students or recent…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/unicef-ai-internship/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Open University Offers a Free 35-Hour Project Management Course With a Statement of Participation",
+   "excerpt": "The Open University offers a free 35-hour Project Management course through OpenLearn, with a Statement of…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/project-management-course/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Euroculture Erasmus Mundus Scholarships 2027–2029 Cover Tuition and Provide €1,400 Monthly",
+   "excerpt": "Euroculture Erasmus Mundus Scholarships 2027–2029 cover tuition and provide €1,400 monthly for selected students on the…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/euroculture-scholarships/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Rufford Small Grants Offer Up to £7,000 for Early-Career Conservation Projects",
+   "excerpt": "Rufford Small Grants offer up to £7,000 for eligible early-career conservation projects through a rolling application…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/rufford-small-grants/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "IAOMS Foundation Fellowships 2027–2028 Offer 12 Months of Training and a $25,000 Stipend",
+   "excerpt": "IAOMS Foundation Fellowships 2027–2028 offer 12 months of specialist training and a $25,000 stipend under the…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/iaoms-fellowships/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "IIASA Young Scientists Summer Programme 2027 Offers Three Months of Tuition-Free Research",
+   "excerpt": "IIASA Young Scientists Summer Programme 2027 offers three months of tuition-free research for eligible PhD researchers.…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/iiasa-yssp/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "CERN Openlab Summer Programme 2027 Offers CHF 94 Per Day and Computing Research Experience",
+   "excerpt": "CERN Openlab Summer Programme 2027 offers CHF 94 per day and computing research experience through a…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/cern-openlab/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Harvard Bell Fellowships 2027–2029 Offer a $75,000 Salary and Research Funding",
+   "excerpt": "Harvard Bell Fellowships 2027–2029 offer a $75,000 salary and research funding through a two-year postdoctoral fellowship…",
+   "link": "https://opportunitiesfeed.com/2026/11/13/harvard-bell-fellowships/",
+   "date": "2026-11-13",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Government of Dubai Free AI Course 2026-27 | Enroll Now",
+   "excerpt": "Are you interested in AI? Do you want to learn how to use artificial intelligence and improve your skills for the future job market? Applications are open for the Government of Dubai Free AI Course 2026-27 – One Million Prompters Program, a Dubai Government initiative aimed at equipping one million people with AI and prompt engineering […]",
+   "link": "https://opportunitiesradar.com/government-of-dubai-free-ai-course-2026/",
+   "date": "2026-11-13",
+   "source": "Opportunities Radar"
+  },
+  {
+   "title": "UCL Commonwealth Shared Scholarship in UK 2027 | Fully Funded",
+   "excerpt": "The University College London (UCL) in the United Kingdom has called for applications for the 2027 Commonwealth Shared Scholarship. The UCL Commonwealth Shared Scholarships cover tuition fees, a maintenance allowance, and economy air travel to and from the UK at the beginning and end of the scholar’s degree programme. In this post, we will talk […]",
+   "link": "https://www.scholarshipregion.com/ucl-commonwealth-shared-scholarship/",
+   "date": "2026-11-13",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "University of Oxford Wolfson Scholarships in UK 2027 | Fully Funded",
+   "excerpt": "Applications for the 2027-28 University of Oxford Wolfson Scholarship have commenced for interested international students to study in the UK. The University of Oxford Wolfson College Scholarships cover payment of course fees and a £21,805 living stipend for the recipients pursuing Doctoral degrees. In this post, we will discuss the details of the scholarship, its […]",
+   "link": "https://www.scholarshipregion.com/university-of-oxford-wolfson-scholarship/",
+   "date": "2026-11-13",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Texas A&M University Scholarship 2027 in USA | Fully Funded",
+   "excerpt": "The Texas A&M University Scholarship is a fully funded graduate assistantship opportunity for prospective Master’s students. The Texas A&M University Graduate Scholarships offer up to a monthly stipend of $36,000 plus benefits (medical package available after completion of waiting period) and full tuition waiver. In this post, we will provide you with more information about […]",
+   "link": "https://www.scholarshipregion.com/texas-am-university-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Margaret Awards for Human by Design AI Innovation",
+   "excerpt": "The Margaret Awards 2027, organized by JFD, honor women in technology under the High Patronage of the President of the French Republic. This year’s theme, “Human by Design,” seeks AI innovations that empower rather than replace human capabilities. Applications close on 15 January 2027, at midnight (Paris time).",
+   "link": "https://www2.fundsforngos.org/innovation/margaret-awards-2027-recognizing-ai-innovations-human-by-design/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "OVW Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program (United States)",
+   "excerpt": "The Office on Violence Against Women (OVW) is inviting applications for its Fiscal Year 2026 Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program. This program aims to support the development and operation of nonprofit, nongovernmental tribal domestic violence and sexual assault coalitions. Eligible coalitions are encouraged to apply by the deadline of 7 December 2026.",
+   "link": "https://www2.fundsforngos.org/domestic-violence/ovw-fiscal-year-2026-grants-to-tribal-domestic-violence-and-sexual-assault/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Visual Artist and Craft Maker Awards for Scotland-Based Artists (United Kingdom)",
+   "excerpt": "Creative Scotland, in collaboration with local authorities and arts agencies across Scotland, offers the Visual Artist and Craft Maker Awards (VACMA). This funding opportunity is designed to support the creative and professional development of visual artists and craft makers in Scotland. Applications for the 2026/27 cycle are open, with deadlines on 20 October 2026 and 2 February 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/visual-artist-and-craft-maker-awards-funding-for-creative-development-in/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Mentorship Program for Master’s Students in Morocco",
+   "excerpt": "The Policy Center for the New South (PCNS) and the Youth Policy Center (YPC) invite Master’s students residing in Morocco to apply for the Mentorship Program 2027. This initiative offers emerging researchers the opportunity to enhance their skills through mentorship and workshops, culminating in the production of policy briefs. Applications close on 30 November 2026.",
+   "link": "https://www2.fundsforngos.org/individuals/mentorship-program-2027-call-for-applications/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Proposals: Living Labs Programme (South Africa)",
+   "excerpt": "The Technology Innovation Agency (TIA), on behalf of the Department of Science, Technology and Innovation, is inviting proposals for the establishment and implementation of Living Labs in the Ehlanzeni District Municipality of Mpumalanga and the Bojanala Platinum District Municipality of the North West. The deadline for applications is 4 December 2026 at 17:00.",
+   "link": "https://www2.fundsforngos.org/cat/living-labs-programme-call-for-proposals-in-ehlanzeni-and-bojanala/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "CFPs: Transnational Judicial Training Action Grants",
+   "excerpt": "The European Commission offers the JUST-2027-JTRA funding opportunity to support justice training initiatives across eligible EU countries. This funding aims to enhance the skills and knowledge of legal practitioners, contributing to a more effective and coherent application of EU law. The deadline for applications is not specified in the source.",
+   "link": "https://www2.fundsforngos.org/human-rights-2/just-2027-jtra-eu-funding-for-justice-training/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Frank Knox Memorial Fellowship for New Zealand Students",
+   "excerpt": "The Frank Knox Memorial Fellowships offer graduate study opportunities at Harvard University for students from New Zealand. These prestigious fellowships cover full-time degree programs and require admission to Harvard. The application deadline is 1 February 2027, at 11:59 PM EST.",
+   "link": "https://www2.fundsforngos.org/individuals/frank-knox-memorial-fellowships-for-new-zealand-students-2027-28/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Frank Knox Memorial Fellowship for United Kingdom Students",
+   "excerpt": "The Frank Knox Memorial Fellowships offer an exceptional opportunity for students from the United Kingdom to pursue full-time graduate or professional degrees at Harvard University. These prestigious fellowships are designed to support academic excellence and foster leadership potential. The application deadline for the 2027-28 academic year is 1 February 2027, 11:59 PM EST.",
+   "link": "https://www2.fundsforngos.org/individuals/the-frank-knox-memorial-fellowships-for-uk-students-study-at-harvard/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for Grant Funding to Support People Seeking Asylum in Leeds (United Kingdom)",
+   "excerpt": "Leeds City Council announces a new grant funding round for third sector organizations aiding asylum seekers and refugees in Leeds. This initiative aims to enhance local support and improve services for individuals navigating the asylum process. The deadline for application submissions is 12:00 pm on 4 January 2027.",
+   "link": "https://www2.fundsforngos.org/immigration/open-call-for-grant-funding-to-support-people-seeking-asylum-in-leeds-united-kingdom/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Frank Knox Memorial Fellowship (Canada)",
+   "excerpt": "The Frank Knox Memorial Fellowships offer Canadian students the opportunity to pursue full-time degree programs at Harvard University. These fellowships are intended for those who have been educated in Canada and are currently residing there. The application deadline is 1 February 2027, at 11:59 PM EST.",
+   "link": "https://www2.fundsforngos.org/leadership/frank-knox-memorial-fellowship-canada/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Frank Knox Memorial Fellowship for Australian Students",
+   "excerpt": "The Frank Knox Memorial Fellowships offer a prestigious opportunity for Australian students to pursue advanced studies at Harvard University. These fellowships are intended for students who have been educated primarily in Australia and aim to foster leadership skills that can be utilized upon returning to their home country. Applications for the 2027-28 academic year must be submitted by 1 Februar",
+   "link": "https://www2.fundsforngos.org/leadership/frank-knox-memorial-fellowship-for-australian-students/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Syed Babar Ali Fellowship for Pakistan-Related Research",
+   "excerpt": "The Lakshmi Mittal and Family South Asia Institute at Harvard University offers the Syed Babar Ali Fellowship to support recent PhDs focusing on areas related to Pakistan. This fellowship prioritizes candidates with an educational history primarily in Pakistan who plan to return to the country after completing their fellowship. Applications for the 2027-2028 academic year are open until 8 December",
+   "link": "https://www2.fundsforngos.org/research-2/syed-babar-ali-fellowship-for-pakistan-related-research/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Global Small Grants of Up to US$10,000 for Research, Conservation and Community Initiatives",
+   "excerpt": "[November 2026] Explore international small grant opportunities supporting researchers, students, conservationists, NGOs, and grassroots initiatives. These funding programs provide financial support for wildlife conservation, climate action, environmental protection, scientific research, and community-led projects. Apply Now: Global Raptor Research and Conservation Grant Deadline: 31-December-2026",
+   "link": "https://www2.fundsforngos.org/listing/global-small-grants-of-up-to-us10000-for-research-conservation-and-community-initiatives/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply for National Animal Disease Preparedness and Response State Preparedness Funding Program (United States)",
+   "excerpt": "The United States Department of Agriculture’s Animal and Plant Health Inspection Service (USDA APHIS) is offering up to $40 million in funding through the National Animal Disease Preparedness and Response Program (NADPRP) for FY 2027. This opportunity aims to enhance state and regional capacities to manage foreign animal disease outbreaks. Eligible applicants must submit their electronic applicati",
+   "link": "https://www2.fundsforngos.org/health-2/national-animal-disease-preparedness-and-response-program-nadprp-fy-2027/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "CFAs: Resident Opportunity and Self-Sufficiency Service Coordinator Program (United States)",
+   "excerpt": "The U.S. Department of Housing and Urban Development (HUD) offers the Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program for Fiscal Year 2026. This program aims to support residents of Public and Indian Housing in achieving economic and housing self-sufficiency by addressing educational, professional, and health barriers. Applications are due by 11:59 p.m. ET on 5 Janu",
+   "link": "https://www2.fundsforngos.org/health-2/resident-opportunity-and-self-sufficiency-service-coordinator-ross-sc/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Request for Proposals: Pfizer Independent Medical Education Grant (Saudi Arabia)",
+   "excerpt": "Pfizer is offering a competitive grant program aimed at enhancing the education of healthcare professionals (HCPs) in the management of hemophilia in Saudi Arabia. This initiative seeks to address educational gaps and improve clinical practices related to hemophilia. Eligible organizations are invited to submit proposals by 15 December 2026.",
+   "link": "https://www2.fundsforngos.org/innovation/request-for-proposals-pfizer-independent-medical-education-grant-saudi-arabia/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Southern African Journalists’ Fellowship Programme",
+   "excerpt": "The Southern African Journalists’ Fellowship Programme 2027, supported by the Federal President Horst Köhler Bursary, offers a unique opportunity for young journalists from Southern Africa to gain experience in Germany. Organized by the International Journalists’ Programmes (IJP), this fellowship fosters cultural exchange and professional development. Applications are open from 1 November 2026 to ",
+   "link": "https://www2.fundsforngos.org/individuals/southern-african-journalists-fellowship-programme-2027/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
   {
    "title": "ADB-Japan Scholarship Program for Developing Countries in Asia and Pacific",
    "excerpt": "2027 ADB-Japan Scholarships are open to citizens of 40 ADB developing member countries. The scholarships are towards a Master’s degree at 27 participating institutions in Asia and the Pacific, 17 of them in Japan. Deadlines are set by each institution, for example early January or early February. Read more »",
@@ -468,6 +895,279 @@
    "link": "https://www2.fundsforngos.org/individuals/trusted-creator-fellowship-for-community-information-creators-united-states/",
    "date": "2026-11-12",
    "source": "fundsforNGOs"
+  },
+  {
+   "title": "Top 10 Scholarships in France for Foreign Students",
+   "excerpt": "Do you want to study in France in 2026? Know more about the scholarships programs in France for international students like you. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-france-foreign-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Scholarships in the Netherlands for International Students",
+   "excerpt": "Do you want to study in the Netherlands in 2027? Know more about the top 10+ scholarships in the Netherlands for international students, from the Dutch government, international programmes and Dutch universities. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-netherlandsfor-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ Excellence Scholarships for Outstanding International Students",
+   "excerpt": "Are you a bright and talented international student? See the top excellence scholarships that governments and leading universities offer to outstanding international students, most of them fully funded. Read more »",
+   "link": "https://www.scholars4dev.com/merit-based-scholarships-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Scholarships in Canada for International Students",
+   "excerpt": "Want to study in Canada? scholars4dev.com lists the top scholarships in Canada for international students, from full undergraduate awards at Toronto, York and UBC to fully funded Master’s and doctoral scholarships. Each covers at least half of tuition. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-canada-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Fully Funded Scholarships for International Students",
+   "excerpt": "Did you know that not all scholarships are created equal? Some scholarships are in the form of tuition fee waivers only, some only cover living expenses, while some offer a partial cash grant but there are those scholarship programs that offer both tuition fee and living expenses and sometimes include travel costs, book allowance, insurance, etc. Learn more about 25 fully funded scholarship progra",
+   "link": "https://www.scholars4dev.com/fully-funded-scholarships-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Scholarships in Switzerland for International Students",
+   "excerpt": "Tuition fees at Swiss public universities are modest compared with many other countries, but living costs are high, so most Swiss scholarships help with living costs as well as fees. scholars4dev.com lists the top 10+ scholarships in Switzerland for international students, from the Swiss government, universities and a business school. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-switzerland-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ Scholarships in USA for International Students",
+   "excerpt": "Can’t find scholarships for your US studies? scholars4dev.com lists the top scholarships in the USA for international students, from US government programmes and US colleges and universities to institutions that fund study in the US. Each covers at least half of tuition, and many cover all costs. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-usa-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "E-JUST TICAD9 African Scholarship for STI – Fall 2027",
+   "excerpt": "Deadline: Unspecified Applications are open for the E-JUST TICAD9 African Scholarship for STI – Fall 2027. E-JUST offers “E-JUST TICAD9 African Scholarship for STI” – i.e. TICAD9 Scholarships to develop high-quality human resources in the field of STI (Science, Technology and Innovation) toward future African STI network and beyond. These scholarships are provided under the",
+   "link": "https://opportunitydesk.org/2026/11/12/e-just-ticad9-african-scholarship-for-sti-fall-2027/",
+   "date": "2026-11-12",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded)",
+   "excerpt": "Deadline: December 1, 2026 Applications are open for the UCLA Library Special Collections (LSC) Research Fellowships 2027. UCLA Library Special Collections (LSC) Research Fellowships provide one-time funding disbursements to help defray travel and other research-related expenses for projects that would significantly benefit from on-site research. The call for applications opens in the mid- to late",
+   "link": "https://opportunitydesk.org/2026/11/12/ucla-library-special-collections-research-fellowships-2027/",
+   "date": "2026-11-12",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "DSTI-NRF Policy Fellowship Programme 2027 (Funded)",
+   "excerpt": "Deadline: November 17, 2026 Applications are open for the DSTI-NRF Policy Fellowship Programme 2027. The National Research Foundation (NRF), in partnership with the Department of Science, Technology and Innovation (DSTI), invites eligible early- and mid-career researchers to apply for the second cohort of the DSTI–NRF Policy Fellowship Programme. The programme aims to strengthen the relationship",
+   "link": "https://opportunitydesk.org/2026/11/12/dsti-nrf-policy-fellowship-programme-2027/",
+   "date": "2026-11-12",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "The DSTI-NRF Policy Fellowship Programme Cohort 2 (24-month placements) for early- and mid-career South African professionals.",
+   "excerpt": "Application Deadline: 17 November 2026. Applications are now open for the DSTI-NRF Policy Fellowship Programme. The National Research Foundation (NRF), in partnership with the Department of Science, Technology and Innovation…",
+   "link": "https://www.opportunitiesforafricans.com/the-dsti-nrf-policy-fellowship-programme-cohort-2/",
+   "date": "2026-11-12",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program 2027 for African graduates. (Fully Funded)",
+   "excerpt": "Application Deadline: January 10, 2027 Applications are now open for the Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program. E-JUST offers “E-JUST TICAD9 African Scholarship for STI”…",
+   "link": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+   "date": "2026-11-12",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "Top 20+ International Scholarships for Development-Related Studies",
+   "excerpt": "Many scholarships support development-related studies such as agriculture, education, global health, the environment, public policy, peace, and water and sanitation. They are offered by universities, foreign governments and international organisations, and some also fund study in any field that will help the scholar’s home country develop. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-development-related-studies-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 20+ Foreign Government Scholarships for International Students",
+   "excerpt": "Many governments fund scholarships for international students to study in their countries. See the top government scholarships from the USA, UK, Europe, Australia, New Zealand and Asia, most of them fully funded. Read more »",
+   "link": "https://www.scholars4dev.com/government-scholarships-for-developing-countries/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Scholarships in Germany for International Students",
+   "excerpt": "Want to study in Germany? See the top scholarships in Germany for international students, from DAAD scholarships to German foundation scholarships that pay a monthly stipend for living costs. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-germany-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 20+ Scholarships in Sweden for International Students",
+   "excerpt": "Do you want to study in Sweden? There are a considerable number of scholarships that are being offered by the Swedish Government and Swedish Universities to attract international students like you. Read more » See also 15 Development-related Courses in Sweden with Scholarships",
+   "link": "https://www.scholars4dev.com/scholarships-in-sweden-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ UK Scholarships for International Students",
+   "excerpt": "Do you want to study in the UK for free? The British Government and UK Universities provide scholarships for international students who wants to study in United Kingdom. See the Top 15+ UK Scholarships that are available to international students like you. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-uk-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 25+ Scholarships in Europe for International Students",
+   "excerpt": "Do you want to study in Europe in 2027? Know more about the top 25+ scholarships in Europe for international students, from Erasmus Mundus and European government scholarships to university excellence awards. Read more »",
+   "link": "https://www.scholars4dev.com/europe-scholarships-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Scholarships in Australia for International Students",
+   "excerpt": "Do you want to study in Australia in 2027? Know more about the top 10+ scholarships in Australia for international students, from the Australian Government and Australian universities. Read more »",
+   "link": "https://www.scholars4dev.com/australia-scholarships/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Scholarships in Italy for International Students",
+   "excerpt": "In Italy, all international students are entitled to the same financial assistance services as Italian students based on same requisites of financial means and/or merit. There are government scholarships at the national and regional level to which international students can apply for. Moreover, some Italian Universities offer scholarship programs for international students. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-italy-scholarships-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Science@Leuven Scholarships for International Students",
+   "excerpt": "2027-2028 Science@Leuven Scholarships are open to international students. The scholarships give an allowance of up to €12,000 a year, plus help with tuition and health insurance, for a Master’s programme of the Faculty of Science at KU Leuven in Belgium. Deadline is 15 February 2027. Read more »",
+   "link": "https://www.scholars4dev.com/science-scholarships-for-international-students-at-ku-leuven/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Bocconi Graduate Merit Awards for Master of Science Students",
+   "excerpt": "2027-28 Bocconi Graduate Merit Awards are open to international students. The awards are towards Master of Science and MA programmes at Bocconi University in Milan, Italy. Round II closes on 26 January 2027. Course starts September 2027.",
+   "link": "https://www.scholars4dev.com/scholarships-in-italy-for-international-students-at-bocconi-univiersity/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Eira Francis Davies Scholarship for Women at Swansea University",
+   "excerpt": "2023/24 Eira Francis Davies Scholarship are open to women from developing countries. The scholarships are towards an eligible, full-time, postgraduate taught Master’s programme within the College of Human and Health Sciences at Swansea University. Deadline is 28 May 2023. Courses start September 2023. Read more »",
+   "link": "https://www.scholars4dev.com/eira-davies-scholarship-at-swansea-university/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ Scholarships in Europe for Non-EU International Students",
+   "excerpt": "Do you want to study in Europe in 2027? Know more about the top 15+ scholarships and tuition fee waivers in Europe for non-EU international students, many of which cut tuition by half or cover it in full. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-europe-non-eu-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Prestigious Scholarships for the Best International Students",
+   "excerpt": "Are you a bright, talented and motivated international student? See the most prestigious international scholarships for the best students around the world, from Fulbright and Chevening to Gates Cambridge, Rhodes and Knight-Hennessy. Read more »",
+   "link": "https://www.scholars4dev.com/top-10-scholarships-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ International Scholarships for Developing Country Students",
+   "excerpt": "Many international scholarships are set aside for students from developing countries. scholars4dev.com lists the top government, institution and university scholarships for developing country students that come back every year, each covering at least half of tuition. Read more »",
+   "link": "https://www.scholars4dev.com/popular-scholarships-for-developing-country-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ Bachelor’s Degree Scholarships for International Students",
+   "excerpt": "Although there are more of Masters scholarships for international students that are being offered, there are a significant number of international scholarships for undergraduate degrees to be found. scholars4dev.com lists the Top 15 International Bachelor’s Degree Scholarships. Read more »",
+   "link": "https://www.scholars4dev.com/top-10-bachelors-degree-scholarships-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ International Scholarships for Women",
+   "excerpt": "Scholarships and fellowships help women pursue higher education and research in fields such as science, engineering, business, finance, health, peace and international development. scholars4dev.com presents a list of the top 10+ international scholarships for women. Read more »",
+   "link": "https://www.scholars4dev.com/international-scholarships-for-women/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ PhD Scholarships for International Students",
+   "excerpt": "If you are an international student, it may seem difficult to find a PhD scholarship but you’d be surprised that there are a considerable number of PhD Scholarships for international students out there. scholars4dev.com lists the Top 10 International PhD Scholarships. Read more »",
+   "link": "https://www.scholars4dev.com/top-10-phd-scholarships-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 25+ Masters Degree Scholarships for International Students",
+   "excerpt": "A great number of international scholarships that are being offered by Universities are towards a Master’s Degree, either by coursework or by research. scholars4dev.com lists the Top 25 International Master’s Degree Scholarships. Read more »",
+   "link": "https://www.scholars4dev.com/top-10-masters-degree-scholarships-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 5+ Scholarships in Finland for International Students",
+   "excerpt": "Do you want to study in Finland in 2027? Know more about the top scholarships in Finland for international students, from university tuition fee waivers to Fulbright awards, Erasmus Mundus and paid doctoral positions. Read more »",
+   "link": "https://www.scholars4dev.com/tuition-free-universities-scholarships-in-finland-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Tuition Fees and Scholarships in Norway for International Students",
+   "excerpt": "Do you want to study in Norway in 2027? Know more about tuition fees for international students in Norway and the scholarships and funding that are still available, from Erasmus Mundus to paid PhD positions. Read more »",
+   "link": "https://www.scholars4dev.com/norway-scholarships-for-international-students/",
+   "date": "2026-11-12",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "UTRIP Summer Internship 2027 in Japan (Fully Funded)",
+   "excerpt": "Ready to start your fully funded summer internship in Japan? Applications for the UTRIP Summer Internship 2027 are now open! The UTRIP is a six-week, fully funded summer internship hosted by the University of Tokyo, Japan. The program is open to applicants of all nationalities and will run from June 23 to August 3, 2027. […]",
+   "link": "https://opportunitiescorners.com/utrip-summer-internship-2027-in-japan/",
+   "date": "2026-11-12",
+   "source": "Opportunities Corners"
+  },
+  {
+   "title": "WIPO IP and Women Fellowship 2027 in Switzerland: Earn CHF 6,000 Monthly and Gain International Intellectual Property Experience in Geneva",
+   "excerpt": "The World Intellectual Property Organization (WIPO) IP and Women Fellowship 2027 is offering an exciting professional development opportunity for qualified candidates with a background in law and professional experience in intellectual property (IP). Based at WIPO Headquarters in Geneva, Switzerland, the fellowship provides an opportunity to contribute to international initiatives promoting women’",
+   "link": "https://opportunitiesforyouth.org/2026/11/12/wipo-ip-and-women-fellowship-2027-in-switzerland-earn-chf-6000-monthly-and-gain-international-intellectual-property-experience-in-geneva/",
+   "date": "2026-11-12",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Purdue University Summer Undergraduate Research Fellowship (SURF) 2027: Fully Funded 10-Week Research Fellowship for Undergraduate Students Worldwide",
+   "excerpt": "The Purdue University Summer Undergraduate Research Fellowship (SURF) 2027 offers undergraduate students an exciting opportunity to gain practical research experience at one of the leading research universities in the United States. Through this competitive 10-week fellowship, selected students will work alongside experienced faculty members, graduate students, and postdoctoral researchers on supe",
+   "link": "https://opportunitiesforyouth.org/2026/11/12/purdue-university-summer-undergraduate-research-fellowship-surf-2027-fully-funded-10-week-research-fellowship-for-undergraduate-students-worldwide/",
+   "date": "2026-11-12",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Commonwealth Shared Scholarships 2027: Fully Funded UK Master’s Scholarship for Students from Developing Commonwealth Countries",
+   "excerpt": "The Commonwealth Shared Scholarship programme offers an important opportunity for talented postgraduate students from eligible developing Commonwealth countries to pursue a Master’s degree in the United Kingdom. Administered by the Commonwealth Scholarship Commission in the UK (CSC), the programme supports students who demonstrate academic potential and a commitment to contributing to the developm",
+   "link": "https://opportunitiesforyouth.org/2026/11/12/commonwealth-shared-scholarship-scheme-2024-2025-fully-funded-opportunity-for-masters-study-in-the-united-kingdom/",
+   "date": "2026-11-12",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "The Brokerage Next Gen Talent Network 2026: Free UK Career Platform Offering Paid Work Experience, Internships, Apprenticeships and Early-Career Opportunities for Young People Aged 16–25",
+   "excerpt": "Are you a young person looking to gain professional experience, secure an internship, find paid work, or connect with leading employers? The Brokerage Next Gen Talent Network provides a free membership platform designed to help young people explore career opportunities, develop professional skills and access pathways into employment. Through its Next Gen Talent Network, The […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/12/the-brokerage-next-gen-talent-network-2026-free-uk-career-platform-offering-paid-work-experience-internships-apprenticeships-and-early-career-opportunities-for-young-people-aged-16-25/",
+   "date": "2026-11-12",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "RIKEN CBS Summer Program 2027 in Japan",
+   "excerpt": "Are you ready to explore the intriguing fields of neuroscience, brain science, and cutting-edge research this summer? Then the RIKEN CBS Summer Program 2027 in Japan is a perfect opportunity for you! This international summer program is a unique opportunity for advanced students and early-career researchers from around the world. The RIKEN Summer Program 2027 […]",
+   "link": "https://www.opportunitiescircle.com/riken-cbs-summer-program/",
+   "date": "2026-11-12",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "2027 E-JUST TICAD9 Scholarship For Africans | Fully Funded",
+   "excerpt": "Egypt-Japan University of Science and Technology is pleased to anounce the 2027 E-JUST TICAD9 Scholarship to develop high-quality human resources in the field of STI (Science, Technology and Innovation) toward future African STI network and beyond. The E-JUST TICAD9 Africa Scholarship fully sponsors the study of selected candidates covering tuition, living stipends, travel costs, accommodation, […",
+   "link": "https://www.scholarshipregion.com/e-just-ticad9-scholarship/",
+   "date": "2026-11-12",
+   "source": "Scholarship Region"
   },
   {
    "title": "CrossCulture Programme (CCP) Fellowships Germany 2027: Fully Funded in Germany",
@@ -1637,13 +2337,6 @@
    "link": "https://opportunitiesforyouth.org/2026/11/09/edf-climate-corps-fellowship-2027-in-the-usa-paid-summer-fellowship-for-graduate-students-earn-at-least-1400-per-week/",
    "date": "2026-11-09",
    "source": "Opportunities for Youth"
-  },
-  {
-   "title": "Top 10 Scholarships in France for Foreign Students",
-   "excerpt": "Do you want to study in France in 2026? Know more about the scholarships programs in France for international students like you. Read more »",
-   "link": "https://www.scholars4dev.com/scholarships-france-foreign-students/",
-   "date": "2026-11-08",
-   "source": "Scholars4Dev"
   },
   {
    "title": "Eiffel Scholarships in France for International Students",
@@ -5951,13 +6644,6 @@
    "source": "fundsforNGOs"
   },
   {
-   "title": "Top 10+ Scholarships in the Netherlands for International Students",
-   "excerpt": "Along with UK and Germany, the Netherlands is one of the top destinations for international students looking to pursue their studies in Europe. There are a significant number of scholarships in Netherlands offered by Dutch Colleges and Universities as well as scholarships granted by the Dutch government and institutions. See the Top 10+ scholarships in Netherlands plus online courses at Dutch Univ",
-   "link": "https://www.scholars4dev.com/scholarships-in-netherlandsfor-international-students/",
-   "date": "2026-10-21",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "Yehuda Elkana Fellowship 2027 at Central European University",
    "excerpt": "Deadline: January 15, 2027 Applications are open for the Yehuda Elkana Fellowship 2027. Are you interested in pursuing doctoral study and research at CEU? Are you passionate about researching higher education? Central European University (CEU) invites outstanding young scholars interested in pursuing a doctoral degree related to higher education policy, broadly understood, to apply for the Yehuda",
    "link": "https://opportunitydesk.org/2026/10/20/yehuda-elkana-fellowship-2027/",
@@ -7204,13 +7890,6 @@
    "source": "Opportunities for Africans"
   },
   {
-   "title": "Top 15+ Excellence Scholarships for Outstanding International Students",
-   "excerpt": "Are you a bright and talented international student? See the top excellence scholarships that governments and leading universities offer to outstanding international students, most of them fully funded. Read more »",
-   "link": "https://www.scholars4dev.com/merit-based-scholarships-for-international-students/",
-   "date": "2026-10-06",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific Exchange",
    "excerpt": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and professional networks. According to Bayer Foundation, successful applicants can receive up to €10,000 in funding. The 2027 fellowship announcement highlights four major areas: D",
    "link": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
@@ -7888,13 +8567,6 @@
    "link": "https://andpurpose.world/2026-cso-call-for-expressions-of-project-intentions-afd/",
    "date": "2026-09-25",
    "source": "&Purpose"
-  },
-  {
-   "title": "Top 10+ Scholarships in Canada for International Students",
-   "excerpt": "Want to study in Canada? scholars4dev.com lists the top scholarships in Canada for international students, from full undergraduate awards at Toronto, York and UBC to fully funded Master’s and doctoral scholarships. Each covers at least half of tuition. Read more »",
-   "link": "https://www.scholars4dev.com/scholarships-canada-international-students/",
-   "date": "2026-09-24",
-   "source": "Scholars4Dev"
   },
   {
    "title": "3 Hidden Expenses to Budget for Before Starting Graduate School",
@@ -8737,13 +9409,6 @@
    "source": "Opportunity Desk"
   },
   {
-   "title": "Fully Funded Scholarships for International Students",
-   "excerpt": "Did you know that not all scholarships are created equal? Some scholarships are in the form of tuition fee waivers only, some only cover living expenses, while some offer a partial cash grant but there are those scholarship programs that offer both tuition fee and living expenses and sometimes include travel costs, book allowance, insurance, etc. Learn more about 25 fully funded scholarship progra",
-   "link": "https://www.scholars4dev.com/fully-funded-scholarships-international-students/",
-   "date": "2026-09-07",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "KTH Scholarships",
    "excerpt": "2026-2027 KTH Tuition Fee Waivers will open on 1 December 2024 to international students from outside the EU. The tuition fee waivers are towards Masters Degree Programmes offered at KTH Royal Institute of Technology in Sweden. Deadline is 15 January 2027. Course starts August 2027. Read more »",
    "link": "https://www.scholars4dev.com/kth-tuition-fee-waivers-for-non-eu-students/",
@@ -9183,13 +9848,6 @@
    "link": "https://www2.fundsforngos.org/individuals/smithsonian-biodiversity-genomics-postdoctoral-fellowship-program/",
    "date": "2026-08-25",
    "source": "fundsforNGOs"
-  },
-  {
-   "title": "Top 10 Scholarships in Switzerland for International Students",
-   "excerpt": "Did you know that tuition fees at Swiss universities are relatively low compared to other European Countries? You can enrol at a Swiss University for as low as $1,500 a year. This makes Switzerland one of the top choices for international students looking to pursue studies in Europe. Moreover, there are available Swiss scholarships for international students that help towards tuition fees and livi",
-   "link": "https://www.scholars4dev.com/scholarships-in-switzerland-for-international-students/",
-   "date": "2026-08-24",
-   "source": "Scholars4Dev"
   },
   {
    "title": "Google Student PhD Researcher Program 2026 | Fall Session",
@@ -9685,13 +10343,6 @@
    "title": "AAUW International Fellowships in USA for Women",
    "excerpt": "2026-2027 AAUW International Fellowships are open to all women around the globe. The scholarships are towards a Masters, PhD, or Postdoctoral degree in an accredited institution in United States. Deadline is 17 September 2026. Fellowship year is 1 July 2027 – 30 June 2028. Read more »",
    "link": "https://www.scholars4dev.com/aauw-international-fellowships-in-usa-for-women/",
-   "date": "2026-07-29",
-   "source": "Scholars4Dev"
-  },
-  {
-   "title": "Top 15+ Scholarships in USA for International Students",
-   "excerpt": "Can’t find scholarships for your US studies? scholars4dev.com lists the top scholarships in the USA for international students, from US government programmes and US colleges and universities to institutions that fund study in the US. Each covers at least half of tuition, and many cover all costs. Read more »",
-   "link": "https://www.scholars4dev.com/scholarships-in-usa-for-international-students/",
    "date": "2026-07-29",
    "source": "Scholars4Dev"
   },
