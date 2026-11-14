@@ -1,26 +1,138 @@
 {
- "generated": "2026-11-13T12:20:52+00:00",
+ "generated": "2026-11-14T11:36:39+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+17)",
+  "Opportunity Desk": "ok (+16)",
   "Opportunities for Africans": "ok (+55)",
-  "Scholars4Dev": "ok (+48)",
-  "Opportunities Corners": "ok (+40)",
+  "Scholars4Dev": "ok (+27)",
+  "Opportunities Corners": "ok (+38)",
   "ProFellow": "ok (+54)",
-  "Opportunities for Youth": "ok (+7)",
-  "After School Africa": "ok (+30)",
-  "Opportunities Feed": "ok (+18)",
-  "Opportunities Radar": "ok (+28)",
-  "Opportunities Circle": "ok (+15)",
+  "Opportunities for Youth": "ok (+2)",
+  "After School Africa": "ok (+24)",
+  "Opportunities Feed": "ok (+3)",
+  "Opportunities Radar": "ok (+27)",
+  "Opportunities Circle": "ok (+16)",
   "Opportunities Nexus": "ok (+15)",
-  "Oya Opportunities": "failed: TimeoutError",
-  "Persmind": "ok (+2)",
+  "Oya Opportunities": "ok (+45)",
+  "Persmind": "ok (+9)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+21)",
+  "Scholarship Region": "ok (+18)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+18)",
+  "fundsforNGOs": "ok (+2)",
   "&Purpose": "ok (+49)"
  },
  "items": [
+  {
+   "title": "Top 10+ International Scholarships for Women",
+   "excerpt": "Scholarships and fellowships help women pursue higher education and research in fields such as science, engineering, business, finance, health, peace and international development. scholars4dev.com presents a list of the top 10+ international scholarships for women. Read more »",
+   "link": "https://www.scholars4dev.com/international-scholarships-for-women/",
+   "date": "2026-11-14",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Women in STEM Scholarships at Imperial College London",
+   "excerpt": "Imperial College London and the British Council offer five Women in STEM Scholarships for a one-year Master’s at Imperial starting in autumn 2027, for women from one group of countries: South Asia, Kazakhstan and Turkey, or Brazil. Each covers full tuition fees, a £23,805 stipend, a return flight and visa costs. Deadline: 3 March 2027. Read more »",
+   "link": "https://www.scholars4dev.com/imperial-women-in-stem-scholarships/",
+   "date": "2026-11-14",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Science, Engineering and Technology Scholarships for International Students",
+   "excerpt": "Do you want to pursue an international degree in Science, Engineering, or Technology? The Science, Engineering, and Technology fields are popular fields of study supported by scholarships and fellowships by foreign governments, universities, and international organizations. scholars4dev.com lists the top 10 scholarships in the field of science, engineering, and technology offered by Universities a",
+   "link": "https://www.scholars4dev.com/science-engineering-technology-scholarships-for-international-students/",
+   "date": "2026-11-14",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 5+ Training Scholarships for International Students",
+   "excerpt": "Do you want to improve your chances in scholarship and job applications? Taking short courses or trainings allow you to upgrade your skills and boost your academic qualifications. scholars4dev.com lists the Top 5 training scholarships in various fields of study offered at Universities around the world. Read more »",
+   "link": "https://www.scholars4dev.com/short-courses-training-scholarships-for-international-students/",
+   "date": "2026-11-14",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ International Scholarships offered by Global Organizations, Institutions, and Foundations",
+   "excerpt": "Know more about the top 10+ international scholarships offered by intergovernmental organizations, global institutions and international foundations, from Erasmus Mundus, Commonwealth and UNESCO fellowships to the World Bank, ADB, Rotary, Aga Khan and Mastercard Foundation programmes. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-by-global-institutions-organizations-foundations/",
+   "date": "2026-11-14",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ Research Scholarships for International Students",
+   "excerpt": "Research scholarships are among the best-funded scholarships for international students. Know more about the top 15+ research scholarships for a PhD or research Master’s, from government programmes in the USA, Canada, Australia, Japan and Singapore to university scholarships at Cambridge, Imperial, Melbourne and more. Read more »",
+   "link": "https://www.scholars4dev.com/top-25-research-scholarships-for-international-students/",
+   "date": "2026-11-14",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 8 International Fellowships for Students, Researchers and Professionals",
+   "excerpt": "There are a number of international fellowships open to students, researchers, and professionals for study, research, or professional undertaking at Universities, Institutions, and Organizations around the world. Read more »",
+   "link": "https://www.scholars4dev.com/top-10-academic-research-professional-fellowships-for-international-students/",
+   "date": "2026-11-14",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Summer Programs in Europe in 2027 (Fully Funded)",
+   "excerpt": "Europe is Calling. Your European Summer Adventure Starts Here! Exciting Summer Programs in Europe in 2027. Whether you’re an undergraduate student, a Master’s or PhD candidate, a young professional, or an aspiring leader, 2027 could be your year to explore Europe, gain international experience, and take your future to the next level. These opportunities are […]",
+   "link": "https://opportunitiescorners.com/summer-programs-in-europe-in-2027/",
+   "date": "2026-11-14",
+   "source": "Opportunities Corners"
+  },
+  {
+   "title": "CERN Summer Student Program 2027 in Switzerland",
+   "excerpt": "Applications are open for the CERN Summer Student Program 2027 in Switzerland. Opportunities Circle brings another excellent opportunity for eligible students to enhance their skills in Physics, Computer Science, Engineering, or Mathematics fields. CERN offers international students a fantastic chance to gain experience in their relative areas and teach students how to compete in this […]",
+   "link": "https://www.opportunitiescircle.com/cern-summer-student-program-in-switzerland/",
+   "date": "2026-11-14",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "University of Milan DSU Scholarship 2027–2028 in Italy: Benefits, Eligibility and Application Guide",
+   "excerpt": "Explore the University of Milan DSU Scholarship in Italy. Learn about financial benefits, eligibility, required documents and application dates.",
+   "link": "https://persmind.com/en/university-of-milan-dsu-scholarship/",
+   "date": "2026-11-14",
+   "source": "Persmind"
+  },
+  {
+   "title": "Sabancı University Scholarship 2027–2028 in Turkey: Benefits, Eligibility and Application Guide",
+   "excerpt": "Explore the Sabancı University Scholarship in Turkey, including tuition waivers, eligible degrees, admission requirements, English tests",
+   "link": "https://persmind.com/en/sabanci-university-scholarship-2/",
+   "date": "2026-11-14",
+   "source": "Persmind"
+  },
+  {
+   "title": "DAAD Helmut Schmidt Scholarship 2027–2028 in Germany: Benefits, Courses and Eligibility",
+   "excerpt": "Explore the DAAD Helmut Schmidt Scholarship in Germany, including €992 monthly funding, seven eligible master’s courses, requirements",
+   "link": "https://persmind.com/en/daad-helmut-schmidt-scholarship-2/",
+   "date": "2026-11-14",
+   "source": "Persmind"
+  },
+  {
+   "title": "MEXT Scholarship 2027 in Japan: Fully Funded Study, Eligibility and Application Guide",
+   "excerpt": "Explore the MEXT Scholarship in Japan. Learn about monthly stipends, tuition coverage, undergraduate and graduate eligibility, application routes",
+   "link": "https://persmind.com/en/mext-scholarship/",
+   "date": "2026-11-14",
+   "source": "Persmind"
+  },
+  {
+   "title": "Best Scholarships by Major 2027–2028: Medicine, Engineering, Computer Science and Business",
+   "excerpt": "Discover the best scholarships by major for medicine, engineering, computer science, AI and business. Compare funding, requirements",
+   "link": "https://persmind.com/en/best-scholarships-by-major/",
+   "date": "2026-11-14",
+   "source": "Persmind"
+  },
+  {
+   "title": "Yale Peace Fellowship 2027: Funding, Eligibility, Programme Dates and Application Guide",
+   "excerpt": "Explore Yale Peace Fellowship, including programme funding, eligibility, leadership training in the USA and UK, and the closed application deadline.",
+   "link": "https://persmind.com/en/yale-peace-fellowship-2/",
+   "date": "2026-11-14",
+   "source": "Persmind"
+  },
+  {
+   "title": "GKS Undergraduate Scholarship 2027 in South Korea: Funding, Eligibility and Application Guide",
+   "excerpt": "Explore GKS Undergraduate Scholarship in South Korea, including tuition coverage, KRW 1.2 million monthly support, eligibility, deadlines",
+   "link": "https://persmind.com/en/gks-undergraduate-scholarship/",
+   "date": "2026-11-14",
+   "source": "Persmind"
+  },
   {
    "title": "Top 30 University-wide Scholarships for International Students",
    "excerpt": "University-wide scholarships are open to students in any subject or course at the university, with only a few exceptions such as medicine, law or the MBA. See 30 university-wide scholarships for international students in the UK, Europe, the USA, Canada, Australia, New Zealand and Hong Kong, from Bachelor’s to PhD level. Read more »",
@@ -445,6 +557,146 @@
    "title": "Southern African Journalists’ Fellowship Programme",
    "excerpt": "The Southern African Journalists’ Fellowship Programme 2027, supported by the Federal President Horst Köhler Bursary, offers a unique opportunity for young journalists from Southern Africa to gain experience in Germany. Organized by the International Journalists’ Programmes (IJP), this fellowship fosters cultural exchange and professional development. Applications are open from 1 November 2026 to ",
    "link": "https://www2.fundsforngos.org/individuals/southern-african-journalists-fellowship-programme-2027/",
+   "date": "2026-11-13",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Bayer Foundation Scientific Fellowships 2027 (up to €10,000)",
+   "excerpt": "Deadline: January 18, 2027 Applications are open for the Bayer Foundation Scientific Fellowships 2027. The Bayer Foundation offers scientific fellowships for outstanding master, PhD, and medical students to pursue international research projects, internships, and more, providing additional funding for international placements to enhance their study programs. People studying in Germany must underta",
+   "link": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
+   "date": "2026-11-13",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "UCD Iseult Honohan Doctoral Scholarship 2027 (Fully-funded)",
+   "excerpt": "Deadline: January 15, 2027 Applications are open for the UCD Iseult Honohan Doctoral Scholarship 2027. The scholarship is named after Dr Iseult Honohan, one of the first female PhD graduates from the (then) Department of Ethics and Politics. She retired from teaching in 2015 after over 25 years of service to UCD as one of",
+   "link": "https://opportunitydesk.org/2026/11/13/ucd-iseult-honohan-doctoral-scholarship-2027/",
+   "date": "2026-11-13",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "The Bayer Foundation Scientific Fellowships 2027 for Master, PhD, and Medical Students (10.000 € grant)",
+   "excerpt": "Application Deadline: January 18, 2027. Applications are now open for the 2027 Bayer Foundation Scientific Fellowships. The Bayer Foundation offer scientific fellowships for outstanding master’s, PhD, and medical students to…",
+   "link": "https://www.opportunitiesforafricans.com/the-bayer-foundation-scientific-fellowships-2027/",
+   "date": "2026-11-13",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The WIPO IP and Women Fellowship 2027 for young professionals (CHF 6,000 monthly stipend)",
+   "excerpt": "Application Deadline: November 23rd, 2026 Applications are now open for the 2027 WIPO IP and Women Fellowship. The World Intellectual Property Organization (WIPO) IP and Women Fellowship 2027 is offering…",
+   "link": "https://www.opportunitiesforafricans.com/the-wipo-ip-and-women-fellowship-2027/",
+   "date": "2026-11-13",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "Barcelona School of Economics Master’s Scholarships and Tuition Waivers",
+   "excerpt": "2027-28 Barcelona School of Economics (BSE) Master’s scholarships and tuition waivers are open to students from any country. Waivers cover 25%, 50%, 75% or 100% of tuition fees, and a few fully funded scholarships also include a stipend, for a one-year Master’s in economics, finance or data science in Barcelona, Spain. Apply by 15 January 2027 to be considered for all funding. Read more »",
+   "link": "https://www.scholars4dev.com/barcelona-gse-tuition-fee-waivers-for-masters-degree-programs/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 50 International Scholarships at the World’s Top 300 Universities",
+   "excerpt": "Do you want to study at one of the world’s top universities? See 50 scholarships offered by universities in the top 300 of the QS World University Rankings 2027, roughly the top 1.5% of the world’s universities, including Oxford, Cambridge, Stanford, Imperial, UCL, ETH Zurich and Toronto. Read more »",
+   "link": "https://www.scholars4dev.com/international-scholarships-top-universities-world/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 10+ Distance Learning Scholarships & Tuition-Free Online Degrees/Courses",
+   "excerpt": "Stuck at home? Consider pursuing an online degree or course! Browse through the list of free online degrees/courses and scholarship-supported degrees/courses currently offered out there. Read more »",
+   "link": "https://www.scholars4dev.com/distance-learning-scholarships-for-developing-country-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 25 University Scholarships Open to ALL* International Students",
+   "excerpt": "Did you want to apply for a scholarship but find you were ineligible because of your nationality? See 25 university scholarships in the UK, Europe, the USA, Canada and Australia that are open to all international students*, from Bachelor’s to PhD level. Read more »",
+   "link": "https://www.scholars4dev.com/university-scholarships-for-all-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Edinburgh Doctoral College Scholarships",
+   "excerpt": "2027-28 Edinburgh Doctoral College Scholarships are open to UK and international students starting a PhD. The 26 scholarships cover tuition fees and a stipend at the UKRI rate for 3.5 or 4 years at the University of Edinburgh in the UK. Deadlines run from 16 November 2026 to 2 February 2027, depending on the school. Read more »",
+   "link": "https://www.scholars4dev.com/edinburgh-global-research-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Seoul National University Graduate Scholarships for Foreign Students (GSFS)",
+   "excerpt": "Seoul National University Graduate Scholarships for Foreign Students (GSFS) are open to international students admitted to a Master’s or PhD programme at SNU in South Korea, with priority for nationals of developing countries. Each scholarship covers full tuition for up to four semesters and a stipend of at least KRW 500,000 a month. You apply together with your admission application, and the call",
+   "link": "https://www.scholars4dev.com/seoul-national-university-gsfs-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 50+ International Scholarship Programs Offered Annually",
+   "excerpt": "Did you know that there are a significant number of international scholarships offered yearly? Even if you missed the scholarship deadline last year or this year, you can plan to apply to these scholarships at a later time when you are more prepared and/or more qualified. Read more »",
+   "link": "https://www.scholars4dev.com/annual-scholarships-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "List of Universities that Offer Scholarships for Developing Country Students",
+   "excerpt": "Find 17 government and donor scholarship programmes run through universities, and 13 universities with their own scholarships for students from developing countries, from the DAAD, Joint Japan/World Bank and Australia Awards scholarships to Oxford, Nottingham and Groningen. Read more »",
+   "link": "https://www.scholars4dev.com/university-scholarships-for-developing-countries/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Links to Scholarship Programs of the World’s Top 100 Universities",
+   "excerpt": "scholars4dev.com links to the main scholarship programmes for international students at 51 universities ranked in the top 100 of the QS World University Rankings 2027, grouped by country, from MIT, Oxford and Cambridge to NUS, Peking University and McGill. Read more »",
+   "link": "https://www.scholars4dev.com/worlds-top-100-universities-international-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Top 15+ MBA Scholarships for International Students",
+   "excerpt": "Finding a scholarship for an MBA Degree can prove to be a challenging task but there a are a significant number to be found – over a hundred. To help prospective MBA students find these scholarships, scholars4dev.com and mbascholarships101.com compiled links to scholarship pages of top Business Schools and prepared a list of International MBA Scholarships for developing country students and women.",
+   "link": "https://www.scholars4dev.com/list-of-international-mba-scholarships-for-developing-country-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Links to Universities that offer Scholarships for International Students",
+   "excerpt": "A directory of 119 universities around the world that offer scholarships for international students, sorted from A to Z, with a link to each university’s own scholarship page and to our posts on its main scholarships. Read more »",
+   "link": "https://www.scholars4dev.com/university-scholarships-for-international-students/",
+   "date": "2026-11-13",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "University of Tokyo Summer Internship 2027 in Japan (UTSIP Kashiwa)",
+   "excerpt": "Applications are now open for the University of Tokyo Summer Internship 2027 (UTSIP Kashiwa). The University of Tokyo is offering an international research internship for undergraduate students enrolled at universities outside Japan. The 47-day program will take place from June 21 to August 6, 2027, at the university’s Kashiwa Campus in Japan. The UTSIP Kashiwa program […]",
+   "link": "https://opportunitiescorners.com/university-of-tokyo-summer-internship-2027/",
+   "date": "2026-11-13",
+   "source": "Opportunities Corners"
+  },
+  {
+   "title": "Bayer Foundation Fellowships 2026: Apply for Up to €10,000 in International Research and Internship Funding",
+   "excerpt": "Are you an outstanding master’s student, PhD candidate or medical student interested in pursuing an international research project, academic placement or internship? The Bayer Foundation Fellowships 2026 provide an opportunity for eligible students to gain international research experience and strengthen their academic and professional development through funded placements. The fellowships support",
+   "link": "https://opportunitiesforyouth.org/2026/11/13/bayer-foundation-fellowships-2026-apply-for-up-to-e10000-in-international-research-and-internship-funding/",
+   "date": "2026-11-13",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "University of Notre Dame PhD Scholarship 2027 in USA",
+   "excerpt": "Are you looking for PhD scholarships in USA? The University of Notre Dame PhD Scholarship 2027 in USA is an excellent opportunity for students interested in sustainable development. The University of Notre Dame is inviting applications for its Doctoral Program in Sustainable Development for the Fall 2027 intake. This STEM-designated PhD program prepares scholars to […]",
+   "link": "https://www.opportunitiescircle.com/university-of-notre-dame-phd-scholarship/",
+   "date": "2026-11-13",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "BI Presidential Scholarships in Norway 2027 for International Students (Fully Funded)",
+   "excerpt": "The Norwegian Business School is offering fully funded BI Presidential Scholarships to students with remarkable academic records admitted to any MSc programme at campus Oslo or campus Bergen. This scholarship is open to Norwegian and international applicants and will cover full tuition fees and a stipend for each semester, for up to two years, if […]",
+   "link": "https://www.scholarshipregion.com/bi-presidential-scholarships/",
+   "date": "2026-11-13",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Call for Proposals: Living Labs Programme (South Africa)",
+   "excerpt": "The Technology Innovation Agency (TIA), on behalf of the Department of Science, Technology and Innovation, is inviting proposals for the establishment and implementation of Living Labs in the Ehlanzeni District Municipality of Mpumalanga and the Bojanala Platinum District Municipality of the North West. The deadline for applications is 4 December 2026 at 17:00.",
+   "link": "https://www2.fundsforngos.org/innovation/living-labs-programme-call-for-proposals-in-ehlanzeni-and-bojanala/",
    "date": "2026-11-13",
    "source": "fundsforNGOs"
   },
@@ -1086,13 +1338,6 @@
    "source": "Scholars4Dev"
   },
   {
-   "title": "Top 10+ International Scholarships for Women",
-   "excerpt": "Scholarships and fellowships help women pursue higher education and research in fields such as science, engineering, business, finance, health, peace and international development. scholars4dev.com presents a list of the top 10+ international scholarships for women. Read more »",
-   "link": "https://www.scholars4dev.com/international-scholarships-for-women/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "Top 10+ PhD Scholarships for International Students",
    "excerpt": "If you are an international student, it may seem difficult to find a PhD scholarship but you’d be surprised that there are a considerable number of PhD Scholarships for international students out there. scholars4dev.com lists the Top 10 International PhD Scholarships. Read more »",
    "link": "https://www.scholars4dev.com/top-10-phd-scholarships-for-international-students/",
@@ -1168,6 +1413,13 @@
    "link": "https://www.scholarshipregion.com/e-just-ticad9-scholarship/",
    "date": "2026-11-12",
    "source": "Scholarship Region"
+  },
+  {
+   "title": "CARE Nederland Internship Climate Adaptation 2027 – Monthly €430 Reimbursement for Master’s Students in the Netherlands",
+   "excerpt": "The CARE Nederland Internship Climate Adaptation is an opportunity for Master’s students interested in climate change adaptation, climate justice, disaster risk reduction, environmental issues and international development. Hosted by the CARE Climate Justice Center (CJC) in The Hague, the internship offers practical experience supporting climate-related research, technical projects, training devel",
+   "link": "https://opportunitiesforyouth.org/2026/11/12/internship-opportunity-climate-justice-center-care-nederland/",
+   "date": "2026-11-12",
+   "source": "Opportunities for Youth"
   },
   {
    "title": "CrossCulture Programme (CCP) Fellowships Germany 2027: Fully Funded in Germany",
@@ -10618,13 +10870,6 @@
    "link": "https://www2.fundsforngos.org/individuals/one-goal-astar-graduate-scholarship-program-singapore/",
    "date": "2026-07-17",
    "source": "fundsforNGOs"
-  },
-  {
-   "title": "National Institutes of Health Fellowship Applications Open for Graduate Students and Early-Career Researchers",
-   "excerpt": "The National Institutes of Health Fellowship has opened applications for its prestigious Individual Fellowship Programs, providing…",
-   "link": "https://opportunitiesfeed.com/2026/07/16/national-institutes-of-health-fellowship/",
-   "date": "2026-07-16",
-   "source": "Opportunities Feed"
   }
  ]
 }
