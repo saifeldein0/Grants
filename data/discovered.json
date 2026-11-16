@@ -1,26 +1,313 @@
 {
- "generated": "2026-11-15T12:05:30+00:00",
+ "generated": "2026-11-16T12:53:37+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+14)",
-  "Opportunities for Africans": "ok (+53)",
-  "Scholars4Dev": "ok (+10)",
+  "Opportunity Desk": "ok (+16)",
+  "Opportunities for Africans": "ok (+55)",
+  "Scholars4Dev": "ok (+12)",
   "Opportunities Corners": "ok (+37)",
   "ProFellow": "ok (+54)",
-  "Opportunities for Youth": "ok (+1)",
+  "Opportunities for Youth": "ok (+7)",
   "After School Africa": "ok (+24)",
-  "Opportunities Feed": "ok (+12)",
-  "Opportunities Radar": "ok (+28)",
-  "Opportunities Circle": "ok (+17)",
+  "Opportunities Feed": "ok (+14)",
+  "Opportunities Radar": "ok (+27)",
+  "Opportunities Circle": "ok (+18)",
   "Opportunities Nexus": "ok (+16)",
-  "Oya Opportunities": "ok (+45)",
+  "Oya Opportunities": "failed: TimeoutError",
   "Persmind": "ok (+4)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+17)",
+  "Scholarship Region": "ok (+21)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+1)",
+  "fundsforNGOs": "ok (+19)",
   "&Purpose": "ok (+49)"
  },
  "items": [
+  {
+   "title": "American University Emerging Global Leader Scholarship",
+   "excerpt": "2027 AU Emerging Global Leader Scholarships are open to international students from diverse and underrepresented backgrounds. The full and partial scholarships are towards a Bachelor’s degree at American University in Washington DC, USA. The deadline is 15 January 2027 for courses starting Fall 2027. Read more »",
+   "link": "https://www.scholars4dev.com/american-university-scholarships-for-international-students/",
+   "date": "2026-11-16",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "University of Sydney International Stipend Scholarship (USYDIS)",
+   "excerpt": "University of Sydney International Stipend Scholarships are open to international students from all countries. The scholarships cover full tuition and a stipend of AUD 44,293 a year for a research Master’s or PhD at the University of Sydney in Australia. Deadlines are 18 December 2026 (mid-2027 start) and 10 September 2027 (2028 start). Read more »",
+   "link": "https://www.scholars4dev.com/international-scholarships-at-university-of-sydney/",
+   "date": "2026-11-16",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Swedish Institute Scholarships for Global Professionals",
+   "excerpt": "2027/28 Swedish Institute Scholarships for Global Professionals are open to citizens of 34 countries. The fully funded scholarships are towards a Master’s degree at Swedish universities. Apply for your Master’s by 15 January 2027 and for the scholarship between 8 and 24 February 2027. Courses start August 2027. Read more »",
+   "link": "https://www.scholars4dev.com/sweden-scholarships-for-international-students-from-developing-countries/",
+   "date": "2026-11-16",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "President’s PhD Scholarships at Imperial College London",
+   "excerpt": "2027-28 President’s PhD Scholarships are open to high-achieving students of any nationality. The scholarships are towards a PhD in any faculty at Imperial College London in the UK and cover full tuition fees, a stipend and research costs. Application rounds close on 2 November 2026, 11 January 2027 and 1 March 2027. PhDs start between August and November 2027. Read more »",
+   "link": "https://www.scholars4dev.com/imperial-presidents-phd-scholarships/",
+   "date": "2026-11-16",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Karsh International Scholarships at Duke University",
+   "excerpt": "2027 Karsh International Scholarships are open to international students with financial need. The scholarships are towards a Bachelor’s degree at Duke University in the USA and cover tuition, room and board, fees and three summers of funding. The Regular Decision deadline is 4 January 2027 for courses starting Fall 2027. Read more »",
+   "link": "https://www.scholars4dev.com/karsh-international-scholarships-at-duke-university/",
+   "date": "2026-11-16",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "EPFL Excellence Fellowships for Bachelor’s and Master’s Students",
+   "excerpt": "2027-28 EPFL Master Excellence Fellowships are open to outstanding students of any nationality. The fellowships pay CHF 10,000 a semester for a Master’s degree at École Polytechnique Fédérale de Lausanne in Switzerland. Your Master’s application must be validated by 15 December 2026 for courses starting September 2027. Read more »",
+   "link": "https://www.scholars4dev.com/epfl-excellence-fellowships/",
+   "date": "2026-11-16",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "International Court of Justice Judicial Fellowship Programme 2027–2028: Fully Structured Legal Research Opportunity for Recent Law Graduates Worldwide",
+   "excerpt": "The International Court of Justice (ICJ) Judicial Fellowship Programme 2027–2028 is inviting eligible universities around the world to nominate outstanding recent law graduates for an approximately ten-month professional fellowship at the principal judicial organ of the United Nations. Established to provide talented young legal graduates with practical experience in international adjudication, th",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/international-court-of-justice-judicial-fellowship-programme-2026-2027-eligibility-funding-and-application-guide/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Nigeria Sustainability Competition 2026: Apply for ₦1 Million Prize in National Student Essay Contest and Lagos Green Innovation Awards",
+   "excerpt": "The Nigeria Sustainability Competition 2026 is inviting secondary school students and schools across Nigeria to develop innovative, practical and affordable solutions to environmental challenges affecting their communities. Organised by Sterling Bank, Alt Bank, Sterling One Foundation and SDSN Nigeria, the third edition of this national sustainability initiative seeks to strengthen environmental a",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/nigeria-sustainability-competition-2026-apply-for-%e2%82%a61-million-prize-in-national-student-essay-contest-and-lagos-green-innovation-awards/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "ISTA PhD Programme 2027 Offers Salaried Research Positions With No Tuition or Application Fees",
+   "excerpt": "ISTA’s 2027 PhD application round is open for researchers interested in its scientific disciplines. The intake…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/ista-phd-programme-2027-offers-salaried-research-positions-with-no-tuition-or-application-fees/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "EMILDAI Offers Up to 12 Full Scholarships in Law, Data and AI With Tuition and €1,400 a Month",
+   "excerpt": "EMILDAI’s 2027–2029 scholarship round offers up to 12 full awards covering tuition and €1,400 a month. First-round applications close on 17 January 2027.",
+   "link": "https://opportunitiesfeed.com/2026/11/16/emildai-offers-up-to-12-full-scholarships-in-law-data-and-ai-with-tuition-and-e1400-a-month/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Winterthur Postdoctoral Fellowships Pay $4,500 a Month for Four Months of Museum Research",
+   "excerpt": "Winterthur Museum, Garden & Library’s postdoctoral fellowship provides $4,500 monthly for four months of advanced research…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/winterthur-postdoctoral-fellowships-pay-4500-a-month-for-four-months-of-museum-research/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Columbia University’s Italian Academy Fellowships Offer a Full-Time Salary and Health Benefits",
+   "excerpt": "Columbia University’s Italian Academy is accepting applications for its 2027–28 research fellowships. Successful scholars receive a…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/columbia-universitys-italian-academy-fellowships-offer-a-full-time-salary-and-health-benefits/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Google’s 2027 Student Researcher Programme Uses One Application for DeepMind, Google Research and Google Cloud",
+   "excerpt": "Google’s 2027 Student Researcher listing lets applicants be considered across research teams including DeepMind, Google Research…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/googles-2027-student-researcher-programme-uses-one-application-for-deepmind-google-research-and-google-cloud/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "ETH Zurich Amgen Scholars Programme Offers 10 to 12 Summer Research Places for Undergraduates",
+   "excerpt": "ETH Zurich’s Amgen Scholars Programme is accepting applications for summer 2027. It offers 10 to 12…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/eth-zurich-amgen-scholars-programme-offers-10-to-12-summer-research-places-for-undergraduates/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Boehringer Ingelheim Fonds Travel Grants Help Early-Career Researchers Pay for Lab Visits and Practical Courses",
+   "excerpt": "Boehringer Ingelheim Fonds travel grants support short research visits and practical training for eligible junior scientists…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/boehringer-ingelheim-fonds-travel-grants-help-early-career-researchers-pay-for-lab-visits-and-practical-courses/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Culture Moves Europe Grants Fund Residencies for Up to Five Visiting Artists and Cultural Professionals",
+   "excerpt": "Culture Moves Europe is accepting residency-host applications for 2026–2027. Grants support projects welcoming between one and…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/culture-moves-europe-grants-fund-residencies-for-up-to-five-visiting-artists-and-cultural-professionals/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Royal Society International Collaboration Awards Offer Research Teams Up to £300,000 Over Three Years",
+   "excerpt": "The Royal Society’s International Science Partnerships Fund International Collaboration Awards are open, offering up to £300,000…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/royal-society-international-collaboration-awards-offer-research-teams-up-to-300000-over-three-years/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "MIT Knight Science Journalism Fellowships Offer $87,500 for Nine and a Half Months",
+   "excerpt": "Applications are open for MIT’s 2027–28 Knight Science Journalism Academic-Year Fellowship. Ten selected journalists will receive…",
+   "link": "https://opportunitiesfeed.com/2026/11/16/mit-knight-science-journalism-fellowships-offer-87500-for-nine-and-a-half-months/",
+   "date": "2026-11-16",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "HZDR Summer Student Program 2027 in Germany (Fully Funded)",
+   "excerpt": "Are you an international student looking for an immersive summer research experience at one of Europe’s leading research institutes through a funded summer student program? Then wait no more – the highly anticipated “HZDR Summer Student Program 2027” is now open for applications. Hosted by the Helmholtz Zentrum Dresden-Rossendorf, this prestigious summer program in Germany offers an […]",
+   "link": "https://opportunitiesradar.com/hzdr-summer-student-program-2027/",
+   "date": "2026-11-16",
+   "source": "Opportunities Radar"
+  },
+  {
+   "title": "UTRIP Summer Internship in Japan 2027 | Fully Funded",
+   "excerpt": "The UTRIP Summer Internship in Japan 2027 is an excellent opportunity for international students to pursue research and study in Tokyo for free. The University of Tokyo Research Internship Program (UTRIP) was initiated by the Graduate School of Science (GSS) at the University of Tokyo, a globally recognized research and education institution. The Summer Internship […]",
+   "link": "https://www.opportunitiescircle.com/utrip-summer-internship-in-japan/",
+   "date": "2026-11-16",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "CERN Openlab Summer Student Programme 2027 in Switzerland: Funding, Eligibility and Application Guide",
+   "excerpt": "Apply for CERN Openlab Summer Student Programme in Switzerland. Explore the CHF 94 daily allowance, nine-week internship, eligibility",
+   "link": "https://persmind.com/en/cern-openlab-summer-student-programme/",
+   "date": "2026-11-16",
+   "source": "Persmind"
+  },
+  {
+   "title": "Brunel University London Commonwealth Shared Scholarship 2027 | Fully Funded",
+   "excerpt": "Interested in studying in the UK for free? Apply for the 2027 Brunel University London Commonwealth Shared Scholarship. The Commonwealth Shared Scholarship at Brunel University London provides full tuition coverage, a monthly stipend of £2,000, family, thesis, travel, and warm clothing allowances, and several other benefits. In this post, we shall discuss the details of […]",
+   "link": "https://www.scholarshipregion.com/brunel-university-london-commonwealth-shared-scholarship/",
+   "date": "2026-11-16",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "2027 DAAD AgEcon Scholarship in Germany For Developing Countries (Fully Funded)",
+   "excerpt": "The 2027 University of Hohenheim DAAD EPOS Scholarships are funded by the German Government to support international students from developing countries seeking to pursue master’s degrees in Agricultural Economics. The DAAD EPOS Scholarships cover tuition, travel costs, accommodation, and a €11,904 living stipend per year for selected candidates. In this post, the details, requirements, benefits, [",
+   "link": "https://www.scholarshipregion.com/daad-agecon-scholarship/",
+   "date": "2026-11-16",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "2027 Egbin Powerup Internship Programme For Undergraduates | How to Apply",
+   "excerpt": "The Egbin Power Plc has announced the application for the 2027 Powerup Internship Programme for Young Nigerians. The Egbin PowerUp Internship Programme is a paid industrial training programme for eligible undergraduate students willing to gain hands-on experience. Selected students get to work and learn at the biggest single generating power station in Black Africa while […]",
+   "link": "https://www.scholarshipregion.com/egbin-powerup-internship-programme/",
+   "date": "2026-11-16",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Master Mind Ku Leven Scholarship in Belgium 2027 | Fully Funded",
+   "excerpt": "The Master Mind Ku Leven Scholarships are awarded to highly passionate international students with strong academic records to study in Belgium. The Master Mind Scholarship includes a €10,750 grant and a full tuition fee waiver for each academic year for every selected candidate. In this post, we will provide interested and qualified candidates with details, […]",
+   "link": "https://www.scholarshipregion.com/master-mind-ku-leven-scholarship/",
+   "date": "2026-11-16",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Indigenous Visual Arts Industry Support Program (Australia)",
+   "excerpt": "The Indigenous Visual Arts Industry Support (IVAIS) program offers financial grants aimed at fostering a professional and sustainable Indigenous visual arts industry in Australia. Managed by the Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, this open competitive grant round supports activities beginning in 2027 and 2028. The deadline for applica",
+   "link": "https://www2.fundsforngos.org/cat/indigenous-visual-arts-industry-support-program-open-competitive-grant/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Frei-Raum Exhibition and Gallery Funding Program in Germany",
+   "excerpt": "The Kunststiftung Sachsen-Anhalt is offering funding through the “Frei-Raum” program to support contemporary art exhibition projects. This initiative is designed to foster communication and exchange between artists and the public, particularly featuring art from Saxony-Anhalt. Applications are open until 7 June 2027, for projects commencing in the first quarter of 2028.",
+   "link": "https://www2.fundsforngos.org/arts-culture-2/frei-raum-ausstellungs-und-galerieforderung-by-kunststiftung-sachsen-anhalt/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "RFAs: Daring – Short Film Funding Program (Germany)",
+   "excerpt": "The Wage-Mutig Short Film Funding Program, offered by the Kunststiftung des Landes Sachsen-Anhalt, supports young filmmakers in the development and production of short films, including participation in film festivals. Applications are open until 7 June 2027, with funding available for projects starting from the first quarter of 2027.",
+   "link": "https://www2.fundsforngos.org/arts-culture-2/wage-mutig-short-film-funding-program-kunststiftung-des-landes-sachsen/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Emerging Investigator Grants for Plant Science, Agriculture and Food Biotechnology",
+   "excerpt": "The Novo Nordisk Foundation offers Emerging Investigator Grants for 2027, specifically targeting research in plant science, agriculture, and food biotechnology within the Nordic region. This grant aims to support upcoming research leaders in these fields, fostering sustainability in society and the environment. The application deadline is 13 January 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/emerging-investigator-grants-for-research-in-plant-science-agriculture-and/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Ascending Investigator Grants for Industrial and Environmental Biotechnology Research",
+   "excerpt": "The Novo Nordisk Foundation’s Ascending Investigator Grants aim to bolster research leadership in plant science, agriculture, and food biotechnology across the Nordic region. Offering up to DKK 12.50 million per grant, this opportunity supports groundbreaking research with a focus on sustainability. The application deadline is 13 January 2027.",
+   "link": "https://www2.fundsforngos.org/leadership/ascending-investigator-grants-for-industrial-and-environmental-biotechnology-research/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Entrepreneurship In Residence Program (India)",
+   "excerpt": "The Entrepreneurship In Residence Program 2026, launched by Chhatrapati Shahu Maharaj Research Training and Human Development Institute (SARTHI) in partnership with AIC-SEED at the Indian Institute of Science Education and Research (IISER) Pune, is now open for applications. This program offers science and tech innovators a unique opportunity to develop their deep-tech ventures with financial and ",
+   "link": "https://www2.fundsforngos.org/business-and-industry/entrepreneurship-in-residence-program-2026-for-deep-tech-innovators-in/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for 4th Alternativa Film Festival",
+   "excerpt": "The Alternativa Film Festival 2027 is inviting filmmakers from Africa, Asia, and Latin America to submit their films for its fourth edition. This year, the festival will focus on showcasing powerful stories from across the Global South, celebrating cinema that combines artistic excellence with the potential to drive social change. The deadline for submissions is 1 March 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/alternativa-film-festival-2027-open-call-for-filmmakers-from-africa-asia/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Visiting Scholar Grants in the U.S. for Research and Lecturing (Bulgaria)",
+   "excerpt": "The Fulbright Visiting Scholar Grants offer Bulgarian scholars an opportunity to conduct research and lecturing in the United States. Administered by the Bulgarian-American Commission for Educational Exchange “Fulbright,” these grants are part of a competitive program aiming to foster educational exchanges. The application deadline for the academic year 2027-28 is 4 December 2026.",
+   "link": "https://www2.fundsforngos.org/individuals/fulbright-visiting-scholar-grants-for-bulgarians-research-and-lecturing-in/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: Young Leaders Fellowship for Community Change",
+   "excerpt": "The 2027 Young Leaders Fellowship, organized by MCW Global, is now open for applications. This opportunity is designed for young individuals aged 18-26 from around the globe who are committed to creating positive change in their communities. The fellowship includes comprehensive training and mentorship in education, health, and economic security. Applications close on 3 December 2026.",
+   "link": "https://www2.fundsforngos.org/leadership/2027-young-leaders-fellowship-empowering-change-through-education-health/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for Logan Science Journalism Program",
+   "excerpt": "The Logan Science Journalism Program, hosted by the Marine Biological Laboratory (MBL), offers a unique opportunity for journalists to deepen their understanding of science. Designed for professionals in the field of journalism, the program provides hands-on experience in scientific research and communication. The application deadline for this opportunity is not specified in the source, and intere",
+   "link": "https://www2.fundsforngos.org/science/logan-science-journalism-program-at-the-marine-biological-laboratory/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Education and Awareness Grants in Denmark",
+   "excerpt": "The LEO Foundation offers Education and Awareness Grants aimed at fostering interest and skills among young individuals in Denmark within the fields of STEM (science, technology, engineering, and mathematics). These grants also aim to enhance public understanding of science, particularly related to skin health and diseases. The deadline for the first round of applications is 6 January 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/leo-foundation-education-and-awareness-grants-supporting-future/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Proposals: Vote for Policy Campaign CSO Grant (Solomon Islands)",
+   "excerpt": "The United Nations Development Programme (UNDP) invites civil society organizations (CSOs) to submit proposals for implementing the Vote for Policy campaign in Malaita, Guadalcanal, and Central Provinces of the Solomon Islands. This initiative aims to promote informed voting based on policies rather than personalities. The application deadline is 19 November 2026.",
+   "link": "https://www2.fundsforngos.org/civil-society-development/undp-call-for-proposals-implement-the-vote-for-policy-campaign-in-solomon/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for Explosive Ordnance Risk Education in the West Bank (Palestinian Territories)",
+   "excerpt": "The United Nations Office for Project Services (UNOPS) invites proposals for its Explosive Ordnance Risk Education (EORE) program in the West Bank. This initiative aims to enhance community safety and conflict protection, focusing on vulnerable groups, particularly children and youth. The grant supports activities such as community-based sessions, media campaigns, and educational material producti",
+   "link": "https://www2.fundsforngos.org/education-2/unops-grant-for-explosive-ordnance-risk-education-eore-in-the-west-bank/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for ESA Φ-LAB Grand Marathon",
+   "excerpt": "The ESA Φ-lab Grand Marathon 2026 invites innovators to use satellite imagery and artificial intelligence (AI) to address the challenge of mapping abandoned croplands in the conflict-affected Sahel region. This initiative aims to enhance food security and support humanitarian efforts. The application deadline is 15 January 2027.",
+   "link": "https://www2.fundsforngos.org/community-development-2/esa-lab-grand-marathon-2026-mapping-cropland-abandonment-in-the-sahel/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call: AgriFutures Honey Bee and Pollination Program (Australia)",
+   "excerpt": "The AgriFutures Honey Bee & Pollination Program 2026-27 is inviting preliminary research proposals to enhance the Australian honey bee industry. This initiative, managed by AgriFutures Australia, seeks to support projects that align with the industry’s strategic research priorities. Proposals must be submitted by 1pm AEDT on 10 February 2027.",
+   "link": "https://www2.fundsforngos.org/research-2/agrifutures-honey-bee-and-pollination-program-2026-27-open-call-for/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submit Applications for Maitri Fellowships Program (Australia)",
+   "excerpt": "The Maitri Fellowships 2026-27 are now open for applications. This program, offered by the Centre for Australia-India Relations, supports policy researchers in engaging with key Australian and Indian organizations to enhance academic and institutional links. The fellowships focus on geostrategic and geoeconomic policy issues, aiming to enrich public discourse on bilateral relations.",
+   "link": "https://www2.fundsforngos.org/individuals/maitri-fellowships-2026-27-strengthening-australia-india-bilateral-ties/",
+   "date": "2026-11-16",
+   "source": "fundsforNGOs"
+  },
   {
    "title": "OIST Internship in Japan (Fully Funded) (Fall 2027)",
    "excerpt": "Applications are now open for the OIST Internship in Japan for the Fall 2027 intake. The Okinawa Institute of Science and Technology (OIST) offers a fully funded internship for international students from all over the world. The internship duration ranges from 3 to 6 months and will take place from October 1, 2027, to March […]",
@@ -116,6 +403,111 @@
    "title": "Gates Cambridge Scholarship 2027–2028: Full Funding, Eligibility, Deadlines and How to Apply",
    "excerpt": "Apply for the Gates Cambridge Scholarship. Explore £23,152 annual living support, tuition coverage, eligible degrees, deadlines and application",
    "link": "https://persmind.com/en/gates-cambridge/",
+   "date": "2026-11-15",
+   "source": "Persmind"
+  },
+  {
+   "title": "KUT PhD Scholarships in Engineering for International Students",
+   "excerpt": "Kochi University of Technology Special Scholarship Program (SSP) is open to international students from all countries. The scholarship covers fees and pays 150,000 yen a month for a three-year PhD at KUT in Japan. Deadlines for April 2028 entry are 9 April 2027 and 15 October 2027. Read more »",
+   "link": "https://www.scholars4dev.com/kut-phd-scholarships-in-engineering-for-international-students/",
+   "date": "2026-11-15",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Mid Sweden University Tuition Fee Scholarships",
+   "excerpt": "Mid Sweden University Tuition Fee Scholarships are open to students from outside the EU/EEA and Switzerland who pay tuition fees. Each scholarship covers 75% of the tuition fee for selected Master’s programmes at Mid Sweden University in Sweden. In the last round, the admission deadline was 15 January 2026 and scholarship applications closed on 26 February 2026. Courses start in the autumn. Read m",
+   "link": "https://www.scholars4dev.com/mid-sweden-university-scholarships-for-international-students/",
+   "date": "2026-11-15",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "MSc Marine Geosciences Scholarships at University of Haifa",
+   "excerpt": "University of Haifa Marine Geosciences scholarships are open to international students. The scholarships cover up to 75% of tuition plus a monthly living stipend for the two-year thesis track of the MSc in Marine Geosciences in Israel. Haifa’s master’s deadlines are 15 March and 31 May, with an early deadline of 31 December. Read more »",
+   "link": "https://www.scholars4dev.com/full-tuition-scholarship-in-marine-geosciences-at-university-of-hafia/",
+   "date": "2026-11-15",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Australia Awards Fellowships",
+   "excerpt": "Australia Awards Fellowships fund short-term study, research and professional development in Australia for mid-career and senior professionals from eligible developing countries. Australian organisations apply for up to AU$34,500 per Fellow; individuals cannot apply directly. Round 21 closed on 16 January 2026 (annual), and Round 22 opens in early 2027. Read more »",
+   "link": "https://www.scholars4dev.com/australia-awards-fellowships/",
+   "date": "2026-11-15",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Lee Kong Chian President’s Graduate Fellowship for PhD at National University of Singapore",
+   "excerpt": "President’s Graduate Fellowships (Lee Kong Chian) are open to PhD applicants of all nationalities at the National University of Singapore. The fellowship covers full tuition and pays a monthly stipend of S$3,900 for international students, plus settling and airfare allowances. Deadlines follow each faculty’s PhD admission deadlines for the August and January intakes. Read more »",
+   "link": "https://www.scholars4dev.com/lee-kong-chian-graduate-scholarships-at-national-university-of-singapore/",
+   "date": "2026-11-15",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Harry Frank Guggenheim Emerging Scholar Awards for PhD Candidates",
+   "excerpt": "Harry Frank Guggenheim Emerging Scholar Awards are open to PhD candidates of any nationality at universities in any country. The awards give $25,000 for one year to help finish a dissertation on violence, in the natural or social sciences. The application portal opens on 1 January and letters of interest are due by 31 January 2027. Read more »",
+   "link": "https://www.scholars4dev.com/harry-frank-guggenheim-foundation-dissertation-fellowships/",
+   "date": "2026-11-15",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "HZDR Summer Student Program 2027 in Germany (Fully Funded)",
+   "excerpt": "Another Summer Program in Europe is now open for applications! Applications are now being accepted for the HZDR Summer Student Program 2027 in Germany, which welcomes international students from all around the world. The HZDR Summer Program will take place from July to September 2027, with participants spending approximately 8 weeks in Germany. There is […]",
+   "link": "https://opportunitiescorners.com/hzdr-summer-student-program-2027/",
+   "date": "2026-11-15",
+   "source": "Opportunities Corners"
+  },
+  {
+   "title": "2027–2028 CEGA Fellowship Program at UC Berkeley: Research Fellowship for East and West African Social Scientists",
+   "excerpt": "The 2027–2028 Center for Effective Global Action (CEGA) Fellowship Program is inviting applications from qualified researchers and practitioners from East and West Africa who want to strengthen their expertise in impact evaluation, quantitative research and evidence-based policymaking. Hosted by the Center for Effective Global Action (CEGA) at the University of California, Berkeley, the programme ",
+   "link": "https://opportunitiesforyouth.org/2026/11/15/2027-2028-cega-fellowship-program-at-uc-berkeley-research-fellowship-for-east-and-west-african-social-scientists/",
+   "date": "2026-11-15",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Oak Foundation Programme Officer Job 2026: Earn Approximately $130,000 to Advance the Prevention of Sexual Violence Against Adolescents",
+   "excerpt": "The Oak Foundation is seeking an experienced and passionate professional to join its Prevent Child Sexual Abuse Programme as a Programme Officer, with a particular focus on preventing sexual violence among adolescents. This is an exciting opportunity for an individual with a strong background in youth leadership, adolescent development, safeguarding, healthy relationships, digital safety, research",
+   "link": "https://opportunitiesforyouth.org/2026/11/15/oak-foundation-programme-officer-job-2026-earn-approximately-130000-to-advance-the-prevention-of-sexual-violence-against-adolescents/",
+   "date": "2026-11-15",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "ifa Research Programme 2026: €9,000 Research Opportunity on Culture and Foreign Policy – Apply by 30 November 2026",
+   "excerpt": "The Institute for Foreign Cultural Relations (ifa), also known as Institut für Auslandsbeziehungen, is inviting applications from qualified researchers, academics, and experts for its 2026 Research Programme on Culture and Foreign Policy. This research opportunity provides professionals with an opportunity to investigate important issues at the intersection of international cultural relations, sus",
+   "link": "https://opportunitiesforyouth.org/2026/11/15/ifa-research-programme-2026-e9000-research-opportunity-on-culture-and-foreign-policy-apply-by-30-november-2026/",
+   "date": "2026-11-15",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "APPLY FOR THE 2027 NATURE CULTURE FELLOWSHIP: GLOBAL FELLOWSHIP OFFERING $1,000–$2,000 MICRO-GRANTS AND PROFESSIONAL MENTORSHIP FOR SOCIAL AND ENVIRONMENTAL CHANGE-MAKERS",
+   "excerpt": "Applications are now open for the 2027 Nature Culture Fellowship (NCF), an international fellowship programme designed to bring together creative thinkers, community leaders, environmental advocates, artists, storytellers, cultural practitioners and other change-makers who are committed to building a more sustainable and equitable future. Organised by Kinship, the Nature Culture Fellowship explore",
+   "link": "https://opportunitiesforyouth.org/2026/11/15/apply-for-the-2027-nature-culture-fellowship-global-fellowship-offering-1000-2000-micro-grants-and-professional-mentorship-for-social-and-environmental-change-makers/",
+   "date": "2026-11-15",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "NPU President Scholarship 2027 in China | Fully Funded",
+   "excerpt": "Study in China! NPU President Scholarship 2027 is an excellent opportunity for international students to study in China on a scholarship. The Northwestern Polytechnical University offers this scholarship in China to students from all around the world. The NPU Scholarship is available for undergraduate, postgraduate and doctoral students. To attract the most exceptional international students […]",
+   "link": "https://www.opportunitiescircle.com/npu-president-scholarship-in-china/",
+   "date": "2026-11-15",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Purdue University Summer Fellowship 2027 in USA | Fully Funded",
+   "excerpt": "Are you looking for an opportunity to spend your summers in USA for free? If so, then you are in the right place. Applications are open for the Purdue University Summer Fellowship 2027 in the USA. It is a Summer Undergraduate Research Fellowship (SURF) program. The Purdue University Research fellowship is open to students from […]",
+   "link": "https://www.opportunitiescircle.com/purdue-university-summer-fellowship/",
+   "date": "2026-11-15",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Microsoft Student Ambassadors Program 2026 | Join Free with No Application and Get $150/Month Azure Credits",
+   "excerpt": "Microsoft Student Ambassadors Program 2026 – Microsoft’s global student community, now open to all degree fields with no application, no interview and no deadline. Register, complete the activities, then onboard to unlock $150 USD monthly Azure credits, Visual Studio Enterprise and Microsoft 365. Unpaid; FAQ rules include being 18+ and holding an Azure for Students account.",
+   "link": "https://opportunitiesnexus.com/microsoft-student-ambassadors-program/",
+   "date": "2026-11-15",
+   "source": "Opportunities Nexus"
+  },
+  {
+   "title": "Academic CV for Scholarships 2027: How to Write It, Essential Sections and Free Template",
+   "excerpt": "Learn how to write an academic CV for scholarships. Explore essential sections, research experience, publications, formatting tips",
+   "link": "https://persmind.com/en/academic-cv-for-scholarships/",
    "date": "2026-11-15",
    "source": "Persmind"
   },
@@ -267,6 +659,13 @@
    "source": "Opportunities Nexus"
   },
   {
+   "title": "ICRC Trainee/Associate (EU Policy Associate) Internship 2027 in Brussels, Belgium – Earn Approximately €30,000 Annually",
+   "excerpt": "The International Committee of the Red Cross (ICRC) is inviting applications for its Trainee/Associate (800789) position in Brussels, Belgium. This opportunity is designed for qualified candidates with academic backgrounds in International Relations, Political Science, Humanitarian Affairs, European Studies, or related disciplines who are interested in humanitarian diplomacy, international policy ",
+   "link": "https://opportunitiesforyouth.org/2026/11/14/icrc-humanitarian-affairs-adviser-job-2026-in-new-york-usa-earn-up-to-usd-140010-working-with-the-international-committee-of-the-red-cross/",
+   "date": "2026-11-14",
+   "source": "Opportunities for Youth"
+  },
+  {
    "title": "Top 30 University-wide Scholarships for International Students",
    "excerpt": "University-wide scholarships are open to students in any subject or course at the university, with only a few exceptions such as medicine, law or the MBA. See 30 university-wide scholarships for international students in the UK, Europe, the USA, Canada, Australia, New Zealand and Hong Kong, from Bachelor’s to PhD level. Read more »",
    "link": "https://www.scholars4dev.com/top-33-university-wide-scholarships-in-any-course-for-international-students/",
@@ -291,13 +690,6 @@
    "title": "Top 10 Scholarships in New Zealand for International Students",
    "excerpt": "Do you want to study in New Zealand in 2027? Know more about the top 10 scholarships in New Zealand for international students, from fully funded government and doctoral scholarships to university awards towards tuition fees. Read more »",
    "link": "https://www.scholars4dev.com/scholarships-in-new-zealand-for-international-students/",
-   "date": "2026-11-13",
-   "source": "Scholars4Dev"
-  },
-  {
-   "title": "Top 10 Scholarships in Denmark for International Students",
-   "excerpt": "Do you want to study in Denmark in 2027? Know more about the top 10 scholarships in Denmark for international students from outside the EU/EEA, which waive tuition fees and in many cases add a monthly grant for living costs. Read more »",
-   "link": "https://www.scholars4dev.com/scholarships-in-denmark-for-international-students/",
    "date": "2026-11-13",
    "source": "Scholars4Dev"
   },
@@ -876,13 +1268,6 @@
    "source": "Scholars4Dev"
   },
   {
-   "title": "Singapore International Graduate Award",
-   "excerpt": "SINGA awards are open to international students. The scholarships are towards a PhD in science and engineering at A*STAR research institutes and partner universities in Singapore. The next deadline is 1 December 2026 for the August 2027 intake. Read more »",
-   "link": "https://www.scholars4dev.com/singapore-international-graduate-award/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "The Canadian International Development Scholarships 2030",
    "excerpt": "The Canadian International Development Scholarships 2030 (BCDI 2030) are open to citizens of 26 eligible developing countries, mainly in Africa. The scholarships are towards training, Bachelor’s, Master’s or PhD study in Canada through projects run by Canadian colleges and universities and their partners. Deadlines vary by project. Read more »",
    "link": "https://www.scholars4dev.com/the-canadian-international-development-scholarships-2030/",
@@ -928,13 +1313,6 @@
    "title": "Lund University Global Scholarship Programme",
    "excerpt": "2027-28 Lund University Global Scholarships are open to top students from outside the EU/EEA. The scholarships cover part or all of the tuition fee for a Master’s degree (or selected Bachelor’s degrees) at Lund University in Sweden. Apply for your programme by 15 January 2027; the scholarship round usually opens in February. Read more »",
    "link": "https://www.scholars4dev.com/lund-university-scholarships-sweden/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
-   "title": "American University Emerging Global Leader Scholarship",
-   "excerpt": "2027 AU Emerging Global Leader Scholarships are open to international students from diverse and underrepresented backgrounds. The full and partial scholarships are towards a Bachelor’s degree at American University in Washington DC, USA. The deadline is 15 January 2027 for courses starting Fall 2027. Read more »",
-   "link": "https://www.scholars4dev.com/american-university-scholarships-for-international-students/",
    "date": "2026-11-12",
    "source": "Scholars4Dev"
   },
@@ -1002,23 +1380,9 @@
    "source": "Scholars4Dev"
   },
   {
-   "title": "University of Sydney International Stipend Scholarship (USYDIS)",
-   "excerpt": "University of Sydney International Stipend Scholarships are open to international students from all countries. The scholarships cover full tuition and a stipend of AUD 44,293 a year for a research Master’s or PhD at the University of Sydney in Australia. Deadlines are 18 December 2026 (mid-2027 start) and 10 September 2027 (2028 start). Read more »",
-   "link": "https://www.scholars4dev.com/international-scholarships-at-university-of-sydney/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "Australia Awards Scholarships",
    "excerpt": "Australia Awards Scholarships are open to citizens of participating developing countries in Asia, the Pacific, Africa and the Middle East. The fully funded scholarships are towards Bachelor’s, Master’s or PhD study at Australian universities in each country’s priority development areas. Applications usually open in February and close on 30 April. Read more »",
    "link": "https://www.scholars4dev.com/australia-awards-scholarships/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
-   "title": "Swedish Institute Scholarships for Global Professionals",
-   "excerpt": "2027/28 Swedish Institute Scholarships for Global Professionals are open to citizens of 34 countries. The fully funded scholarships are towards a Master’s degree at Swedish universities. Apply for your Master’s by 15 January 2027 and for the scholarship between 8 and 24 February 2027. Courses start August 2027. Read more »",
-   "link": "https://www.scholars4dev.com/sweden-scholarships-for-international-students-from-developing-countries/",
    "date": "2026-11-12",
    "source": "Scholars4Dev"
   },
@@ -1030,23 +1394,9 @@
    "source": "Scholars4Dev"
   },
   {
-   "title": "President’s PhD Scholarships at Imperial College London",
-   "excerpt": "2027-28 President’s PhD Scholarships are open to high-achieving students of any nationality. The scholarships are towards a PhD in any faculty at Imperial College London in the UK and cover full tuition fees, a stipend and research costs. Application rounds close on 2 November 2026, 11 January 2027 and 1 March 2027. PhDs start between August and November 2027. Read more »",
-   "link": "https://www.scholars4dev.com/imperial-presidents-phd-scholarships/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "Hong Kong PhD Fellowship Scheme for International Students",
    "excerpt": "2027/28 Hong Kong PhD Fellowships are open to students of any nationality. The fellowships are towards a PhD at one of the eight UGC-funded universities in Hong Kong and include a stipend of HK$344,400 a year. The deadline for initial applications is 1 December 2026 for PhDs starting around September 2027. Read more »",
    "link": "https://www.scholars4dev.com/phd-fellowships-for-international-students-in-hongkong/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
-   "title": "Karsh International Scholarships at Duke University",
-   "excerpt": "2027 Karsh International Scholarships are open to international students with financial need. The scholarships are towards a Bachelor’s degree at Duke University in the USA and cover tuition, room and board, fees and three summers of funding. The Regular Decision deadline is 4 January 2027 for courses starting Fall 2027. Read more »",
-   "link": "https://www.scholars4dev.com/karsh-international-scholarships-at-duke-university/",
    "date": "2026-11-12",
    "source": "Scholars4Dev"
   },
@@ -1285,13 +1635,6 @@
    "title": "Top 10 Scholarships in France for Foreign Students",
    "excerpt": "Do you want to study in France in 2026? Know more about the scholarships programs in France for international students like you. Read more »",
    "link": "https://www.scholars4dev.com/scholarships-france-foreign-students/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
-   "title": "Top 10+ Scholarships in the Netherlands for International Students",
-   "excerpt": "Do you want to study in the Netherlands in 2027? Know more about the top 10+ scholarships in the Netherlands for international students, from the Dutch government, international programmes and Dutch universities. Read more »",
-   "link": "https://www.scholars4dev.com/scholarships-in-netherlandsfor-international-students/",
    "date": "2026-11-12",
    "source": "Scholars4Dev"
   },
@@ -4859,6 +5202,13 @@
    "source": "fundsforNGOs"
   },
   {
+   "title": "Singapore International Graduate Award",
+   "excerpt": "SINGA awards are open to international students. The scholarships are towards a PhD in science and engineering at A*STAR research institutes and partner universities in Singapore. The next deadline is 1 December 2026 for the August 2027 intake. Read more »",
+   "link": "https://www.scholars4dev.com/singapore-international-graduate-award/",
+   "date": "2026-11-01",
+   "source": "Scholars4Dev"
+  },
+  {
    "title": "CALTECH Summer Research Program 2027 in USA (Fully Funded)",
    "excerpt": "The Applications are now open for the Caltech Summer Research Program 2027. It is a Fully Funded 10-week summer Internship for International students and US citizens. The Caltech Summer Program is a Crown Jewel of Caltech University. The Objective is to Provide Participants with an opportunity to work on a Research Project under the guidance […]",
    "link": "https://opportunitiescorners.com/caltech-summer-research-program-2027/",
@@ -5074,6 +5424,13 @@
    "link": "https://opportunitiesnexus.com/fortis-fellowship-2027/",
    "date": "2026-10-31",
    "source": "Opportunities Nexus"
+  },
+  {
+   "title": "Top 10+ Scholarships in the Netherlands for International Students",
+   "excerpt": "Do you want to study in the Netherlands in 2027? Know more about the top 10+ scholarships in the Netherlands for international students, from the Dutch government, international programmes and Dutch universities. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-netherlandsfor-international-students/",
+   "date": "2026-10-30",
+   "source": "Scholars4Dev"
   },
   {
    "title": "Global Burden of Disease (GBD) Fellowship 2027",
@@ -7384,6 +7741,13 @@
    "link": "https://www2.fundsforngos.org/leadership/cfas-master-of-science-in-health-professions-education-mastercard-foundation-scholars-program-africa/",
    "date": "2026-10-16",
    "source": "fundsforNGOs"
+  },
+  {
+   "title": "Top 10 Scholarships in Denmark for International Students",
+   "excerpt": "Do you want to study in Denmark in 2027? Know more about the top 10 scholarships in Denmark for international students from outside the EU/EEA, which waive tuition fees and in many cases add a monthly grant for living costs. Read more »",
+   "link": "https://www.scholars4dev.com/scholarships-in-denmark-for-international-students/",
+   "date": "2026-10-15",
+   "source": "Scholars4Dev"
   },
   {
    "title": "Call for Proposals – Rockefeller Foundation Cities Deliver: AI Solutions for Public Services 2026",
@@ -10032,6 +10396,13 @@
    "source": "Oya Opportunities"
   },
   {
+   "title": "Hong Kong PhD Fellowship Scheme 2027-2028 | Fully Funded",
+   "excerpt": "Opportunities Circle is here with another amazing opportunity, the Hong Kong PhD Fellowship Scheme 2027-2028, to study at top universities in Hong Kong. Fully funded scholarships in Hong Kong aim to recognize academically talented, brilliant, and motivated students who exhibit leadership qualities. People worldwide are welcome to apply for the fully funded fellowship regardless of nationality, eth",
+   "link": "https://www.opportunitiescircle.com/hong-kong-phd-fellowship-scheme/",
+   "date": "2026-09-03",
+   "source": "Opportunities Circle"
+  },
+  {
    "title": "Iliad Fellowships in Applied Mathematics for AI Safety – Fall 2026 (up to $6,000)",
    "excerpt": "Deadline: September 21, 2026 Applications are open for the Iliad Fellowships Fall 2026. Iliad is running three iterations of the Fellowship this fall. Iliad Fellows will explore mathematical approaches to AI alignment, in collaboration with established mentors with proven track records of connecting deep mathematics with empirical machine learning. Iliad Fellows will, by default, spend",
    "link": "https://opportunitydesk.org/2026/09/02/iliad-fellowships-fall-2026/",
@@ -10954,13 +11325,6 @@
    "link": "https://www.opportunitiescircle.com/university-of-leeds-online-courses/",
    "date": "2026-07-20",
    "source": "Opportunities Circle"
-  },
-  {
-   "title": "ICGEB Arturo Falaschi SMART Fellowships September 2026: Fully Funded International Research Mobility Fellowship for Early-Career Scientists",
-   "excerpt": "The ICGEB Arturo Falaschi SMART Fellowship Programme 2026 is now accepting applications from eligible researchers in ICGEB Member States. Offered by the International Centre for Genetic Engineering and Biotechnology (ICGEB), this prestigious fellowship promotes international scientific mobility by supporting researchers to undertake advanced research training in another ICGEB Member State. The fel",
-   "link": "https://opportunitiesforyouth.org/2026/07/18/icgeb-arturo-falaschi-smart-fellowships-september-2026-fully-funded-international-research-mobility-fellowship-for-early-career-scientists/",
-   "date": "2026-07-18",
-   "source": "Opportunities for Youth"
   }
  ]
 }
