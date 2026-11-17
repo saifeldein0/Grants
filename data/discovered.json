@@ -1,26 +1,180 @@
 {
- "generated": "2026-11-16T12:53:37+00:00",
+ "generated": "2026-11-17T13:34:28+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+16)",
-  "Opportunities for Africans": "ok (+55)",
-  "Scholars4Dev": "ok (+12)",
-  "Opportunities Corners": "ok (+37)",
+  "Opportunity Desk": "ok (+20)",
+  "Opportunities for Africans": "ok (+59)",
+  "Scholars4Dev": "ok (+5)",
+  "Opportunities Corners": "ok (+38)",
   "ProFellow": "ok (+54)",
-  "Opportunities for Youth": "ok (+7)",
-  "After School Africa": "ok (+24)",
-  "Opportunities Feed": "ok (+14)",
-  "Opportunities Radar": "ok (+27)",
-  "Opportunities Circle": "ok (+18)",
-  "Opportunities Nexus": "ok (+16)",
-  "Oya Opportunities": "failed: TimeoutError",
-  "Persmind": "ok (+4)",
+  "Opportunities for Youth": "failed: TimeoutError",
+  "After School Africa": "ok (+25)",
+  "Opportunities Feed": "ok (+8)",
+  "Opportunities Radar": "ok (+26)",
+  "Opportunities Circle": "ok (+16)",
+  "Opportunities Nexus": "ok (+15)",
+  "Oya Opportunities": "ok (+47)",
+  "Persmind": "ok (+5)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+21)",
+  "Scholarship Region": "ok (+20)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+19)",
+  "fundsforNGOs": "ok (+10)",
   "&Purpose": "ok (+49)"
  },
  "items": [
+  {
+   "title": "The International Court of Justice (ICJ) Judicial Fellowship Programme 2027/2028 for recent Law Graduates – The Hague, Netherlands.",
+   "excerpt": "Application Deadline: 5 February 2027. Applications are now open for the 2027/2028 International Court of Justice (ICJ) Judicial Fellowship Programme. The Judicial Fellowship Programme, formerly known as the University Traineeship Programme,…",
+   "link": "https://www.opportunitiesforafricans.com/the-international-court-of-justice-icj-judicial-fellowship-programme-2027-2028/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "Erasmus Mundus EMLE Scholarship 2027/29 (Fully Funded)",
+   "excerpt": "The Erasmus Mundus EMLE Scholarship 2027 is one of the most popular Master’s Degree Programs offered by the Erasmus Commission. EMLE Stands for the European Master in Law and Economics, a One-Year Master’s degree scholarship to be completed at least at three Universities Located in Europe and non-European countries. Final-year students can also apply for […]",
+   "link": "https://opportunitiescorners.com/erasmus-mundus-emle-scholarship-2027/",
+   "date": "2026-11-17",
+   "source": "Opportunities Corners"
+  },
+  {
+   "title": "InterMaths Erasmus Mundus Joint Master Scholarship 2027: Application Guide",
+   "excerpt": "“InterMaths – Interdisciplinary Mathematics” is a 2-Year full-time Erasmus Mundus Joint Master in Mathematical Modelling and Simulation, emphasizing interdisciplinary applications in biomedical sciences and industrial engineering. The program is offered by five European universities. Application Deadline & Key Dates: Tell Me About The Program: The InterMaths Erasmus Mundus Joint Master (EMJM) in I",
+   "link": "https://www.afterschoolafrica.com/123690/intermaths-erasmus-mundus-joint-master/",
+   "date": "2026-11-17",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Aston University Master’s Scholarships Offer Up to £5,500 in Automatic Tuition Discounts",
+   "excerpt": "Aston University’s International Community Scholarship provides eligible international master’s entrants with an automatic tuition reduction for…",
+   "link": "https://opportunitiesfeed.com/2026/11/17/aston-university-masters-scholarships/",
+   "date": "2026-11-17",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "DiMEN Fellowships Pay Up to €2,100 Monthly for One to Three Months of Research",
+   "excerpt": "The Digital Medical Ethics Network invites applications for its 2027 research fellowships in Tübingen, Germany, in…",
+   "link": "https://opportunitiesfeed.com/2026/11/17/dimen-research-fellowships/",
+   "date": "2026-11-17",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Centre for Women’s Justice Fellowship Offers a £34,600 Starting Salary and Two Years of Legal Training",
+   "excerpt": "Centre for Women’s Justice is recruiting a Justice First Fellowship trainee solicitor. Benefits The starting salary…",
+   "link": "https://opportunitiesfeed.com/2026/11/17/centre-womens-justice-fellowship/",
+   "date": "2026-11-17",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Centre for Women’s Justice Internships Provide £1,506.38 Monthly for Six Months",
+   "excerpt": "The Azra Kemal Legal Internship Programme offers two six-month placements, beginning in January and July 2027.…",
+   "link": "https://opportunitiesfeed.com/2026/11/17/centre-womens-justice-internships/",
+   "date": "2026-11-17",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Amazon Future Engineer Scholarship 2027",
+   "excerpt": "Are you looking for a top scholarship to change your life? Amazon Future Engineer Scholarship 2027 is an excellent opportunity. This international scholarship will help applicants boost the future for themselves and their community with the support of this funding. The AFE scholarship will help students start their careers in computer science, engineering and technology. […]",
+   "link": "https://www.opportunitiescircle.com/amazon-future-engineer-scholarship/",
+   "date": "2026-11-17",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "UTokyo Amgen Scholars Program in Japan 2027 | Fully Funded",
+   "excerpt": "Applications are open for the UTokyo Amgen Scholars Program in Japan 2027. The University of Tokyo wants to facilitate undergraduate students from different countries who want to pursue a profession in biology or related sciences and want to continue their graduate studies with biomedical research experience in the primary and translational sciences. Through this fully […]",
+   "link": "https://www.opportunitiescircle.com/utokyo-amgen-scholars-program-japan/",
+   "date": "2026-11-17",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "NASA Free Online Course 2027: Open Science Essentials, Certificate and How to Register",
+   "excerpt": "Explore NASA Open Science Essentials, a free two-hour online course with a certificate and digital badge. Learn about eligibility, five lessons",
+   "link": "https://persmind.com/en/nasa-free-online-course/",
+   "date": "2026-11-17",
+   "source": "Persmind"
+  },
+  {
+   "title": "UNIQLO Global Management Program 2027 in Japan: Benefits, Eligibility and Application Guide",
+   "excerpt": "Apply for UNIQLO Global Management Program in Tokyo. Explore the six-day programme, travel and hotel coverage, eligibility and February..",
+   "link": "https://persmind.com/en/uniqlo-global-management-program/",
+   "date": "2026-11-17",
+   "source": "Persmind"
+  },
+  {
+   "title": "Dubai Free AI Course 2027: One Million Prompters Training, Free Certificate and Registration Guide",
+   "excerpt": "Join Dubai’s free AI course through One Million Prompters. Learn prompt engineering online in Arabic or English and earn a free completion certificate.",
+   "link": "https://persmind.com/en/dubai-free-ai-course/",
+   "date": "2026-11-17",
+   "source": "Persmind"
+  },
+  {
+   "title": "UK Universities Offering Commonwealth Shared Scholarships for 2027 Entry (Fully Funded)",
+   "excerpt": "The average annual tuition fee for an international postgraduate student in the UK is approximately £17,109, according to UCAS, although the actual cost varies depending on the university and programme. As a student from developing Commonwealth countries who wants to pursue a Master’s degree in the UK, securing funding can therefore make a significant difference. […]",
+   "link": "https://www.scholarshipregion.com/uk-universities-offering-commonwealth-shared-scholarships/",
+   "date": "2026-11-17",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "University of Birmingham Commonwealth Shared Scholarship in UK 2027 (Fully Funded)",
+   "excerpt": "The University of Birmingham Commonwealth Shared Scholarship is one of the fully funded opportunities supported by the Commonwealth Scholarship Commission (CSC) in the UK. The Commonwealth Shared Scholarship provides international applicants from developing countries with full funding that covers tuition, accommodation, a living stipend, and the full costs of visa, clothing, family, and airfare tr",
+   "link": "https://www.scholarshipregion.com/birmingham-commonwealth-shared-scholarship/",
+   "date": "2026-11-17",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "International Court of Justice (ICJ) Judicial Fellowship Programme 2027 | How To Apply",
+   "excerpt": "The International Court of Justice (ICJ) has called for applications for its 2027/28 Judicial Fellowship Programme. The International Court of Justice (ICJ) Judicial Fellowship Programme provides a traineeship programme for recent law graduates to deepen their participation in the Court’s procedures and involve them in its activities. In this post, we will highlight the details […]",
+   "link": "https://www.scholarshipregion.com/icj-judicial-fellowship-program/",
+   "date": "2026-11-17",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Open Call for Khel Connect Innovation Partnership Projects (Australia)",
+   "excerpt": "The Khel Connect Innovation Partnership Projects, led by the Australia India Institute (AII) and funded by the Australian Government Department of Education, aim to enhance sports education and innovation between Australia and India. Organizations from both countries are invited to submit expressions of interest for collaborative projects worth up to AUD $50,000. The deadline for submissions is 17",
+   "link": "https://www2.fundsforngos.org/innovation/khel-connect-innovation-partnership-projects-australia-india-sports/",
+   "date": "2026-11-17",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Volvemos a Valladolid Grant Programme for Returning Professionals (Spain)",
+   "excerpt": "Volvemos a Valladolid is a grant programme initiated by the Valladolid City Council through IdeVa, designed to aid professionals who have pursued their careers outside Castilla y León and are planning to return to Valladolid. This initiative provides financial support for relocation and settlement costs, aiming to attract skilled professionals back to the city. Application deadlines are set for 31",
+   "link": "https://www2.fundsforngos.org/individuals/return-to-valladolid-support-programme-financial-assistance-for-returning/",
+   "date": "2026-11-17",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "West Vancouver Foundation’s Scholarships (Canada)",
+   "excerpt": "The West Vancouver Foundation offers a diverse range of scholarships for students who demonstrate exceptional qualities in academics, leadership, and community service. These scholarships are designed to support emerging leaders in various fields and are awarded directly to the educational institution of the successful applicant. The application deadline is 17 January 2027.",
+   "link": "https://www2.fundsforngos.org/cat/west-vancouver-foundation-2027-scholarships-empowering-future-leaders/",
+   "date": "2026-11-17",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: Italy-AOSIS Fellowship Programme",
+   "excerpt": "The Italy-AOSIS Fellowship Program offers a unique yearlong diplomatic training opportunity for early-career professionals from Small Island Developing States (SIDS). Sponsored by the Italian Ministry of Environment and Energy Security, this fellowship is designed to equip participants with practical skills and experience in international law, policy, and science. Applications close on 20 November",
+   "link": "https://www2.fundsforngos.org/individuals/italy-aosis-fellowship-program-for-early-career-diplomats-from-sids/",
+   "date": "2026-11-17",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Science in Shorts Science Communication Programme",
+   "excerpt": "The Science in Shorts program, organized by Springer Nature in collaboration with Merck, invites researchers worldwide to present their work through a 1-minute vertical video. This initiative enhances visibility beyond the academic community and offers participants the chance to win up to €5000. The submission deadline is 2 December 2026.",
+   "link": "https://www2.fundsforngos.org/science/science-in-shorts-global-science-communication-program-by-springer-nature/",
+   "date": "2026-11-17",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call: Humboldt Residency Programme",
+   "excerpt": "The Humboldt Residency Programme 2027 invites diverse professionals to collaborate on the annual theme, “Oceanic Horizons: The Future of Our Blue Planet.” Hosted by the Alexander von Humboldt Foundation, this programme supports transdisciplinary exploration and public communication of ocean-related challenges and solutions. Applications are due by 14 December 2026.",
+   "link": "https://www2.fundsforngos.org/individuals/humboldt-residency-programme-2027-call-for-applications-on-oceanic-horizons/",
+   "date": "2026-11-17",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Top 20 Global Fellowship Opportunities for Students, Researchers and Professionals",
+   "excerpt": "[November 2026] Explore 20 global fellowship opportunities for students, researchers, academics, and professionals. These programs offer opportunities for research, academic advancement, financial support, and professional growth across diverse disciplines. Call for Applications: Nature Culture Fellowship Program Deadline: 1 December 2026 The Nature Culture Fellowship 2027 is a transformative prog",
+   "link": "https://www2.fundsforngos.org/listing/top-20-global-fellowship-opportunities-for-students-researchers-and-professionals/",
+   "date": "2026-11-17",
+   "source": "fundsforNGOs"
+  },
   {
    "title": "American University Emerging Global Leader Scholarship",
    "excerpt": "2027 AU Emerging Global Leader Scholarships are open to international students from diverse and underrepresented backgrounds. The full and partial scholarships are towards a Bachelor’s degree at American University in Washington DC, USA. The deadline is 15 January 2027 for courses starting Fall 2027. Read more »",
@@ -309,6 +463,97 @@
    "source": "fundsforNGOs"
   },
   {
+   "title": "Yenching Academy Scholarship 2027 in China | Fully Funded",
+   "excerpt": "Yenching Academy of Peking University invites international students worldwide to apply for the Yenching Academy Scholarship for the academic year 2027. The fully funded scholarship is for international students to pursue a master’s program in China. Master’s scholarships will be awarded on merit, academic excellence, leadership, and a record of extracurricular activities. International students w",
+   "link": "https://www.opportunitiescircle.com/yenching-academy-scholarship-in-china/",
+   "date": "2026-11-16",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Zoom AI Launchpad Startup Grants 2027",
+   "excerpt": "Deadline: On Rolling Basis Applications are open for the Zoom AI Launchpad Startup Grants 2027. AI Launchpad is a grant program designed for startups building innovative products powered by artificial intelligence. They provide the resources you need to move fast, ship early, and scale confidently — including access to Zoom’s full suite of AI Services",
+   "link": "https://opportunitydesk.org/2026/11/16/zoom-ai-launchpad-startup-grants-2027/",
+   "date": "2026-11-16",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "International Court of Justice Judicial Fellowship Programme 2027-2028",
+   "excerpt": "Deadline: February 5, 2027 Applications are open for the International Court of Justice Judicial Fellowship Programme 2027-2028. The Judicial Fellowship Programme, formerly known as the University Traineeship Programme, was established in 1999 to enable recent law graduates to gain professional experience by working for the International Court of Justice. The programme aims to deepen participants’",
+   "link": "https://opportunitydesk.org/2026/11/16/icj-judicial-fellowship-2027-2028/",
+   "date": "2026-11-16",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Digispace Africa Research Fellowship 2027",
+   "excerpt": "Deadline: December 7, 2026 Are you curious about how technology is shaping Africa’s future? Do you have ideas about digital rights, emerging technologies or the policies affecting our connected societies? Apply for the Digispace Africa Research Fellowship 2027. The Digispace Africa Research Fellowship brings together emerging African researchers, professionals and changemakers to explore digital c",
+   "link": "https://opportunitydesk.org/2026/11/16/digispace-africa-research-fellowship-2027/",
+   "date": "2026-11-16",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Memorial Foundation Global Impact Fellows Program 2027",
+   "excerpt": "Deadline: November 30, 2026 Applications are invited for the Memorial Foundation Global Impact Fellows Program 2027. The Memorial Foundation’s Global Impact Fellows Program builds upon the foundation established in 2021 when they launched the Social Justice Fellows Program. This reimagined take on the development of emerging leaders leans even deeper into the legacy of Dr. Martin",
+   "link": "https://opportunitydesk.org/2026/11/16/memorial-foundation-global-impact-fellows-program-2027/",
+   "date": "2026-11-16",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "The African Forum and Network on Debt and Development (AFRODAD Internship Programme 2027 for Young African Graduates.",
+   "excerpt": "Application Deadline: November 20, 2026 Applications are now open for the 2027 AFRODAD Internship Programme. Applications are now open for the African Forum and Network on Debt and Development (AFRODAD) Internship…",
+   "link": "https://www.opportunitiesforafricans.com/the-african-forum-and-network-on-debt-and-development-afrodad-internship-programme-2027/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The Sterling Bank-Google Career Certification Program for Nigerian women (Fully Funded)",
+   "excerpt": "Application Deadline: Unspecified Applications are now open for the Sterling Bank-Google Career Certification Program. Sterling, in collaboration with Grow with Google, is helping women gain practical, job-ready skills through globally recognised…",
+   "link": "https://www.opportunitiesforafricans.com/the-sterling-bank-google-career-certification-program/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The Egbin PowerUp Internship Programme (SIWES) 2027 for young Nigerian undergraduate students.",
+   "excerpt": "Application Deadline: November 30, 2026 Applications are now open for the 2027 Egbin PowerUp Internship Programme (SIWES). The Egbin PowerUp internship programme provides practical learning opportunities for outstanding undergraduate students…",
+   "link": "https://www.opportunitiesforafricans.com/the-egbin-powerup-internship-programme-siwes-2027/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "Bayer Foundation Scientific Fellowships 2027 (Up to €10,000)",
+   "excerpt": "Bayer Foundation Scientific Fellowships 2027 (Up to €10,000) The Bayer Foundation invites applications for its 2027 Scientific Fellowships, offering financial support to talented students pursuing international research experiences in science, medicine, agriculture, and healthcare. The fellowship program is designed to help Master’s, PhD, and medical students expand their research experience throu",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/bayer-foundation-scientific-fellowships-2027-up-to-e10000/",
+   "date": "2026-11-16",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "RC Trust Internship Program 2027 in Germany (Fully Funded)",
+   "excerpt": "RC Trust Internship Program 2027 in Germany (Fully Funded) The Research Center Trustworthy Data Science and Security (RC Trust) offers an international research internship for talented students, researchers, and professionals interested in trustworthy artificial intelligence and interdisciplinary research. The 2027 program provides an opportunity to work with leading researchers at partner univers",
+   "link": "https://oyaop.com/opportunity/internships/rc-trust-internship-program-2027-in-germany-fully-funded/",
+   "date": "2026-11-16",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "HZDR Summer Student Program 2027 in Germany | Paid Research Internship",
+   "excerpt": "HZDR Summer Student Program 2027 in Germany | Paid International Research Internship The HZDR Summer Student Program 2027 offers an excellent opportunity for senior undergraduate and master’s students from around the world to gain practical research experience at one of Germany’s leading scientific research centres. Organized by Helmholtz-Zentrum Dresden-Rossendorf (HZDR), the program provides an ",
+   "link": "https://oyaop.com/opportunity/internships/hzdr-summer-student-program-2027-in-germany-paid-research-internship/",
+   "date": "2026-11-16",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "University of Tokyo Summer Internship Program 2027 in Japan (UTSIP Kashiwa)",
+   "excerpt": "University of Tokyo Summer Internship Program 2027 in Japan (UTSIP Kashiwa) The University of Tokyo invites applications for its UTokyo Summer Internship Program (UTSIP Kashiwa) 2027, an international research opportunity designed for undergraduate students studying at universities outside Japan. Organized by the Graduate School of Frontier Sciences, the program provides practical research experie",
+   "link": "https://oyaop.com/opportunity/internships/university-of-tokyo-summer-internship-program-2027-in-japan-utsip-kashiwa/",
+   "date": "2026-11-16",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "ECOWAS WAHO Public Health Scholarships 2027 (Fully Funded)",
+   "excerpt": "The West African Health Organisation (WAHO), in partnership with the Association Galien Africa (AGA), is inviting applications for the ECOWAS WAHO Public Health Scholarships 2026–2027. The programme offers 36 fully funded scholarships to eligible young health professionals and researchers from ECOWAS member states who wish to pursue postgraduate studies in public health. Successful applicants will",
+   "link": "https://www.scholarshipregion.com/ecowas-waho-public-health-scholarship/",
+   "date": "2026-11-16",
+   "source": "Scholarship Region"
+  },
+  {
    "title": "OIST Internship in Japan (Fully Funded) (Fall 2027)",
    "excerpt": "Applications are now open for the OIST Internship in Japan for the Fall 2027 intake. The Okinawa Institute of Science and Technology (OIST) offers a fully funded internship for international students from all over the world. The internship duration ranges from 3 to 6 months and will take place from October 1, 2027, to March […]",
    "link": "https://opportunitiescorners.com/oist-internship-in-japan-fall-2027/",
@@ -510,6 +755,20 @@
    "link": "https://persmind.com/en/academic-cv-for-scholarships/",
    "date": "2026-11-15",
    "source": "Persmind"
+  },
+  {
+   "title": "Ashoka Young Changemakers Program 2026 | Nominate Young Social Innovators",
+   "excerpt": "Ashoka Young Changemakers Program 2026 | Nominate Young Social Innovators The Ashoka Young Changemakers Program is an international leadership and social innovation initiative that identifies and supports young people who are creating meaningful positive change in their communities. Organized by Ashoka , the program brings together young changemakers who have developed original solutions to social",
+   "link": "https://oyaop.com/opportunity/exchange-programs/ashoka-young-changemakers-program-2026-nominate-young-social-innovators/",
+   "date": "2026-11-15",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "Fulbright UK Summer Institutes 2027 | Fully Funded Summer Program in the United Kingdom",
+   "excerpt": "Fulbright UK Summer Institutes 2027 | Fully Funded Summer Program in the United Kingdom The Fulbright UK Summer Institutes 2027 offer an exciting opportunity for undergraduate students to experience British culture, history, higher education, and academic life through short-term international exchange programmes at leading UK universities. Organized by the US-UK Fulbright Commission in partnership",
+   "link": "https://oyaop.com/opportunity/exchange-programs/fulbright-uk-summer-institutes-2027-fully-funded-summer-program-in-the-united-kingdom/",
+   "date": "2026-11-15",
+   "source": "Oya Opportunities"
   },
   {
    "title": "Top 10+ International Scholarships for Women",
@@ -10240,13 +10499,6 @@
    "link": "https://www2.fundsforngos.org/individuals/open-call-for-the-2nd-youth-summer-school-macedonia/",
    "date": "2026-09-07",
    "source": "fundsforNGOs"
-  },
-  {
-   "title": "Yenching Academy Scholarship 2027 in China | Fully Funded",
-   "excerpt": "Yenching Academy of Peking University invites international students worldwide to apply for the Yenching Academy Scholarship for the academic year 2027. The fully funded scholarship is for international students to pursue a master’s program in China. Master’s scholarships will be awarded on merit, academic excellence, leadership, and a record of extracurricular activities. International students w",
-   "link": "https://www.opportunitiescircle.com/yenching-academy-scholarship-in-china/",
-   "date": "2026-09-07",
-   "source": "Opportunities Circle"
   },
   {
    "title": "34 Scholarships, Fellowships, Conferences and Travel Opportunities Currently Open – September 6, 2026",
