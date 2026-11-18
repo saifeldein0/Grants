@@ -1,26 +1,152 @@
 {
- "generated": "2026-11-17T13:34:28+00:00",
+ "generated": "2026-11-18T13:07:58+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+20)",
-  "Opportunities for Africans": "ok (+59)",
+  "Opportunity Desk": "ok (+19)",
+  "Opportunities for Africans": "ok (+58)",
   "Scholars4Dev": "ok (+5)",
-  "Opportunities Corners": "ok (+38)",
-  "ProFellow": "ok (+54)",
-  "Opportunities for Youth": "failed: TimeoutError",
-  "After School Africa": "ok (+25)",
-  "Opportunities Feed": "ok (+8)",
+  "Opportunities Corners": "ok (+37)",
+  "ProFellow": "failed: HTTPError",
+  "Opportunities for Youth": "ok (+19)",
+  "After School Africa": "ok (+35)",
+  "Opportunities Feed": "failed: URLError",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "ok (+16)",
+  "Opportunities Circle": "failed: HTTPError",
   "Opportunities Nexus": "ok (+15)",
-  "Oya Opportunities": "ok (+47)",
-  "Persmind": "ok (+5)",
+  "Oya Opportunities": "ok (+43)",
+  "Persmind": "failed: HTTPError",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+20)",
-  "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+10)",
-  "&Purpose": "ok (+49)"
+  "Scholarship Region": "failed: JSONDecodeError",
+  "Greatyop": "failed: HTTPError",
+  "fundsforNGOs": "failed: HTTPError",
+  "&Purpose": "ok (+48)"
  },
  "items": [
+  {
+   "title": "Echidna Global Scholars Program 2027 (Brookings Institution Visiting Fellowship) $26,500 for Living Costs",
+   "excerpt": "Apply for the Echidna Global Scholars Program 2027–2028 at Brookings Institution. The fellowship offers $26,500 in support for education, gender equality, and policy research. Deadline is not specified on the provided official page.",
+   "link": "https://www.afterschoolafrica.com/122517/echidna-global-scholars-program-2/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "École Normale Supérieure (ENS) International Selection Scholarship 2027: Fully Funded Masters in France",
+   "excerpt": "École Normale Supérieure (ENS) International Selection Scholarships allow the most promising international students, in Science or Arts & Humanities, to pursue a three-year Master’s Degree at the University. Application Deadline: Tell Me About The Program: The École Normale Supérieure (ENS) International Selection Scholarship 2027 is a highly competitive, fully funded opportunity for outstanding i",
+   "link": "https://www.afterschoolafrica.com/78691/ens-selection-scholarship/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Ocean Culture Storytelling Grants 2027: Apply for Up to £5,000 to Fund Film, Photography, Writing and Ocean Conservation Stories Worldwide",
+   "excerpt": "Creative storytellers, filmmakers, photographers, writers, illustrators, audio producers and ocean conservation advocates have an exciting opportunity to secure funding through the Ocean Culture Storytelling Grants Programme 2027. Ocean Culture has opened applications for its 2027 Storytelling Grants Programme, an initiative designed to support creative individuals who want to tell compelling stor",
+   "link": "https://opportunitiesforyouth.org/2026/11/18/ocean-culture-storytelling-grants-2027-apply-for-up-to-5000-to-fund-film-photography-writing-and-ocean-conservation-stories-worldwide/",
+   "date": "2026-11-18",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Wings to Fly – Promotion of Young People Through TVET Scholarships Program 2026 in Kenya",
+   "excerpt": "Empowering Kenya’s Youth Through Technical and Vocational Education The Government of Kenya, through the Ministry of Education’s State Department for Technical, Vocational Education and Training (TVET), in partnership with Equity Group Foundation (EGF), has launched the Wings to Fly – Promotion of Young People Through TVET Scholarships Program 2026. This initiative seeks to increase access […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/18/wings-to-fly-promotion-of-young-people-through-tvet-scholarships-program-2026-in-kenya/",
+   "date": "2026-11-18",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Columbia University Stanley Park Climate Finance Scholarships 2027: Fully Funded Tuition for Three Students in the MS in Climate Finance Programme",
+   "excerpt": "Applications are open for the Stanley Park Climate Finance Scholarships at Columbia University for the Fall 2027 intake. Offered through the Columbia Climate School, these competitive scholarships will provide full tuition coverage for three students enrolling in the inaugural cohort of the Master of Science (MS) in Climate Finance programme. The scholarship is designed to […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/18/columbia-university-ms-in-climate-finance-applications-now-open-for-a-fully-funded-masters-program/",
+   "date": "2026-11-18",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Novo Nordisk Global Graduate Programme 2027 (Paid Corporate Roles)",
+   "excerpt": "Applications are open for Novo’s Graduate Programme: a competitive, exciting experience at one of the world’s largest healthcare companies. You can apply from 16 December 2026 to 5 Jan 2027 for careers starting 1 September 2027! Application Deadline & Key Dates: Tell Me About The Program: The Novo Nordisk Global Graduate Programme 2027 is an … Read more",
+   "link": "https://www.afterschoolafrica.com/15503/novo-nordisk-global-graduate-programme/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "KU Leuven Scholarship for Africa 2027–2028 for Masters Study in Belgium",
+   "excerpt": "Apply for the World Bank Government Analytics Fellowship 2027. The deadline is November 16, 2026. Selected in-person participants from ODA-eligible countries will receive hotel, travel, and subsistence support.",
+   "link": "https://www.afterschoolafrica.com/122465/ku-leuven-scholarship-for-africa/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Bayer Foundation Scientific Fellowships 2027 (Up to €10,000) Now Open!",
+   "excerpt": "Looking to fund your international research or internship? The 2027 Bayer Foundation Fellowships offer up to €10,000 for master’s, PhD, and medical students across various scientific fields! Apply Below: Application Deadline & Key Dates: Tell Me About The Program: The Bayer Foundation Scientific Fellowships 2027 provide financial grants of up to €10,000 for outstanding Master’s, … Read more",
+   "link": "https://www.afterschoolafrica.com/94295/bayer-foundation-2025-scientific-fellowships-for-master-phd-and-medical-students-is-now-open-e10000-grant-apply-now/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "CAS-ANSO Scholarship 2027 (Master’s & PhD) in China: Fully Funded Guide",
+   "excerpt": "ANSO-CAS-TWAS/UNESCO PhD Scholarship 2027 for Developing Countries. Apply below. Application Deadline & Key Dates: Tell Me About The Program: The CAS-ANSO Scholarship (formerly the ANSO Scholarship for Young Talents) is a premier fully funded postgraduate scholarship program launched in 2019 by the Chinese Academy of Sciences (CAS) and the Alliance of International Science Organizations (ANSO). … ",
+   "link": "https://www.afterschoolafrica.com/93798/cas-anso-scholarship/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "NIAS Safe Haven Fellowship Netherlands 2027 for Scholars, Writers, Artists, and Journalists",
+   "excerpt": "The NIAS Safe Haven Fellowship offers temporary relocation and support to scholars, artists, writers, and journalists at risk due to conflict or war, enabling them to safely continue their work in the humanities or social sciences. Apply Below: Application Deadline & Key Dates: Tell Me About The Program: The Safe Haven Fellowship at the Netherlands … Read more",
+   "link": "https://www.afterschoolafrica.com/92088/nias-safe-haven-fellowship-2025-invites-applications-from-scholars-writers-artists-and-journalists-funded-to-netherlands/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "NPC Limited / TotalEnergies International Scholarship (TIS) 2027–2028 Masters for Nigerians to Study in France",
+   "excerpt": "TotalEnergies International Fully Funded Master’s Degree Scholarship is for young Nigerian scholars looking to study for their master’s degree programs in management science, engineering, and geosciences (oil and gas-related) in universities in France. Application Deadline & Key Dates: Tell Me About The Program: The NNPC Limited / TotalEnergies International Scholarship (TIS) is a prestigious full",
+   "link": "https://www.afterschoolafrica.com/92130/totalenergies-international-fully-funded-masters-degree-scholarship/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Zhejiang University (ZJU) Graduate Programs & Scholarships 2027 for International Students in China",
+   "excerpt": "The Zhejiang University (ZJU) Graduate Programs & Scholarships sponsors students who are studying at or applying to study at higher education institutions (HEIs) in Zhejiang Province. Application Deadline & Key Dates: Tell Me About The Program: Zhejiang University (ZJU) in Hangzhou, China, offers comprehensive research-oriented Master’s (2–3 years) and Doctoral (3–4 years) degree programs across …",
+   "link": "https://www.afterschoolafrica.com/47893/zhejiang-university-scholarships/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "KU Leuven Inspiring the Outstanding Scholarship 2027–2028 for International Students in Belgium (€12,000/year)",
+   "excerpt": "KU Leuven Inspiring the Outstanding Scholarship aims to make higher education accessible to students from all backgrounds, regardless of financial circumstances. This scholarship is for outstanding students who wish to pursue their education in Belgium. Application Deadline & Key Dates: Tell Me About The Program: The Inspiring the Outstanding Scholarship at KU Leuven in Belgium … Read more",
+   "link": "https://www.afterschoolafrica.com/107393/inspiring-the-outstanding-scholarship/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Mo Ibrahim Foundation Leadership Fellowship 2027 for African Professionals",
+   "excerpt": "The Mo Ibrahim Foundation Leadership Fellowship Program 2027 is open for applications, providing African professionals with the opportunity to enhance their leadership and governance skills at the AfDB, UNECA and ITC. Application Deadline & Key Dates: Tell Me About The Program: The 2027 Mo Ibrahim Foundation Leadership Fellowship Programme at the United Nations Economic Commission … Read more",
+   "link": "https://www.afterschoolafrica.com/99916/mo-ibrahim-foundation-leadership-fellow/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Princeton University Fung Global Fellows Program 2027–2028: How to Apply",
+   "excerpt": "The Fung Global Fellows Program Call for Applications for the 2027–2028 Academic Year is NOW OPEN Application Deadline & Key Dates: Tell Me About The Program: The Fung Global Fellows Program at the Princeton Institute for International and Regional Studies (PIIRS), Princeton University, brings together a select cohort of early-career scholars from around the world … Read more",
+   "link": "https://www.afterschoolafrica.com/41732/princeton-university-fung-global-fellows-program/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Julian Baring Scholarship 2027 at the University of Cape Town (UCT): Mining Master’s Guide",
+   "excerpt": "The Julian Baring Scholarship for Full-Time Master’s Studies at the University of Cape Town offers support of up to R180,000 for tuition and accommodation, aimed at citizens of sub-Saharan African countries pursuing engineering careers in the mining industry. Applications for 2027 are now open. Application Deadline & Key Dates: Tell Me About The Program: The … Read more",
+   "link": "https://www.afterschoolafrica.com/24751/julian-baring-scholarship/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "DAAD Heilbronn AI Fellowships 2027 in Germany – €2,800 Monthly Research Funding",
+   "excerpt": "DAAD Heilbronn AI Fellowships 2027 in Germany – €2,800 Monthly Research Funding The Heilbronn AI Fellowships are an international research funding opportunity supported through the German Academic Exchange Service (DAAD). The programme aims to attract outstanding international researchers to Germany’s growing Artificial Intelligence ecosystem in Heilbronn. The fellowship supports international doc",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/daad-heilbronn-ai-fellowships-2027-in-germany-e2800-monthly-research-funding/",
+   "date": "2026-11-18",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "International Court of Justice Judicial Fellowship Programme 2027–2028 – Fellowship in the Netherlands",
+   "excerpt": "International Court of Justice Judicial Fellowship Programme 2027–2028 – Fellowship in the Netherlands The International Court of Justice (ICJ) Judicial Fellowship Programme 2027–2028 offers exceptional young law graduates an opportunity to gain practical experience in international law at the International Court of Justice in The Hague, Netherlands. Established in 1999, the programme was formerly",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/international-court-of-justice-judicial-fellowship-programme-2027-2028-fellowship-in-the-netherlands/",
+   "date": "2026-11-18",
+   "source": "Oya Opportunities"
+  },
   {
    "title": "The International Court of Justice (ICJ) Judicial Fellowship Programme 2027/2028 for recent Law Graduates – The Hague, Netherlands.",
    "excerpt": "Application Deadline: 5 February 2027. Applications are now open for the 2027/2028 International Court of Justice (ICJ) Judicial Fellowship Programme. The Judicial Fellowship Programme, formerly known as the University Traineeship Programme,…",
@@ -174,6 +300,104 @@
    "link": "https://www2.fundsforngos.org/listing/top-20-global-fellowship-opportunities-for-students-researchers-and-professionals/",
    "date": "2026-11-17",
    "source": "fundsforNGOs"
+  },
+  {
+   "title": "DAAD Heilbronn AI Fellowship 2027 (Funded)",
+   "excerpt": "Deadline: Unspecified Applications are open for the DAAD Heilbronn AI Fellowship 2027. The Heilbronn AI Fellowship attracts outstanding international postdoctoral researchers to Heilbronn’s rapidly growing AI ecosystem. The programme supports cutting-edge AI research at institutions on the Bildungscampus Heilbronn and across the broader innovation network. Fellows benefit from a unique environment",
+   "link": "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027/",
+   "date": "2026-11-17",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "CitizensNYC Neighborhood Business Grant 2027 (up to $5,000)",
+   "excerpt": "Deadline: February 1, 2027 Are you a small business owner in NYC with a vision to uplift your community? Apply now for the CitizensNYC Neighborhood Business Grant 2027. The Neighborhood Business Grants offer up to $5,000 for initiatives your small business undertakes to positively impact your community. They fund all kinds of community-minded businesses—from barbershops",
+   "link": "https://opportunitydesk.org/2026/11/17/citizensnyc-neighborhood-business-grant-2027/",
+   "date": "2026-11-17",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "CitizensNYC Community Leaders Grant 2027 (up to $5,000)",
+   "excerpt": "Deadline: February 1, 2027 Applications are open for the CitizensNYC Community Leaders Grant 2027. Are you a New Yorker with a commitment to your community and a great idea? Apply to get funding for your idea. CitizensNYC, founded in 1975, is one of the nation’s oldest micro-funding organizations, providing financial and capacity building support to",
+   "link": "https://opportunitydesk.org/2026/11/17/citizensnyc-community-leaders-grant-2027/",
+   "date": "2026-11-17",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Knight Science Journalism Academic-Year Fellowship at MIT 2027/2028 for Science Journalists worldwide ($USD $87,500 Stipend)",
+   "excerpt": "Application Deadline: January 9, 2027. Applications are now open for the 2027/2028 Knight Science Journalism Academic-Year Fellowship. Every year, the Knight Science Journalism Program at MIT offers academic-year fellowships to 10…",
+   "link": "https://www.opportunitiesforafricans.com/knight-science-journalism-academic-year-fellowship-2027-2028/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The West African Health Organisation (WAHO) 2026/2027 Doctoral and Master’s Scholarships in Public Health.",
+   "excerpt": "Application Deadline: December 31st, 2026 Applications are now open for the 2026/2027 West African Health Organisation (WAHO) Doctoral and Master’s Scholarships. The West African Health Organisation (WAHO), in collaboration with the…",
+   "link": "https://www.opportunitiesforafricans.com/the-west-african-health-organisation-waho-2026-2027-doctoral-and-masters-scholarships-in-public-health/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The Zoom AI Launchpad Startup Grants 2027 for startups worldwide.",
+   "excerpt": "Application Deadline: Ongoing Applications are now open for the 2027 Zoom AI Launchpad Startup Grants. AI Launchpad is a grant program designed for startups building innovative products powered by artificial intelligence.…",
+   "link": "https://www.opportunitiesforafricans.com/the-zoom-ai-launchpad-startup-grants-2027-for-startups-worldwide/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "John M. Belk Impact Fellowship 2027–2028: Apply for a Paid 10-Month Fellowship in Education Policy, Research and Social Impact in North Carolina, USA",
+   "excerpt": "Are you a college or university student in North Carolina interested in education policy, public service, social impact, research, educational equity or community development? Applications are now open for the 2027–2028 John M. Belk Impact Fellowship, a paid 10-month fellowship administered by The Hunt Institute in partnership with the John M. Belk Endowment. The John […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/john-m-belk-impact-fellowship-2027-2028-apply-for-a-paid-10-month-fellowship-in-education-policy-research-and-social-impact-in-north-carolina-usa/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "DAAD Heilbronn AI Fellowships 2026/2027: €2,800 Monthly Funding for International AI PhD Researchers and Postdoctoral Fellows in Germany",
+   "excerpt": "International researchers specialising in Artificial Intelligence (AI) and related disciplines have an opportunity to advance their research careers in Germany through the Heilbronn AI Fellowships, a research fellowship programme listed by the German Academic Exchange Service (DAAD). The programme is designed to attract outstanding international doctoral candidates in the final year of their PhD a",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/daad-heilbronn-ai-fellowships-2026-2027-e2800-monthly-funding-for-international-ai-phd-researchers-and-postdoctoral-fellows-in-germany/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Future of Privacy Forum (FPF) U.S. Policy Internships 2027: Apply for Summer, Fall, and Spring Internship Opportunities in Privacy, Artificial Intelligence, and Technology Policy",
+   "excerpt": "The Future of Privacy Forum (FPF) U.S. Policy Internships offer graduate-level students and qualified professionals an opportunity to gain practical experience in privacy policy, data protection, artificial intelligence, emerging technologies, and technology regulation. Through these internships, selected candidates will work alongside experienced policy professionals, contribute to research and p",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/future-of-privacy-forum-fpf-u-s-policy-internships-2027-apply-for-summer-fall-and-spring-internship-opportunities-in-privacy-artificial-intelligence-and-technology-policy/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Allbritton Journalism Institute Reporting Fellowship 2027–2029: Earn $60,000 Per Year Through a Fully Paid Two-Year Journalism Fellowship in Washington, D.C",
+   "excerpt": "Are you an aspiring journalist interested in political reporting, public policy, government, elections and investigative journalism? The Allbritton Journalism Institute (AJI) is accepting applications for its 2027–2029 Reporting Fellowship, a paid, two-year professional journalism programme designed to prepare early-career reporters for careers in the news industry. The fellowship offers selected ",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/allbritton-journalism-institute-reporting-fellowship-2027-2029-earn-60000-per-year-through-a-fully-paid-two-year-journalism-fellowship-in-washington-d-c/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "CitizensNYC Community Leaders Grants 2027: Apply for Up to $5,000 in Funding for Community Development Projects in New York City.",
+   "excerpt": "The CitizensNYC Community Leaders Grants 2027 programme is now accepting applications from New York City residents and grassroots community groups seeking financial support for initiatives that improve neighborhood life, encourage civic participation, and strengthen local leadership. Through this grant programme, eligible applicants can receive funding of up to $5,000 to develop and implement comm",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/citizensnyc-community-leaders-grants-2027-apply-for-up-to-5000-in-funding-for-community-development-projects-in-new-york-city/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
+   "excerpt": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management and Operations Support Internship at the UNDP Rome Centre in Italy. Based in Rome, this six-month, full-time internship will provide the selected candidate with an opport",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "New America Fellows Program 2028 in the USA – Apply for $15,000–$30,000 in Unrestricted Fellowship Funding for Writers, Journalists, Filmmakers and Researchers Worldwide",
+   "excerpt": "The New America Fellows Program 2028 is now accepting applications from talented writers, journalists, scholars, filmmakers, public policy analysts, researchers, and creative nonfiction storytellers who are working on ambitious projects addressing important issues affecting society. Organized by New America, a Washington, DC-based organization, the fellowship supports individuals whose research, r",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/apply-now-new-america-fellows-program-2027-fully-funded-opportunity-for-writers-journalists-scholars-thinkers/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Shaping Futures Academy 2027 in Germany and Belgium: Fully Funded African-European Sustainability Programme for Mid-Career Professionals (Apply by December 14, 2026)",
+   "excerpt": "The German Institute of Development and Sustainability (IDOS) is inviting applications for the Shaping Futures Academy 2027, an international dialogue, professional development, and training programme that brings together mid-career professionals, managers, and researchers from selected African countries and European Union (EU+) countries. The programme provides a unique opportunity for participan",
+   "link": "https://opportunitiesforyouth.org/2026/11/17/shaping-futures-academy-2027-in-germany-and-belgium-fully-funded-african-european-sustainability-programme-for-mid-career-professionals-apply-by-december-14-2026/",
+   "date": "2026-11-17",
+   "source": "Opportunities for Youth"
   },
   {
    "title": "American University Emerging Global Leader Scholarship",
@@ -554,6 +778,48 @@
    "source": "Scholarship Region"
   },
   {
+   "title": "Esade Fully Funded Master of Research (MRes) in Management Sciences 2027 in Spain | Applications Open",
+   "excerpt": "The Esade Master of Research (MRes) in Management Sciences 2027 is an excellent postgraduate research opportunity for ambitious graduates who want to pursue advanced studies, develop academic research skills, and establish an international career in academia. Offered by Esade Business School in Barcelona, Spain, this two-year, full-time program provides comprehensive training in management theorie",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/esade-fully-funded-master-of-research-mres-in-management-sciences-2027-in-spain-applications-open/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "IncuVersity 2027: Global Two-Year AI Entrepreneurship Programme in Partnership with Anthropic – Build Your Own Business or Nonprofit",
+   "excerpt": "Are you an aspiring entrepreneur, student, professional or career-changer with an idea you want to turn into a business or nonprofit organisation? Are you interested in developing practical artificial intelligence (AI) skills, building a venture and creating employment opportunities rather than relying entirely on traditional recruitment pathways? IncuVersity, in partnership with Anthropic, is off",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/incuversity-2027-global-two-year-ai-entrepreneurship-programme-in-partnership-with-anthropic-build-your-own-business-or-nonprofit/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "2027 Aspire Leaders Program: Global Leadership Development Opportunity for University Students and Emerging Leaders Worldwide",
+   "excerpt": "The 2027 Aspire Leaders Program is preparing for its next phase of growth, offering emerging leaders an opportunity to develop their leadership abilities, strengthen their professional skills, and access educational and career-development resources through the global Aspire community. Organized by Aspire Institute, the program aims to support individuals from diverse backgrounds by providing learn",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/2027-aspire-leaders-program-global-leadership-development-opportunity-for-university-students-and-emerging-leaders-worldwide/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Morris B. Abram Fellowship 2027–2028 at UN Watch – One-Year Paid Fellowship in Geneva, Switzerland or Jerusalem, Israel",
+   "excerpt": "The Morris B. Abram Fellowship 2027–2028 at UN Watch is now accepting applications from qualified recent university graduates interested in international relations, human rights, diplomacy, journalism, international law, and the work of the United Nations. This prestigious one-year fellowship offers an opportunity to gain professional experience with an internationally active non-governmental orga",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/morris-b-abram-fellowship-2027-2028-at-un-watch-one-year-paid-fellowship-in-geneva-switzerland-or-jerusalem-israel/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Arab American Leadership Program 2027: Applications Open for a Public Service Fellowship Offering a $3,000 Stipend and Career-Building Opportunities in Government and Public Policy",
+   "excerpt": "The Arab American Leadership Program (AALP) 2027 is now accepting applications from emerging leaders interested in pursuing careers in public service, government, public policy and civic leadership. Established in 2021 by the National Network for Arab American Communities (NNAAC), the programme aims to strengthen Arab American representation in decision-making institutions by developing a new gene",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/arab-american-leadership-program-2027-applications-open-for-a-public-service-fellowship-offering-a-3000-stipend-and-career-building-opportunities-in-government-and-public-policy/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "McCain Institute Junior Fellowship 2026–2027: Paid Fellowship for Undergraduate and Graduate Students in Democracy, Human Rights and International Development",
+   "excerpt": "Are you an undergraduate or graduate student interested in democracy, human rights, foreign policy and international development? The McCain Institute Junior Fellowship Program offers an opportunity to gain practical professional experience, develop subject-matter expertise and contribute to programmes addressing important global challenges. The McCain Institute, through its Junior Fellowship Prog",
+   "link": "https://opportunitiesforyouth.org/2026/11/16/mccain-institute-junior-fellowships-fully-funded/",
+   "date": "2026-11-16",
+   "source": "Opportunities for Youth"
+  },
+  {
    "title": "OIST Internship in Japan (Fully Funded) (Fall 2027)",
    "excerpt": "Applications are now open for the OIST Internship in Japan for the Fall 2027 intake. The Okinawa Institute of Science and Technology (OIST) offers a fully funded internship for international students from all over the world. The internship duration ranges from 3 to 6 months and will take place from October 1, 2027, to March […]",
    "link": "https://opportunitiescorners.com/oist-internship-in-japan-fall-2027/",
@@ -769,6 +1035,13 @@
    "link": "https://oyaop.com/opportunity/exchange-programs/fulbright-uk-summer-institutes-2027-fully-funded-summer-program-in-the-united-kingdom/",
    "date": "2026-11-15",
    "source": "Oya Opportunities"
+  },
+  {
+   "title": "APPLY FOR THE 2027 NAIROBI SUMMER SCHOOL ON CLIMATE JUSTICE (NSSCJ) COHORT VI: JOIN 500 YOUNG AFRICAN LEADERS IN ADDIS ABABA FOR CLIMATE JUSTICE TRAINING AND COP32 ENGAGEMENT",
+   "excerpt": "Applications are now open for the sixth cohort of the Nairobi Summer School on Climate Justice (NSSCJ), a flagship youth capacity-building and leadership incubation initiative of the Pan Africa Climate Justice Alliance (PACJA). The 2027 programme will bring together young climate advocates, researchers, community organisers, policymakers, students, grassroots leaders and other emerging changemaker",
+   "link": "https://opportunitiesforyouth.org/2026/11/15/nairobi-summer-school-on-climate-justice-2025-empowering-youth-for-a-just-and-sustainable-future/",
+   "date": "2026-11-15",
+   "source": "Opportunities for Youth"
   },
   {
    "title": "Top 10+ International Scholarships for Women",
@@ -4516,13 +4789,6 @@
    "source": "After School Africa"
   },
   {
-   "title": "Echidna Global Scholars Program 2027–2028 at Brookings Institution: $26,500 Fellowship for Education, Gender Equality and Policy Research",
-   "excerpt": "Apply for the Echidna Global Scholars Program 2027–2028 at Brookings Institution. The fellowship offers $26,500 in support for education, gender equality, and policy research. Deadline is not specified on the provided official page.",
-   "link": "https://www.afterschoolafrica.com/122517/echidna-global-scholars-program-2/",
-   "date": "2026-11-04",
-   "source": "After School Africa"
-  },
-  {
    "title": "Tokyo Global Partner Scholarship Program Japan 2027: Fully Funded Master’s & PhD Guide",
    "excerpt": "Applications are now open for the Tokyo Global Partner Scholarship Program, a fully funded postgraduate opportunity for international students. This scholarship supports outstanding candidates pursuing Master’s or Ph.D. degrees at TMU by covering tuition, admission fees, airfare, and a generous stipend. The Tokyo Global Partner Scholarship Program is awarded to high-achieving students who wish to ",
    "link": "https://www.afterschoolafrica.com/98972/tokyo-global-partner-scholarship-program/",
@@ -7585,13 +7851,6 @@
    "title": "Sweden Axel Adler Scholarship 2027 at University of Gothenburg: Tuition Fee Waiver for International Students",
    "excerpt": "Studying in Sweden is a longstanding aspiration for many international students, made more accessible by the Axel Adler Scholarship from the University of Gothenburg. This competitive tuition fee waiver allows exceptional students to pursue Master’s or Bachelor’s programs without tuition concerns. Application Deadline: Tell Me About The Program: The Axel Adler Scholarship at the University … Read ",
    "link": "https://www.afterschoolafrica.com/100089/axel-adler-scholarship/",
-   "date": "2026-10-21",
-   "source": "After School Africa"
-  },
-  {
-   "title": "ENS International Selection Scholarship 2027: Fully Funded Masters Degree in France",
-   "excerpt": "ENS International Selection Scholarships allows the most promising international students, either in Science or in Arts & Humanities, to follow a three-year Masters Degree at the University. Application Deadline: Tell Me About The Program: The École Normale Supérieure (ENS) International Selection Scholarship 2027 is a highly competitive, fully funded opportunity for outstanding international unde",
-   "link": "https://www.afterschoolafrica.com/78691/ens-selection-scholarship/",
    "date": "2026-10-21",
    "source": "After School Africa"
   },
@@ -11570,13 +11829,6 @@
    "link": "https://www.scholarshipregion.com/bosun-tijani-foundation-gen-ai-fellowship/",
    "date": "2026-07-21",
    "source": "Scholarship Region"
-  },
-  {
-   "title": "University of Leeds Online Courses",
-   "excerpt": "Are you looking for free online courses from one of the United Kingdom’s leading universities? The University of Leeds Online Courses offer an excellent opportunity for students, graduates, researchers, educators, and professionals to learn online from anywhere in the world. These UK online courses cover a wide range of subjects, including business, healthcare, computer science, artificial intelli",
-   "link": "https://www.opportunitiescircle.com/university-of-leeds-online-courses/",
-   "date": "2026-07-20",
-   "source": "Opportunities Circle"
   }
  ]
 }
