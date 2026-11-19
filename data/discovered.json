@@ -1,26 +1,236 @@
 {
- "generated": "2026-11-18T13:07:58+00:00",
+ "generated": "2026-11-19T13:14:06+00:00",
  "sources": {
   "Opportunity Desk": "ok (+19)",
-  "Opportunities for Africans": "ok (+58)",
+  "Opportunities for Africans": "ok (+55)",
   "Scholars4Dev": "ok (+5)",
   "Opportunities Corners": "ok (+37)",
-  "ProFellow": "failed: HTTPError",
-  "Opportunities for Youth": "ok (+19)",
-  "After School Africa": "ok (+35)",
-  "Opportunities Feed": "failed: URLError",
+  "ProFellow": "ok (+55)",
+  "Opportunities for Youth": "ok (+4)",
+  "After School Africa": "ok (+34)",
+  "Opportunities Feed": "ok (+5)",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "failed: HTTPError",
+  "Opportunities Circle": "ok (+17)",
   "Opportunities Nexus": "ok (+15)",
-  "Oya Opportunities": "ok (+43)",
-  "Persmind": "failed: HTTPError",
+  "Oya Opportunities": "ok (+44)",
+  "Persmind": "ok (+6)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "failed: JSONDecodeError",
-  "Greatyop": "failed: HTTPError",
-  "fundsforNGOs": "failed: HTTPError",
+  "Scholarship Region": "ok (+29)",
+  "Greatyop": "ok (+90)",
+  "fundsforNGOs": "ok (+28)",
   "&Purpose": "ok (+48)"
  },
  "items": [
+  {
+   "title": "Texas A&M University Scholarship 2027 in USA | Fully Funded",
+   "excerpt": "The Texas A&M University Scholarship is a fully funded graduate assistantship opportunity for prospective Master’s students. The Texas A&M University Graduate Scholarships offer up to a monthly stipend of $22,200 plus benefits (medical package available after completion of waiting period) and full tuition waiver. In this post, we will provide you with more information about […]",
+   "link": "https://www.scholarshipregion.com/texas-am-university-scholarships/",
+   "date": "2026-11-19",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "John M. Belk Impact Fellowship 2027-2028 (Paid)",
+   "excerpt": "Deadline: March 5, 2027 Applications are open for the John M. Belk Impact Fellowship 2027-2028. The John M. Belk Impact Fellowship is a 10-month (August-May), paid program that provides hands-on experience for students currently enrolled in community college, undergraduate, or graduate programs in North Carolina. Building on the success of the John M. Belk Scholarship",
+   "link": "https://opportunitydesk.org/2026/11/19/john-m-belk-impact-fellowship-2027-2028/",
+   "date": "2026-11-19",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Morris B. Abram Fellowship 2027-2028",
+   "excerpt": "Deadline: December 31, 2026 Applications are open for the Morris B. Abram Fellowship 2027-2028. The fellowship is designed to train recent college graduates. Previous UN Watch Fellows have gone on to distinguished careers in law, government, diplomacy, human rights, and journalism. UN Watch is a non-governmental organization that monitors the performance of the United Nations according",
+   "link": "https://opportunitydesk.org/2026/11/19/morris-b-abram-fellowship-2027-2028/",
+   "date": "2026-11-19",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "ESA Student Internship Programme 2027: Apply for Paid International Space Sector Internship Opportunities Across Science, Engineering, IT, Business and More",
+   "excerpt": "Are you a university student interested in gaining practical experience in the space industry and contributing to Europe’s space activities? The European Space Agency (ESA) Student Internship Programme 2027 is now open for applications, offering students an opportunity to gain valuable professional experience in an international working environment. The programme provides students with the chance ",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/esa-student-internship-programme-2027-apply-for-paid-international-space-sector-internship-opportunities-across-science-engineering-it-business-and-more/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Erase Indifference Challenge 2026: Apply for €90,000 in Awards for Innovative Projects Combating Discrimination, Hate and Social Indifference",
+   "excerpt": "The Erase Indifference Challenge 2026 is a global initiative recognising and rewarding innovative projects that are taking practical action to reduce indifference towards discrimination. The Challenge seeks to highlight existing initiatives that are creating measurable social impact, encouraging empathy, promoting diversity and inspiring individuals and communities to stand against discrimination.",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/erase-indifference-challenge-2026-apply-for-e90000-in-awards-for-innovative-projects-combating-discrimination-hate-and-social-indifference/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Aspen CE Madeleine K. Albright Leadership Award 2026: Recognizing Young Emerging Leaders Driving Positive Social Change in Central Europe",
+   "excerpt": "The Aspen CE Madeleine K. Albright Leadership Award is an annual recognition presented by the Aspen Institute Central Europe (Aspen Institute CE) to young and emerging professionals who have demonstrated exceptional leadership, social responsibility, and meaningful contributions to society. The award celebrates individuals who are making a positive difference in Central Europe through responsible ",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/aspen-ce-madeleine-k-albright-leadership-award-2026-recognizing-young-emerging-leaders-driving-positive-social-change-in-central-europe/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Stanford Doerr Postdoctoral Fellowship Offers $85,000 a Year and $10,000 in Research Support",
+   "excerpt": "Stanford Doerr offers an $85,000 annual salary, $10,000 yearly research support and postdoctoral benefits. Applications close 30 November 2026.",
+   "link": "https://opportunitiesfeed.com/2026/11/19/stanford-doerr-postdoctoral-fellowship/",
+   "date": "2026-11-19",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Stanley Park Climate Finance Scholarships 2027–2028 at Columbia University – Fully Funded Tuition Scholarship in the USA",
+   "excerpt": "Stanley Park Climate Finance Scholarships 2027–2028 at Columbia University – Fully Funded Tuition Scholarship in the USA The Stanley Park Climate Finance Scholarships are prestigious funding opportunities offered by Columbia Climate School at Columbia University, New York, USA. The scholarships support talented students pursuing the Master of Science (MS) in Climate Finance, an interdisciplinary g",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/stanley-park-climate-finance-scholarships-2027-2028-at-columbia-university-fully-funded-tuition-scholarship-in-the-usa/",
+   "date": "2026-11-19",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "French-African Foundation Young Leaders Programme 2027 – International Leadership Fellowship",
+   "excerpt": "French-AfricanFoundation Young Leaders Programme 2027 – International Leadership Fellowship The French-African Foundation Young Leaders Programme 2027 is a prestigious international leadership initiative designed to identify, connect and empower outstanding young professionals from African countries and France. Organized by the French-African Foundation, the programme provides a platform for emerg",
+   "link": "https://oyaop.com/opportunity/exchange-programs/french-african-foundation-young-leaders-programme-2027-international-leadership-fellowship/",
+   "date": "2026-11-19",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "NextGen Service Summer Policy Academy 2027 in the USA – Fully Funded Summer Programme",
+   "excerpt": "NextGen Service Summer Policy Academy 2027 in the USA – Fully Funded Summer Programme The NextGen Service Summer Policy Academy (SPA) 2027 is a three-week professional development opportunity organized by the Volcker Alliance to prepare undergraduate students for meaningful careers in public service and government. The programme brings together promising university students from different academic",
+   "link": "https://oyaop.com/opportunity/exchange-programs/nextgen-service-summer-policy-academy-2027-in-the-usa-fully-funded-summer-programme/",
+   "date": "2026-11-19",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "Imperial College London Ada Lovelace Scholarship in Computational and Data Science 2026 (Fully Funded)",
+   "excerpt": "Imperial College London (ICL) in the UK has opened applications for the fully funded Ada Lovelace PhD Scholarship in Computational and Data Science (2026). The ICL Ada Lovelace PhD Scholarship provides funding that covers tuition and an allowance as a contribution towards research and training costs for selected candidates. In this post, we will highlight […]",
+   "link": "https://www.scholarshipregion.com/ada-lovelace-scholarship/",
+   "date": "2026-11-19",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Australian National University RTP Scholarship 2027 | Fully Funded",
+   "excerpt": "The Australian National University RTP Scholarship provides funding to Universities to award scholarships to domestic and international students undertaking Higher Degree Research programs. The Australian National University Scholarship covers the full tuition costs of selected candidates including a stipend of $40,475 for personal, thesis, and child/dependent allowance. This post is a detailed ex",
+   "link": "https://www.scholarshipregion.com/australian-national-university-rtp-scholarship/",
+   "date": "2026-11-19",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "SOAS University of London Felix Scholarships in UK | Fully Funded",
+   "excerpt": "The Felix Scholarship Trust is offering fully funded postgraduate scholarships to students from developing countries to study at the SOAS University of London. The SOAS Felix Scholarships cover the full cost of tuition fees, living costs, and return airfare for selected candidates. In this post, we will highlight the details of the scholarship, its eligibility […]",
+   "link": "https://www.scholarshipregion.com/soas-university-of-london-felix-scholarship/",
+   "date": "2026-11-19",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "RFAs: Science Fellowships for Research Placements",
+   "excerpt": "The Bayer Foundation offers scientific fellowships for outstanding master, PhD, and medical students to pursue international research projects and internships. These fellowships provide up to €10,000 in funding for international placements, enhancing study programs with a unique opportunity for interdisciplinary exchange. The next application phase is from 10 November 2026 to 18 January 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/rfas-science-fellowships-for-research-placements/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Fulbright Teaching Excellence and Achievement Program (Mongolia)",
+   "excerpt": "The U.S. Embassy in Mongolia invites applications for the 2027-2028 Fulbright Teaching Excellence and Achievement (TEA) Program. This program offers Mongolian secondary-level educators a six-week professional development experience in the United States. Participants will engage in academic seminars, classroom observations, and cultural activities. The application deadline is 19 January 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/fulbright-teaching-excellence-and-achievement-program-mongolia/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Excellence Emerging Investigator Grant within Endocrinology and Metabolism – Nordic Region",
+   "excerpt": "The Excellence Emerging Investigator Grant within Endocrinology and Metabolism by Novo Nordisk Foundation offers up to DKK 12.5 million to support early-career researchers in the Nordic region. This grant aims to help researchers establish their careers and form their own research teams. The application period opens on 17 November 2026 and closes on 19 January 2027 at 2:00 pm Copenhagen time.",
+   "link": "https://www2.fundsforngos.org/individuals/excellence-emerging-investigator-grant-within-endocrinology-and-metabolism-nordic-region/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Distinguished Investigator Grant within Endocrinology and Metabolism – Nordic Region",
+   "excerpt": "The Novo Nordisk Foundation invites applications for the Ascending Investigator Grant within Endocrinology and Metabolism, targeting promising research leaders in the Nordic region. This opportunity aims to support mid-career researchers in consolidating their research groups. The application deadline is 19 January 2027, 2:00 pm (Copenhagen time).",
+   "link": "https://www2.fundsforngos.org/individuals/distinguished-investigator-grant-within-endocrinology-and-metabolism-nordic-region-2/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "RFPs: Gut Microbiota in Human Health and Disease Grant Program",
+   "excerpt": "The Biocodex Microbiota Foundation is inviting applications for its 2027 Nordics grant focused on “Gut Microbiota in Human Health and Disease.” This funding opportunity aims to support scientific research in the Nordic-Baltic region, specifically Finland, Estonia, Latvia, and Lithuania. The application deadline is 28 February 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/rfps-gut-microbiota-in-human-health-and-disease-grant-program/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "ARISC Collaborative Heritage Management Grant Program (US and Armenia)",
+   "excerpt": "The American Research Institute of the South Caucasus (ARISC) is inviting applications for the Collaborative Heritage Management Grant aimed at preserving Armenia’s archaeological and historical heritage. This initiative encourages collaboration between American and Armenian scholars to enhance heritage management practices. The deadline for this opportunity is 18 December 2026.",
+   "link": "https://www2.fundsforngos.org/individuals/arisc-collaborative-heritage-management-grant-program-us-and-armenia/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submit Nominations for Creative Colour Awards 2027",
+   "excerpt": "The Creative Colour Awards 2027 is a prestigious international competition designed to celebrate outstanding use of colour in architectural and design projects. Organized by the NIPSEA Group, the awards offer architects, designers, and property owners a platform to showcase their creative projects and gain global recognition. Submissions open on 16 November 2026 and close on 28 February 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/submit-nominations-for-creative-colour-awards-2027/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: South Caucasus Small Grant Program",
+   "excerpt": "The American Research Institute of the South Caucasus (ARISC) is offering small grants aimed at supporting research in the South Caucasus region, specifically in Armenia, Azerbaijan, and Georgia. These grants are designed to help student scholars with their research expenses. Upon completing their projects, grantees are required to deliver an ARISC-sponsored presentation in English and acknowledge",
+   "link": "https://www2.fundsforngos.org/science/apply-now-south-caucasus-small-grant-program/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Explore the South Caucasus Fellowship for U.S. Scholars (United States)",
+   "excerpt": "The American Research Institute of the South Caucasus (ARISC) invites applications for the Explore the South Caucasus Fellowship 2026-27. This fellowship supports U.S. students and scholars undertaking research in Armenia, Azerbaijan, and Georgia for the first time. Funded by the U.S. Department of State’s Bureau of Educational and Cultural Affairs, the fellowship aims to foster new research initi",
+   "link": "https://www2.fundsforngos.org/individuals/explore-the-south-caucasus-fellowship-for-u-s-scholars-united-states/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submit Applications for Short Term Research Fellowship Program (US)",
+   "excerpt": "The American Research Institute of the South Caucasus (ARISC) is offering the Short Term Research Fellowship for the 2026-27 academic year. This fellowship supports research activities in Armenia, Azerbaijan, and Georgia. The program, funded by the US Department of State’s Bureau of Educational and Cultural Affairs through the Council of American Overseas Research Centers, provides up to two month",
+   "link": "https://www2.fundsforngos.org/science/submit-applications-for-short-term-research-fellowship-program-us/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Distinguished Investigator Grant within Endocrinology and Metabolism – Nordic Region",
+   "excerpt": "The Novo Nordisk Foundation invites applications for the Distinguished Investigator Grant within Endocrinology and Metabolism, aimed at supporting exceptional professors with innovative projects in the Nordic region. This grant seeks to advance understanding of endocrinology and metabolism at both basic and clinical levels. The application deadline is 19 January 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/distinguished-investigator-grant-within-endocrinology-and-metabolism-nordic-region/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Shaping Tomorrow Through Grants for Education and Learning",
+   "excerpt": "[November 2026] Explore grants, awards, scholarships, and fellowships supporting education and learning. These opportunities cover higher education, STEM education, language preservation, teaching initiatives, and academic development. Applications open for Edified Energiser Grants Program Deadline: 22 December 2026 Edified’s Energiser Grants offer financial support for educational projects initia",
+   "link": "https://www2.fundsforngos.org/listing/shaping-tomorrow-through-grants-for-education-and-learning/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "New Exploratory Research and Discovery Programme in Denmark",
+   "excerpt": "The New Exploratory Research and Discovery (NERD) Programme 2027, offered by Novo Nordisk Fonden, aims to support ambitious researchers in the natural and technical sciences. With a focus on innovative ideas and long-term research, this programme provides up to DKK 16 million over six years to qualified principal investigators (PIs) in Denmark. Applications close on 24 February 2027 at 2:00 pm Cop",
+   "link": "https://www2.fundsforngos.org/innovation/new-exploratory-research-and-discovery-programme-in-denmark/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Mekatilili Micro-Grant Award (Kenya)",
+   "excerpt": "The Mekatilili Micro-Grant Award offers up to KES 100,000 to Kenyan innovators, makers, and problem-solvers ready to advance their projects. This opportunity, rooted in a tradition of maker culture and creative learning, supports projects ranging from prototyping to community engagement. Applications are open until 22 November 2026.",
+   "link": "https://www2.fundsforngos.org/innovation/mekatilili-micro-grant-award-kenya/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Applications: Judicial Fellowship Programme",
+   "excerpt": "The International Court of Justice (ICJ) is inviting applications for the 2027-2028 Judicial Fellowship Programme. This prestigious opportunity allows recent law graduates to gain hands-on experience in public international law by working directly with the ICJ. Sponsored by universities globally, the programme focuses on enhancing participants’ understanding of international law through practical ",
+   "link": "https://www2.fundsforngos.org/individuals/call-for-applications-judicial-fellowship-programme-2/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for EOIs: Humanitarian Diplomacy, Data and Deployment – HD3 Programme (United Kingdom)",
+   "excerpt": "The Foreign, Commonwealth & Development Office (FCDO) invites NGOs and other eligible organizations to participate in the Humanitarian Diplomacy, Data and Deployment (HD3) Programme. This initiative aims to enhance humanitarian action through strategic partnerships and improved data use. Expressions of interest are due by 11 December 2026, with full proposals required by 22 January 2027.",
+   "link": "https://www2.fundsforngos.org/individuals/call-for-eois-humanitarian-diplomacy-data-and-deployment-hd3-programme-united-kingdom/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for Urban Social Protection Programme for Safai Mitras (India)",
+   "excerpt": "The United Nations Development Programme (UNDP) has announced the Request for Proposal (RFP-114-IND-2026) for the Urban Social Protection Programme targeting Safai Mitras in the states of Himachal Pradesh, Maharashtra, and Gujarat, India. This initiative aims to enhance the social protection mechanisms for Safai Mitras, who are essential service providers in urban sanitation.",
+   "link": "https://www2.fundsforngos.org/community-development-2/open-call-for-urban-social-protection-programme-for-safai-mitras-india/",
+   "date": "2026-11-19",
+   "source": "fundsforNGOs"
+  },
   {
    "title": "Echidna Global Scholars Program 2027 (Brookings Institution Visiting Fellowship) $26,500 for Living Costs",
    "excerpt": "Apply for the Echidna Global Scholars Program 2027–2028 at Brookings Institution. The fellowship offers $26,500 in support for education, gender equality, and policy research. Deadline is not specified on the provided official page.",
@@ -146,6 +356,251 @@
    "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/international-court-of-justice-judicial-fellowship-programme-2027-2028-fellowship-in-the-netherlands/",
    "date": "2026-11-18",
    "source": "Oya Opportunities"
+  },
+  {
+   "title": "Commonwealth Shared Scholarship 2027/2028: Fully Funded UK Master’s Degree",
+   "excerpt": "Applications Are Open for the Commonwealth Shared Scholarships 2027 in the UK (Fully Funded) The Commonwealth Shared Scholarship programme, part of the Commonwealth Scholarship Commission in the UK, aligns with international development goals. The programme aims to nurture potential leaders and innovators, contributing to sustainable development and fostering international collaboration upon their",
+   "link": "https://www.afterschoolafrica.com/91164/commonwealth-shared-scholarships-in-the-uk-fully-funded/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "New America Fellows Program Class of 2028 (up to $30,000)",
+   "excerpt": "Deadline: February 1, 2027 Applications are open for the New America Fellows Program Class of 2028. The New America Fellows Program supports thinkers, creators, and storytellers whose work shapes public conversation on the defining issues of our time. Each year, they select a diverse group of writers, journalists, filmmakers, and innovators who pursue ambitious investigative",
+   "link": "https://opportunitydesk.org/2026/11/18/new-america-fellows-program-class-of-2028/",
+   "date": "2026-11-18",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Deloitte Academy Enterprise Technology & Performance Programme 2026 in Lagos",
+   "excerpt": "The Deloitte Academy’s Enterprise Technology & Performance programme equips prospective young professionals with the foundational knowledge and practical skills required to support organisations in leveraging technology to drive business performance, operational excellence, digital transformation, and sustainable growth. Application Deadline & Key Dates: Tell Me About The Program: The Deloitte Aca",
+   "link": "https://www.afterschoolafrica.com/55096/deloitte-graduate-programme/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Deloitte Cyber Academy Programme 2026 (Lagos, Nigeria): Guide & Application",
+   "excerpt": "The Deloitte Academy Cyber Security programme aims to develop talent for emerging opportunities in cybersecurity/IT. The 2027 programme offers flexible working options, promotes personal and professional development, and contributes to global service delivery. Are you ready to apply your knowledge and background to exciting new challenges? From learning to leadership, this is your chance to … Read",
+   "link": "https://www.afterschoolafrica.com/98544/deloitte-academy-cyber-security-programme/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Sterling Bank Google Career Certification Programme 2026 for Women’s Digital Training",
+   "excerpt": "Sterling, in collaboration with Grow with Google, is helping women gain practical, job-ready skills through globally recognised Google Career Certificates. Application Deadline & Key Dates: Tell Me About The Program: The Sterling Bank Google Career Certification Programme is a high-impact digital skills initiative in collaboration with Google’s Grow with Google initiative. Designed specifically fo",
+   "link": "https://www.afterschoolafrica.com/39884/sterling-bank-google-career-certification-programme/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "International Court of Justice (ICJ) Judicial Fellowship Program 2027/2028",
+   "excerpt": "International Court of Justice (ICJ) Judicial Fellowship Program: The International Court of Justice (ICJ) invites applications for the 2027/2028 Judicial Fellowship Programme. Application Deadline & Key Dates: Tell Me About The Program: The International Court of Justice (ICJ) Judicial Fellowship Programme (formerly known as the University Traineeship Programme), established in 1999, provides rec",
+   "link": "https://www.afterschoolafrica.com/100585/international-court-of-justice-icj-judicial-fellowship-program-2026-2027-the-hague/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Thammasat University International Student Recruitment (TISR) Scholarships 2027 to Study in Thailand",
+   "excerpt": "Thammasat University’s Thammasat International Student Recruitment (TISR) scholarship programme provides international applicants an opportunity for degree study in Thailand, offering scholarships from partial tuition support to full tuition waivers with a stipend. Application Deadline & Key Dates: Tell Me About The Program: The Thammasat International Student Recruitment (TISR) scholarship progra",
+   "link": "https://www.afterschoolafrica.com/90348/thammasat-international-student-recruitment-tisr/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Egbin PowerUp Internship Experience 2027: (January – June)",
+   "excerpt": "The Egbin PowerUp Internship Experience equips students to bridge the gap between theoretical knowledge and practical application, while also enhancing their skills, building their confidence, and sharpening their creativity and problem-solving abilities. Application Deadline & Key Dates: Tell Me About The Program: The Egbin PowerUp Internship Experience (SIWES) is a structured 6-month industrial ",
+   "link": "https://www.afterschoolafrica.com/107693/egbin-powerup-internship-experience/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Deloitte Academy Risk, Regulatory & Forensics (RRF) Programme 2026 (Lagos)",
+   "excerpt": "The Deloitte Academy’s Risk, Regulatory & Forensics programme equips prospective young professionals with the foundational knowledge and practical skills required to help organisations identify, assess, manage and respond to business risks, regulatory requirements, financial crime, fraud, misconduct and compliance challenges. Application Deadline & Key Dates: Tell Me About The Program: The Deloitt",
+   "link": "https://www.afterschoolafrica.com/61827/deloitte-nigeria-graduate-academy/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "University of Birmingham Commonwealth Shared Scholarships for Developing Countries 2027",
+   "excerpt": "The Commonwealth Shared Scholarship Scheme is a joint initiative between the UK Department for International Development (DFID) and UK universities, including the University of Birmingham, to jointly support scholarships for students from developing Commonwealth countries who would not otherwise be able to study in the United Kingdom. Application Deadline & Key Dates: Tell Me About … Read more",
+   "link": "https://www.afterschoolafrica.com/78946/university-of-birmingham-commonwealth-shared-scholarships/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "KU Leuven Master Mind Scholarship in Belgium 2027/2028 (Up to €10,750 in Study Grants)",
+   "excerpt": "The Flemish Ministry of Education and Training offers Master Mind Scholarships, providing a grant of €10,750 and a tuition fee waiver per academic year for exceptional international students pursuing master’s programmes in Flanders and Brussels. Eager to apply? Learn more about this scholarship below! Application Deadline & Key Dates: Tell Me About The Program: The … Read more",
+   "link": "https://www.afterschoolafrica.com/102430/master-mind-ku-leuven-scholarship/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "Maastricht University NL-High Potential Scholarship in the Netherlands 2027",
+   "excerpt": "The Maastricht University (UM) NL-High Potential Scholarship programme offers 18 full scholarships, including tuition fee waiver and monthly stipend, each academic year for highly talented students from outside the European Union (EU) who have been admitted to a master’s programme at UM. Application Deadline Tell Me About The Scholarship The NL‑High Potential Scholarship at Maastricht … Read more",
+   "link": "https://www.afterschoolafrica.com/89686/maastricht-university-nl-high-potential-scholarship/",
+   "date": "2026-11-18",
+   "source": "After School Africa"
+  },
+  {
+   "title": "RC Trust Internship 2027 in Germany | Fully Funded",
+   "excerpt": "The RC Trust Internship 2027 in Germany is an excellent internship for international students and researchers to gain practical research experience in trustworthy artificial intelligence. The Research Center Trustworthy Data Science and Security (RC Trust) invites applicants from all around the world to join its research groups for a fully funded internship in Europe. The fully funded […]",
+   "link": "https://www.opportunitiescircle.com/rc-trust-internship-in-germany/",
+   "date": "2026-11-18",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Eric Bleumink Scholarships 2027 in Netherlands | Fully Funded",
+   "excerpt": "Opportunities Circle is delighted to inform you that the Eric Bleumink Scholarships 2027 are currently accepting applications. The article will provide a complete overview of the Eric Bleumink Fund Scholarships, outlining its advantages and guiding you through the application process. The Eric Bleumink Scholarships for the academic year 2027 are prestigious scholarships designed for international ",
+   "link": "https://www.opportunitiescircle.com/eric-bleumink-scholarships-in-netherlands/",
+   "date": "2026-11-18",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Zoom AI Launchpad Startup Grants 2026–2027 – Up to $150,000 in AI Credits for Startups Worldwide",
+   "excerpt": "Zoom AI Launchpad Startup Grants 2026–2027 – Up to $150,000 in AI Credits for Startups Worldwide Zoom AI Launchpad is a global startup support programme launched by Zoom to help emerging companies develop and scale innovative Artificial Intelligence (AI) products. The programme provides selected startups with up to US$150,000 in complimentary Zoom AI Services credits, […]",
+   "link": "https://oyaop.com/opportunity/competitions-and-awards/zoom-ai-launchpad-startup-grants-2026-2027-up-to-150000-in-ai-credits-for-startups-worldwide/",
+   "date": "2026-11-18",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "HZDR Summer Student Program 2027 in Germany: Research Internship, Funding and Application Guide",
+   "excerpt": "Apply for the HZDR Summer Student Programin Dresden, Germany. Check the eight-week research internship, living allowance, housing, eligibility..",
+   "link": "https://persmind.com/en/hzdr-summer-student-program/",
+   "date": "2026-11-18",
+   "source": "Persmind"
+  },
+  {
+   "title": "UTSIP Kashiwa 2027: University of Tokyo Summer Research Internship, Funding and Application Guide",
+   "excerpt": "Explore UTSIP Kashiwa 2027 at the University of Tokyo. Check the ¥130,000 scholarship, ¥70,000 participation fee, eligibility, accommodation",
+   "link": "https://persmind.com/en/utsip-kashiwa/",
+   "date": "2026-11-18",
+   "source": "Persmind"
+  },
+  {
+   "title": "Youth Diplomacy Convention in Belgium: 100 Scholarships, Funding and Application Guide",
+   "excerpt": "Explore Youth Diplomacy Convention in Brussels, Belgium. Discover 100 scholarship seats, funding benefits, eligibility, application fees..",
+   "link": "https://persmind.com/en/youth-diplomacy-convention-in-belgium/",
+   "date": "2026-11-18",
+   "source": "Persmind"
+  },
+  {
+   "title": "Erasmus Mundus EMLE Scholarship 2027–2028: Funding, Partner Universities, Eligibility and Application",
+   "excerpt": "Apply for the Erasmus Mundus EMLE Scholarship. Explore €1,400 monthly funding, eligibility, universities, tuition, IELTS requirements",
+   "link": "https://persmind.com/en/erasmus-mundus-emle-scholarship/",
+   "date": "2026-11-18",
+   "source": "Persmind"
+  },
+  {
+   "title": "10 Courses to Study in Europe for a Career in Cybersecurity",
+   "excerpt": "Cybersecurity is a broad field that covers areas such as network security, ethical hacking, digital forensics, cryptography, information security management and software protection. According to the European Commission, the European Union faced an estimated shortage of 299,000 cybersecurity professionals in 2024. As businesses, governments and other organisations become increasingly dependent on d",
+   "link": "https://www.scholarshipregion.com/study-in-europe-for-a-career-in-cybersecurity/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Towson University Masters Scholarship in USA (Fully Funded)",
+   "excerpt": "Towson University in the United States is welcoming applications for a fully funded master’s assistantship in applied fish physiology at the Department of Biological or Environmental Science. The Towson University Masters Scholarship provides full funding and financial support that covers tuition, other benefits, and a living stipend of $23,400 per year for 2 years. In […]",
+   "link": "https://www.scholarshipregion.com/towson-university-masters-scholarship/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "2027 Zoom AI Launchpad Startup Grants ($150,000 Credits & Funding Worldwide)",
+   "excerpt": "Zoom is calling on startups worldwide to apply for its 2027 AI Launchpad Startup Grant. The Zoom AI Launchpad Startup Grant offers up to $150,000 in AI credits, technical support, fundraising, mentorship, guidance, and networking opportunities for AI startup owners. In this post, we will highlight the details of the program, its requirements, benefits, and […]",
+   "link": "https://www.scholarshipregion.com/zoom-ai-launchpad-startup-grants/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Dubai One Million Prompters Program (Free AI Course)",
+   "excerpt": "The Dubai Government is offering to teach one million individuals how to use Artificial Intelligence (AI) effectively through the One Million Prompters program. The Dubai One Million Prompters program is designed to help people develop practical knowledge of Artificial Intelligence, Generative AI, and Prompt Engineering. In this post, we will highlight what the program is […]",
+   "link": "https://www.scholarshipregion.com/dubai-government-one-million-prompters-program/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "MIT Knight Science Journalism Fellowship in USA (KSJ) 2027 | Fully Funded",
+   "excerpt": "Massachusetts Institute of Technology (MIT) in the USA is inviting applications for the 2027 Knight Science Journalism Fellowship. The MIT Knight Science Journalism (KSJ) Fellowship is fully funded. It offers a stipend of $87,500 to fellows to enable them focus entirely on the program, $5,000 travel and housing allowances, health insurance, and several learning opportunities. […]",
+   "link": "https://www.scholarshipregion.com/mit-knight-science-journalism-fellowship/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "University of Wyoming Masters Scholarship in USA 2027 | Fully Funded",
+   "excerpt": "The University of Wyoming in the United States is welcoming applications for a fully funded master’s scholarship program . The fully funded University of Wyoming Masters Scholarship offers a tuition waiver, health insurance, and an annual stipend ($20,856 /yr). In this post, we will discuss the details of the scholarship, what it requires, and how […]",
+   "link": "https://www.scholarshipregion.com/university-of-wyoming-masters-scholarship/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "European Master in Law and Economics (EMLE) 2027 Scholarship by Erasmus Mundus | Fully Funded",
+   "excerpt": "The European Master in Law and Economics (EMLE) is a fully funded Erasmus Mundus Scholarship programme for international students. The Erasmus Mundus EMLE Scholarship includes a full tuition waiver, travel and visa costs, as well as a €1,400 monthly stipend for successful candidates. In this post, the details of the scholarship will be explained, including […]",
+   "link": "https://www.scholarshipregion.com/european-master-in-law-and-economics/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "OIST Internship Program in Japan 2027 | How to Apply",
+   "excerpt": "The OIST Internship Program is currently open and accepting applications for interested and qualified candidates worldwide. The fully funded 2027 OIST Japan Internship program gives students the opportunity to gain experience in a particular laboratory or to learn a specific technique while offering stipends, accommodation, flight, and other allowances. In this post, we will discuss […]",
+   "link": "https://www.scholarshipregion.com/oist-internship-program/",
+   "date": "2026-11-18",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Russian State Scholarship Programme for Tanzanian Students",
+   "excerpt": "The Russian Government is offering scholarship opportunities for the 2027/2028 academic year. This funding initiative is aimed at supporting students from various regions, particularly those from Tanzania, to pursue higher education in Russia. The application deadline is 1 October 2026.",
+   "link": "https://www2.fundsforngos.org/individuals/russian-state-scholarship-programme-for-tanzanian-students/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Global Youth Mental Health Research Fellowship Program (Pakistan)",
+   "excerpt": "The Global Youth Mental Health Research Fellowship, provided by the Global Institute of Human Development (GIHD) in Pakistan, aims to nurture emerging leaders in youth mental health. This fellowship offers extensive training, mentorship, and research opportunities to early-career professionals in Pakistan. Applications open on 3 November 2026, with a deadline of 30 November 2026.",
+   "link": "https://www2.fundsforngos.org/individuals/global-youth-mental-health-research-fellowship-program-pakistan/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call: Knight Science Journalism Academic-Year Fellowship Program",
+   "excerpt": "The Knight Science Journalism Program at MIT offers a prestigious Academic-Year Fellowship for science journalists worldwide. This opportunity allows fellows to engage deeply with science, technology, and journalism at leading research institutions. Applications for the 2027-28 fellowship are open until 11:59 pm Eastern Time on January 9, 2027.",
+   "link": "https://www2.fundsforngos.org/science/open-call-knight-science-journalism-academic-year-fellowship-program/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Applications: Cornish Metals Community Fund (United Kingdom)",
+   "excerpt": "The Cornish Metals Community Fund, managed by the Cornwall Community Foundation, is open for applications from grassroots groups, charities, and Community Interest Companies (CICs) in the vicinity of the South Crofty mine site. This fund aims to support community projects that create long-term social value and enhance local relationships. Priority is given to initiatives serving vulnerable or unde",
+   "link": "https://www2.fundsforngos.org/community-development-2/cornish-metals-community-fund-grant-opportunity/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: Fellowship for Advancing Science Journalism in Africa and the Middle East",
+   "excerpt": "The Knight Science Journalism Program at MIT is offering the Fellowship for Advancing Science Journalism in Africa and the Middle East for the 2027-28 academic year. This prestigious fellowship aims to enhance the skills of journalists from these regions, focusing on high-quality science and health journalism. Applications are open until 11:59 pm Eastern Time, January 9, 2027.",
+   "link": "https://www2.fundsforngos.org/science/fellowship-for-advancing-science-journalism-in-africa-and-the-middle-east/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submit Applications for Hong Kong PhD Fellowship Scheme",
+   "excerpt": "The Hong Kong PhD Fellowship Scheme (HKPFS), established by the Hong Kong Research Grants Council, offers outstanding students worldwide the opportunity to pursue their doctoral studies at the Hong Kong University of Science and Technology (HKUST). The program provides a comprehensive package of financial support, including an annual stipend and tuition fee waivers. The application deadline for th",
+   "link": "https://www2.fundsforngos.org/leadership/submit-applications-for-hong-kong-phd-fellowship-scheme/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Applications: SVRI Early Career Research Fellowships",
+   "excerpt": "The Sexual Violence Research Initiative (SVRI), with the support of the Kering Foundation, is offering doctoral and postdoctoral fellowships to early-career researchers from low- and middle-income countries. These fellowships aim to enhance research capacity and leadership in studying the intersections of violence against women (VAW) and violence against children (VAC). Applications are open until",
+   "link": "https://www2.fundsforngos.org/leadership/call-for-applications-svri-early-career-research-fellowships/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for Harry Frank Guggenheim African Fellow Awards",
+   "excerpt": "The Harry Frank Guggenheim (HFG) African Fellow Awards recognize and support African doctoral candidates researching various aspects of violence on the African continent. Applications for the 2027–2028 cycle are open until 15 January 2027. These awards provide significant resources to enhance research impact and contribute to the understanding and amelioration of violence-related issues.",
+   "link": "https://www2.fundsforngos.org/individuals/open-call-for-harry-frank-guggenheim-african-fellow-awards/",
+   "date": "2026-11-18",
+   "source": "fundsforNGOs"
   },
   {
    "title": "The International Court of Justice (ICJ) Judicial Fellowship Programme 2027/2028 for recent Law Graduates – The Hague, Netherlands.",
@@ -398,6 +853,34 @@
    "link": "https://opportunitiesforyouth.org/2026/11/17/shaping-futures-academy-2027-in-germany-and-belgium-fully-funded-african-european-sustainability-programme-for-mid-career-professionals-apply-by-december-14-2026/",
    "date": "2026-11-17",
    "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Isabella Wilson on Finding Her Story Through a CIEE Study Abroad Fellowship",
+   "excerpt": "Isabella Wilson grew up in a small town in Indiana with a love of storytelling that started with books, dolls, and The Sims. That curiosity…",
+   "link": "https://www.profellow.com/interviews/isabella-wilson-on-finding-her-story-through-a-ciee-study-abroad-fellowship/",
+   "date": "2026-11-17",
+   "source": "ProFellow"
+  },
+  {
+   "title": "Knight Science Journalism Fellowship 2027 | KSJ Fellowship in USA",
+   "excerpt": "Applications are open for the Knight Science Journalism Fellowship 2027 at MIT. The KSJ fellowship program annually offers academic-year fellowships to the top 10 science journalists. The fellowship is available to journalists from all over the world. The KSJ Fellowship provides them an opportunity to explore science, technology, health, environmental reporting and the craft of […]",
+   "link": "https://www.opportunitiescircle.com/knight-science-journalism-fellowship/",
+   "date": "2026-11-17",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Top Masters Scholarships in Canada for African Students (2027)",
+   "excerpt": "Canada is a popular destination for postgraduate studies, offering internationally recognised universities, quality research opportunities and master’s programmes across fields such as engineering, public health, business, education and technology. However, studying in Canada can be expensive for international students. According to Statistics Canada’s 2026/2027 data, international graduate studen",
+   "link": "https://www.scholarshipregion.com/masters-scholarships-in-canada/",
+   "date": "2026-11-17",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Sterling Bank-Google Career Certification Program For Nigerians 2027 | How To Apply",
+   "excerpt": "Sterling Bank has partnered with the Grow with Google platform to offer career certificate programs for Nigerian women. The Sterling Bank-Google Career Certification Program seeks to help women gain practical, job-ready skills through globally recognised Google Career Certificates. In this post, we will highlight the details of the program, its eligibility requirements, benefits, and how […]",
+   "link": "https://www.scholarshipregion.com/sterling-bank-google-career-certification-program/",
+   "date": "2026-11-17",
+   "source": "Scholarship Region"
   },
   {
    "title": "American University Emerging Global Leader Scholarship",
@@ -1492,13 +1975,6 @@
    "source": "Scholarship Region"
   },
   {
-   "title": "Texas A&M University Scholarship 2027 in USA | Fully Funded",
-   "excerpt": "The Texas A&M University Scholarship is a fully funded graduate assistantship opportunity for prospective Master’s students. The Texas A&M University Graduate Scholarships offer up to a monthly stipend of $36,000 plus benefits (medical package available after completion of waiting period) and full tuition waiver. In this post, we will provide you with more information about […]",
-   "link": "https://www.scholarshipregion.com/texas-am-university-scholarships/",
-   "date": "2026-11-13",
-   "source": "Scholarship Region"
-  },
-  {
    "title": "Margaret Awards for Human by Design AI Innovation",
    "excerpt": "The Margaret Awards 2027, organized by JFD, honor women in technology under the High Patronage of the President of the French Republic. This year’s theme, “Human by Design,” seeks AI innovations that empower rather than replace human capabilities. Applications close on 15 January 2027, at midnight (Paris time).",
    "link": "https://www2.fundsforngos.org/innovation/margaret-awards-2027-recognizing-ai-innovations-human-by-design/",
@@ -2568,13 +3044,6 @@
    "link": "https://www.scholarshipregion.com/kings-college-commonwealth-shared-scholarship/",
    "date": "2026-11-11",
    "source": "Scholarship Region"
-  },
-  {
-   "title": "Commonwealth Shared Scholarship 2027/2028: Fully Funded UK Master’s Degree",
-   "excerpt": "Applications Are Open for the Commonwealth Shared Scholarships 2027 in the UK (Fully Funded) The Commonwealth Shared Scholarship programme, part of the Commonwealth Scholarship Commission in the UK, aligns with international development goals. The programme aims to nurture potential leaders and innovators, contributing to sustainable development and fostering international collaboration upon their",
-   "link": "https://www.afterschoolafrica.com/91164/commonwealth-shared-scholarships-in-the-uk-fully-funded/",
-   "date": "2026-11-11",
-   "source": "After School Africa"
   },
   {
    "title": "ANH Academy Science-Policy Fellowships 2027 (Round 3)",
@@ -11794,41 +12263,6 @@
    "link": "https://www2.fundsforngos.org/innovation/9th-african-call-for-proposals-for-malaria-drug-discovery/",
    "date": "2026-07-22",
    "source": "fundsforNGOs"
-  },
-  {
-   "title": "24 Funding, Grants and Business Opportunities for NGOs, Founders and Entrepreneurs Currently Open – July 21, 2026",
-   "excerpt": "1. Common Ground Program Opportunity & Innovation Grants 2026 (up to €4,500)The Common Ground Program Opportunity & Innovation Grants support civil society organisations, informal collectives and community-based groups working to bridge social divides and strengthen trust in the Western Balkans. The funding can be used to test promising approaches, conduct pilot activities or feasibility studies,",
-   "link": "https://opportunitydesk.org/2026/07/21/24-funding-grants-and-business-opportunities-for-ngos-founders-and-entrepreneurscurrently-open-july-21-2026/",
-   "date": "2026-07-21",
-   "source": "Opportunity Desk"
-  },
-  {
-   "title": "The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for young Nigerians (N50,000 monthly stipend)",
-   "excerpt": "Application Deadline:July 31st, 2026 Applications are now open for the Bosun Tijani Foundation Gen AI Fellowship, The ‘Bosun Tijani Foundation is offering you a chance to learn and earn in…",
-   "link": "https://www.opportunitiesforafricans.com/the-bosun-tijani-foundation-gen-ai-fellowship-cohort-2/",
-   "date": "2026-07-21",
-   "source": "Opportunities for Africans"
-  },
-  {
-   "title": "Treat Graduate School Like Professional Training, Not Just School",
-   "excerpt": "Graduate school is often seen as a stepping stone to a diploma, a dissertation, or a future career. While earning your degree is the primary…",
-   "link": "https://www.profellow.com/tips/treat-graduate-school-like-professional-training-not-just-school/",
-   "date": "2026-07-21",
-   "source": "ProFellow"
-  },
-  {
-   "title": "National Institutes of Health Graduate Program Applications Open for Biomedical Researchers Worldwide",
-   "excerpt": "The National Institutes of Health (NIH) Graduate Program is now welcoming applications from graduate students, aspiring…",
-   "link": "https://opportunitiesfeed.com/2026/07/21/national-institutes-of-health/",
-   "date": "2026-07-21",
-   "source": "Opportunities Feed"
-  },
-  {
-   "title": "Bosun Tijani Foundation Gen AI Fellowship 2026 | Fully Funded",
-   "excerpt": "The Bosun Tijani Foundation and the Ogun State Government Ministry of Education, Science and Technology, has called for applications for its 2026 Gen AI Fellowship Program. The Bosun Tijani Foundation Gen AI Fellowship offers a fully funded 6-month training program with ₦50,000 monthly stipend, a certification, and hands-on projects for selected candidates. This post contains […]",
-   "link": "https://www.scholarshipregion.com/bosun-tijani-foundation-gen-ai-fellowship/",
-   "date": "2026-07-21",
-   "source": "Scholarship Region"
   }
  ]
 }
