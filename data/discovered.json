@@ -1,26 +1,159 @@
 {
- "generated": "2026-11-19T13:14:06+00:00",
+ "generated": "2026-11-20T13:02:55+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+19)",
-  "Opportunities for Africans": "ok (+55)",
+  "Opportunity Desk": "ok (+21)",
+  "Opportunities for Africans": "ok (+59)",
   "Scholars4Dev": "ok (+5)",
   "Opportunities Corners": "ok (+37)",
-  "ProFellow": "ok (+55)",
-  "Opportunities for Youth": "ok (+4)",
-  "After School Africa": "ok (+34)",
+  "ProFellow": "ok (+56)",
+  "Opportunities for Youth": "ok (+7)",
+  "After School Africa": "ok (+0)",
   "Opportunities Feed": "ok (+5)",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "ok (+17)",
-  "Opportunities Nexus": "ok (+15)",
-  "Oya Opportunities": "ok (+44)",
-  "Persmind": "ok (+6)",
+  "Opportunities Circle": "ok (+14)",
+  "Opportunities Nexus": "failed: URLError",
+  "Oya Opportunities": "ok (+42)",
+  "Persmind": "ok (+2)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+29)",
+  "Scholarship Region": "ok (+21)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+28)",
-  "&Purpose": "ok (+48)"
+  "fundsforNGOs": "ok (+12)",
+  "&Purpose": "failed: URLError"
  },
  "items": [
+  {
+   "title": "OIST Internship Program in Japan 2027 | Fully Funded",
+   "excerpt": "Applications are open for the OIST Internship Program in Japan 2027. OIST research internship in Japan is an exciting opportunity for international students who want to become a part of research in advanced labs with cutting-edge technology. The Japan internship program will be held at the Okinawa Institute of Science and Technology, providing a chance […]",
+   "link": "https://www.opportunitiescircle.com/oist-internship-in-japan/",
+   "date": "2026-11-20",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "IAS Person-Centred Care Global Advocacy Academy 2027 (Funded)",
+   "excerpt": "Deadline: November 30, 2026 Applications are invited for the IAS Person-Centred Care Global Advocacy Academy 2027. The International AIDS Society (IAS) will award up to 20 fellowships to suitable candidates to engage in a series of interactive sessions over three days. Academy fellows will explore the evidence for, and implementation of, person-centred care for people",
+   "link": "https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027/",
+   "date": "2026-11-20",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "VBC Summer School 2027 in Vienna, Austria: Fully Funded 9-Week and 3-Month Research Programs for Bachelor’s and Master’s Students",
+   "excerpt": "The Vienna BioCenter (VBC) Summer School 2027 is now accepting applications from Bachelor’s and Master’s students interested in gaining hands-on research experience in a leading European life-sciences research environment. The program offers an opportunity for students to spend their summer working in internationally recognized research institutes in Vienna, Austria. Organized through Vienna BioCe",
+   "link": "https://opportunitiesforyouth.org/2026/11/20/vbc-summer-school-2027-in-vienna-austria-fully-funded-9-week-and-3-month-research-programs-for-bachelors-and-masters-students/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Internship Opportunities at the UK Mission to the UN in Geneva 2027: Humanitarian Affairs, Migration and Forced Displacement – CHF 1,450 Monthly Stipend",
+   "excerpt": "The UK Mission to the United Nations and World Trade Organization in Geneva, Switzerland, is offering two exciting internship opportunities for graduates interested in international relations, humanitarian affairs, migration, refugee protection and multilateral diplomacy. These positions provide an opportunity to gain practical experience working within the British Government’s diplomatic mission ",
+   "link": "https://opportunitiesforyouth.org/2026/11/20/internship-opportunities-at-the-uk-mission-to-the-un-in-geneva-2027-humanitarian-affairs-migration-and-forced-displacement-chf-1450-monthly-stipend/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Global Citizen Prize: 2027 Cisco Youth Leadership Award – Win US$250,000 for Your Social Impact Initiative",
+   "excerpt": "Global Citizen Prize: 2027 Cisco Youth Leadership Award – Win US$250,000 for Your Social Impact Initiative Are you a young leader using technology and innovation to address global challenges? The Global Citizen Prize: 2027 Cisco Youth Leadership Award offers an extraordinary opportunity to gain international recognition and receive US$250,000 in funding to expand your impact. […]",
+   "link": "https://oyaop.com/opportunity/competitions-and-awards/global-citizen-prize-2027-cisco-youth-leadership-award-win-us250000-for-your-social-impact-initiative/",
+   "date": "2026-11-20",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "Global Entrepreneurship Bootcamp 2027 in Tokyo, Japan",
+   "excerpt": "16th Global Entrepreneurship Bootcamp 2027 in Tokyo, Japan: Join Young Entrepreneurs and Innovators from Around the World 27–30 January 2027 | Tokyo, Japan Are you ready to turn your ideas into reality, develop entrepreneurial skills, and connect with ambitious young innovators from around the world? The 16th Global Entrepreneurship Bootcamp (GEB) 2027 is bringing together […]",
+   "link": "https://oyaop.com/opportunity/conferences/global-entrepreneurship-bootcamp-2027-in-tokyo-japan/",
+   "date": "2026-11-20",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "6 Joint Master’s Programmes in Europe That Let You Study in Multiple Countries (2027)",
+   "excerpt": "The growing appeal of international joint master’s programmes is reflected in the reach of the European Union’s Erasmus Mundus initiative. Between 2004 and 2023, almost 50,000 students participated in its master’s programmes, with or without scholarships, across a network of universities in Europe and beyond. One of the best-known initiatives supporting this arrangement is the […]",
+   "link": "https://www.scholarshipregion.com/joint-masters-programmes-in-europe/",
+   "date": "2026-11-20",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "2027 King Fahd University Scholarship in Saudi Arabia (KFUPM) | Fully Funded",
+   "excerpt": "The King Fahd University of Petroleum & Minerals (KFUPM) is welcoming applications for fully funded Bachelor’s, Master’s, and PhD programs available at the university. The King Fahd University Scholarship 2027 covers all the expenses of tuition, accommodation, living expenses, travel, visa, books, and subsidized meals in the university cafeteria for admitted candidates. Join us in […]",
+   "link": "https://www.scholarshipregion.com/king-fahd-university-scholarship/",
+   "date": "2026-11-20",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "EDISS Scholarships in Finland, Spain, Italy, Sweden 2027 (Fully Funded)",
+   "excerpt": "The Erasmus Mundus EDISS Scholarship consists of a monthly grant of 1400€ per month and a participation costs waiver for the entire duration of the EDISS programme. All students completing the EDISS Scholarship programme will obtain a double master’s degree from Åbo Akademi University and the institution chosen for the second-year specialization. More details are […]",
+   "link": "https://www.scholarshipregion.com/ediss-scholarships/",
+   "date": "2026-11-20",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Healthy Futures Mastercard Scholarship at the University of Cape Town (UCT) For Africans 2027 | Fully Funded",
+   "excerpt": "The Bertha Centre for Social Innovation and Entrepreneurship and the Faculty of Health Sciences at the University of Cape Town invite applications for the Healthy Futures Mastercard Scholarship 2027. It provides financial support for tuition fees and related academic and living costs for candidates admitted to the MPhil in Inclusive Innovation at the UCT Graduate […]",
+   "link": "https://www.scholarshipregion.com/healthy-futures-mastercard-scholarship/",
+   "date": "2026-11-20",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Applications Open for Tandem Programme in Denmark",
+   "excerpt": "The Novo Nordisk Foundation is offering the Tandem Programme grant to support high-quality translational health research in Denmark. This initiative encourages collaboration between basic and clinical researchers to foster the transition of basic research into clinical practice. The deadline for applications is 21 January 2027 at 2:00 pm (Copenhagen time).",
+   "link": "https://www2.fundsforngos.org/science/applications-open-for-tandem-programme-in-denmark/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Request for Applications: Vilcek Foundation Grants (United States)",
+   "excerpt": "The Vilcek Foundation is inviting applications for its grants aimed at U.S.-based nonprofit organizations. These grants support initiatives that highlight immigrant contributions to the arts and sciences in the United States. Applications are open until 31 March 2027.",
+   "link": "https://www2.fundsforngos.org/immigration/request-for-applications-vilcek-foundation-grants-united-states/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submit Applications for Friends of Pakistan Fellowship Program",
+   "excerpt": "The Friends of Pakistan Fellowship offers a unique opportunity for Pakistan-focused non-profits and social businesses to scale their impact. This program, inspired by the Mulago Foundation, connects promising leaders with strategy, mentoring, and capital to extend their reach and efficacy. Applications for the 2027 cohort close on 11 December 2026, at 11:59 pm PKT.",
+   "link": "https://www2.fundsforngos.org/community-development-2/submit-applications-for-friends-of-pakistan-fellowship-program/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Nominations Open for Safe Haven Fellowship Program",
+   "excerpt": "The Safe Haven Fellowship, offered by the Netherlands Institute for Advanced Study (NIAS), provides a five-month fellowship to scholars, writers, journalists, and artists whose work is affected by conflict or war. Applications are open year-round, with the next deadline for the first semester of the 2027–2028 academic year on 14 December 2026 at noon (CET).",
+   "link": "https://www2.fundsforngos.org/individuals/nominations-open-for-safe-haven-fellowship-program/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "CFAs: Cardiovascular Elite Researcher Grants Call 2 (Australia)",
+   "excerpt": "The Cardiovascular Elite Researcher Grants 2026 Call 2 is an initiative by NSW Health to position New South Wales (NSW), Australia, as a leader in cardiovascular research. This grant supports elite researchers in conducting groundbreaking research in NSW. Applications are open until 1 March 2027.",
+   "link": "https://www2.fundsforngos.org/leadership/cfas-cardiovascular-elite-researcher-grants-call-2-australia/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Applications Open for ISARP Italy-South Africa Joint Research Programme",
+   "excerpt": "The Italy-South Africa Joint Research Programme (ISARP) invites proposals for joint research projects for 2027-2029 under the framework of the Scientific and Technological Cooperation Agreement between Italy and South Africa. The deadline for submissions is 3 December 2026. This opportunity supports collaborative research that strengthens scientific ties between the two countries.",
+   "link": "https://www2.fundsforngos.org/science/applications-open-for-isarp-italy-south-africa-joint-research-programme/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: John Watson’s Trust Educational Grants (United Kingdom)",
+   "excerpt": "John Watson’s Trust offers educational grants to children and young people up to the age of 21. These grants are intended for individuals with physical or learning disabilities, or those who are socially disadvantaged, residing in Edinburgh, Midlothian, West Lothian, and East Lothian. The Trust is currently accepting applications for the year 2027.",
+   "link": "https://www2.fundsforngos.org/education-2/apply-now-john-watsons-trust-educational-grants-united-kingdom/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Proposals: Joint Research and Innovative Projects on Artificial Intelligence (Malta)",
+   "excerpt": "The 2nd Malta–Poland Joint Call for Research and Innovation (R&I) Projects invites Malta-based entities to collaborate with Polish partners on innovative projects in Artificial Intelligence (AI). Co-funded by Xjenza Malta and Poland’s National Centre for Research and Development (NCBR), this initiative supports bilateral cooperation aimed at addressing AI challenges. Applications are due by 12 Feb",
+   "link": "https://www2.fundsforngos.org/innovation/call-for-proposals-joint-research-and-innovative-projects-on-artificial-intelligence-malta/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Applications: East Africa Biodesign Innovation Fellowship Program",
+   "excerpt": "The East Africa Biodesign (EAB) Innovation Fellowship for 2027–2028 is now accepting applications. This prestigious program seeks physicians, engineers, and entrepreneurs to address critical unmet clinical needs in Africa and develop corresponding health technologies. Applications close on 13 December 2026.",
+   "link": "https://www2.fundsforngos.org/innovation/call-for-applications-east-africa-biodesign-innovation-fellowship-program/",
+   "date": "2026-11-20",
+   "source": "fundsforNGOs"
+  },
   {
    "title": "Texas A&M University Scholarship 2027 in USA | Fully Funded",
    "excerpt": "The Texas A&M University Scholarship is a fully funded graduate assistantship opportunity for prospective Master’s students. The Texas A&M University Graduate Scholarships offer up to a monthly stipend of $22,200 plus benefits (medical package available after completion of waiting period) and full tuition waiver. In this post, we will provide you with more information about […]",
@@ -230,6 +363,104 @@
    "link": "https://www2.fundsforngos.org/community-development-2/open-call-for-urban-social-protection-programme-for-safai-mitras-india/",
    "date": "2026-11-19",
    "source": "fundsforNGOs"
+  },
+  {
+   "title": "20 Scholarships, Grants, Fellowships and Other Opportunities Currently Open – November 19, 2026",
+   "excerpt": "1. Morris B. Abram Fellowship 2027-2028The Morris B. Abram Fellowship is designed to train recent college graduates through hands-on work with UN Watch. The fellow works closely with the Executive Director on research, writing, monitoring United Nations sessions, communications, social media and administrative assignments. The programme is suited to strong writers with at least one",
+   "link": "https://opportunitydesk.org/2026/11/19/20-scholarships-grants-fellowships-and-other-opportunities-currently-open-november-19-2026/",
+   "date": "2026-11-19",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Rest & Resilience Fellowship 2027 (Fully-funded)",
+   "excerpt": "Deadline: December 6, 2026 Applications are open for the Rest & Resilience Fellowship 2027. They invite two journalists from countries with restricted press and information freedoms to Berlin for a six-month stay. During their time in Berlin, the media professionals can take a break from their daily responsibilities, recover from difficult working conditions, and broaden",
+   "link": "https://opportunitydesk.org/2026/11/19/rest-resilience-fellowship-2027/",
+   "date": "2026-11-19",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Reporters Without Borders (RSF) Berlin Fellowship 2027 (Funded)",
+   "excerpt": "Deadline: December 15, 2026 Applications are invited for the Reporters Without Borders (RSF) Berlin Fellowship 2027. Reporters Without Borders (RSF) Germany will once again invite journalists from countries with restricted freedom of press and information to Berlin for the annual fellowship program. The RSF Fellowship Program is designed to provide a safe space for journalists:",
+   "link": "https://opportunitydesk.org/2026/11/19/rsf-berlin-fellowship-2027/",
+   "date": "2026-11-19",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "The Reporters Without Borders (RSF) Berlin Fellowship 2027 for journalists worldwide (Fully Funded to Berlin, Germany)",
+   "excerpt": "Application Deadline: December 15th, 2026 at 12:00 PM (CET). Applications are now open for the 2027 Reporters Without Borders (RSF) Berlin Fellowship. The RSF Fellowship Program is designed to provide…",
+   "link": "https://www.opportunitiesforafricans.com/reporters-without-borders-rsf-berlin-fellowship-2027/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The taz Panter Foundation Rest & Resilience Fellowship 2027 for journalists worldwide (Fully Funded to Berlin, Germany)",
+   "excerpt": "Application Deadline: December 6, 2026, at 11:59 p.m. (CET) Applications are now open for the 2027 taz Panter Foundation Rest & Resilience Fellowship. The taz Panter Foundation offers journalists from…",
+   "link": "https://www.opportunitiesforafricans.com/the-taz-panter-foundation-rest-resilience-fellowship-2027-for-journalists-worldwide/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The IAS Person-Centred Care Global Advocacy Academy 2027 (Fully Funded to Geneva, Switzerland)",
+   "excerpt": "Application Deadline: 30 November 2026. Applications are now open for the 2027 IAS Person-Centred Care Global Advocacy Academy. This academy is organized by the Person-Centred Care programme of IAS – the…",
+   "link": "https://www.opportunitiesforafricans.com/the-ias-person-centred-care-global-advocacy-academy-2027/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "20 Fellowships and Grants for Emerging Writers",
+   "excerpt": "Emerging writers can find funding and support to develop their craft, complete creative projects, and build professional writing careers through fellowships and grants. From…",
+   "link": "https://www.profellow.com/fellowships/12-fellowships-and-grants-for-emerging-writers/",
+   "date": "2026-11-19",
+   "source": "ProFellow"
+  },
+  {
+   "title": "Accountability Lab 2027 Digital Governance and Climate Justice Incubators: Apply for Two Transformative Programmes Supporting Young African Leaders in Civic Technology, Human Rights and Climate Action",
+   "excerpt": "Accountability Lab East and Southern Africa (ALESA) is inviting applications from young leaders, civic innovators, community organisers, and emerging change-makers for its 2027 Digital Governance Incubator (DGI) and Climate Justice Incubator (CJI). These two programmes are designed to support individuals and emerging initiatives that are using innovative approaches to address some of the most pres",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/accountability-lab-2027-digital-governance-and-climate-justice-incubators-apply-for-two-transformative-programmes-supporting-young-african-leaders-in-civic-technology-human-rights-and-climate-action/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "CERN Summer Student Programme 2027 in Switzerland: Earn CHF 94 Daily While Gaining International Research Experience in Physics, Engineering and Computer Science",
+   "excerpt": "Are you an undergraduate or Master’s student studying Physics, Engineering, Computer Science or a related discipline? The CERN Summer Student Programme 2027 offers an exciting opportunity to gain practical experience at one of the world’s leading scientific research organisations in Geneva, Switzerland. Organised by the European Organization for Nuclear Research (CERN), the programme invites unive",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/cern-openlab-summer-student-programme-2026-applications-now-open/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Newmark J-School Tuition-Free Journalism Scholarships 2027: Study a Master’s in Journalism in New York with Full Tuition and Fees Covered",
+   "excerpt": "Aspiring journalists and media professionals looking to advance their education in the United States have an opportunity to pursue postgraduate studies at the Craig Newmark Graduate School of Journalism at the City University of New York (CUNY). Through its Tuition-Free for New Yorkers initiative, Newmark J-School offers admitted students who qualify as New York State […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/craig-newmark-philanthropies-funds-new-york-university-cybersecurity-clinic-to-protect-nonprofits-schools-and-community-organizations-from-cybercrime/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Camp Rising Sun 2027: Fully Funded International Leadership Summer Program in New York",
+   "excerpt": "About Camp Rising Sun 2027 Camp Rising Sun (CRS) 2027, organized by the Louis August Jonas Foundation (LAJF), is an international summer leadership program designed to develop ethical, compassionate, thoughtful and engaged young leaders. The program brings together young people from different countries, cultures and backgrounds to learn, collaborate, build relationships and develop leadership skil",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/camp-rising-sun-by-the-louis-august-jonas-foundation-fully-funded-summer-leadership-program-in-new-york/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "New Economy Leaders Academy 2027: 9-Month International Leadership and Mentoring Programme for Professionals",
+   "excerpt": "The New Economy Leaders Academy 2027, organised by Common Purpose in collaboration with Partners for a New Economy (P4NE) and The Human Edge, is a nine-month intergenerational leadership and mentoring programme designed for professionals working in the new economy field. Starting in March 2027, the Academy will bring together professionals working across campaigns and movement-building, […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/19/new-economy-leaders-academy-2026-applications-now-open/",
+   "date": "2026-11-19",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "DAAD Heilbronn AI Fellowship 2027 in Germany: €2,800 Monthly Funding for International AI Researchers",
+   "excerpt": "DAAD Heilbronn AI Fellowship 2027 in Germany: €2,800 Monthly Funding for International AI Researchers The Heilbronn AI Fellowship, supported by the German Academic Exchange Service (DAAD), offers an opportunity for outstanding international PhD candidates and postdoctoral researchers to conduct research in Artificial Intelligence (AI) and related fields in Germany. The programme connects researche",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/daad-heilbronn-ai-fellowship-2027-in-germany-e2800-monthly-funding-for-international-ai-researchers/",
+   "date": "2026-11-19",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "Australian Catholic University (ACU) Graduate Research Scholarship Package 2027 | Fully Funded",
+   "excerpt": "Applications are now open for the 2027 Graduate Research Scholarship Package at the Australian Catholic University. The ACU Graduate Research Scholarship Package includes a fully funded opportuity for a Higher Degree Research (HDR) programme covering tuition, health insurance, and a stipend amount of $35,768 per annum. In this post, we will discuss the details of the […]",
+   "link": "https://www.scholarshipregion.com/acu-graduate-research-scholarship-package/",
+   "date": "2026-11-19",
+   "source": "Scholarship Region"
   },
   {
    "title": "Echidna Global Scholars Program 2027 (Brookings Institution Visiting Fellowship) $26,500 for Living Costs",
@@ -9101,13 +9332,6 @@
    "source": "Opportunities for Africans"
   },
   {
-   "title": "OIST Internship Program in Japan 2027 | Fully Funded",
-   "excerpt": "Applications are open for the OIST Internship Program in Japan 2027. OIST research internship in Japan is an exciting opportunity for international students who want to become a part of research in advanced labs with cutting-edge technology. The Japan internship program will be held at the Okinawa Institute of Science and Technology, providing a chance […]",
-   "link": "https://www.opportunitiescircle.com/oist-internship-in-japan/",
-   "date": "2026-10-12",
-   "source": "Opportunities Circle"
-  },
-  {
    "title": "France Excellence Eiffel Scholarship 2027 | Study in Europe",
    "excerpt": "Want to study in Europe? France Excellence Eiffel Scholarship 2027 for international students is a perfect opportunity to study in France. The France scholarship is open for outstanding international students to pursue master’s and PhD studies in European universities. France Excellence Eiffel Scholarship is also known as the French Government Scholarship. The French Ministry of […]",
    "link": "https://www.opportunitiescircle.com/france-excellence-eiffel-scholarship/",
@@ -12242,27 +12466,6 @@
    "link": "https://andpurpose.world/going-global-partnerships-tne-grants-india-2026-27/",
    "date": "2026-07-23",
    "source": "&Purpose"
-  },
-  {
-   "title": "EMBL ARISE2 Fellowships 2026 in Europe | Fully Funded Research Infrastructure Fellowship",
-   "excerpt": "Applications are now open for the EMBL ARISE2 Fellowships, an exciting fully funded postdoctoral programme offered by the European Molecular Biology Laboratory (EMBL). Designed for outstanding early-career researchers, ARISE2 combines cutting-edge research with professional development, enabling fellows to build successful careers in research infrastructures across Europe. Unlike traditional postd",
-   "link": "https://opportunitiesforyouth.org/2026/07/22/embl-arise2-fellowships-2026-in-europe-fully-funded-research-infrastructure-fellowship/",
-   "date": "2026-07-22",
-   "source": "Opportunities for Youth"
-  },
-  {
-   "title": "£5,000 Association of Commonwealth Universities (ACU) Global Grants 2026 for All All Commonwealth Countries",
-   "excerpt": "The ACU Global Grants provide undergraduate students at ACU member universities with funding to attend short-term academic programmes (‘summer’ or ‘winter’ schools), hosted by an ACU member institution in a different Commonwealth country. The grants aim to support academic development, international experience, and knowledge exchange for students across the Commonwealth. Application Deadline: Tell",
-   "link": "https://www.afterschoolafrica.com/119261/association-of-commonwealth-universities-acu-global-grants/",
-   "date": "2026-07-22",
-   "source": "After School Africa"
-  },
-  {
-   "title": "9th African Call for Proposals for Malaria Drug Discovery",
-   "excerpt": "Deadline: 29-Aug-2026 Medicines for Malaria Venture (MMV) is inviting African scientists to submit research proposals for innovative malaria drug discovery projects. The call supports research in medicinal chemistry, assay development, computer-aided drug discovery, and innovative biology, with the goal of accelerating the development of new antimalarial medicines while strengthening scientific le",
-   "link": "https://www2.fundsforngos.org/innovation/9th-african-call-for-proposals-for-malaria-drug-discovery/",
-   "date": "2026-07-22",
-   "source": "fundsforNGOs"
   }
  ]
 }
