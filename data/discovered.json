@@ -1,26 +1,61 @@
 {
- "generated": "2026-11-20T13:02:55+00:00",
+ "generated": "2026-11-21T12:47:17+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+21)",
-  "Opportunities for Africans": "ok (+59)",
+  "Opportunity Desk": "ok (+18)",
+  "Opportunities for Africans": "ok (+58)",
   "Scholars4Dev": "ok (+5)",
   "Opportunities Corners": "ok (+37)",
-  "ProFellow": "ok (+56)",
-  "Opportunities for Youth": "ok (+7)",
+  "ProFellow": "ok (+55)",
+  "Opportunities for Youth": "ok (+6)",
   "After School Africa": "ok (+0)",
-  "Opportunities Feed": "ok (+5)",
+  "Opportunities Feed": "ok (+6)",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "ok (+14)",
-  "Opportunities Nexus": "failed: URLError",
-  "Oya Opportunities": "ok (+42)",
-  "Persmind": "ok (+2)",
+  "Opportunities Circle": "ok (+16)",
+  "Opportunities Nexus": "ok (+15)",
+  "Oya Opportunities": "ok (+40)",
+  "Persmind": "ok (+4)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+21)",
+  "Scholarship Region": "ok (+16)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+12)",
-  "&Purpose": "failed: URLError"
+  "fundsforNGOs": "ok (+4)",
+  "&Purpose": "ok (+50)"
  },
  "items": [
+  {
+   "title": "2026 JSPS–UNU Postdoctoral Fellowship in Japan: Fully Funded 24-Month Research Opportunity for International Scholars",
+   "excerpt": "The 2026 JSPS–UNU Postdoctoral Fellowship Programme offers an international research opportunity for outstanding early-career researchers seeking to advance their academic careers while contributing to solutions for some of the world’s most pressing sustainability challenges. Jointly organised by the United Nations University Institute for the Advanced Study of Sustainability (UNU-IAS) and the Jap",
+   "link": "https://opportunitiesforyouth.org/2026/11/21/2026-jsps-unu-postdoctoral-fellowship-in-japan-fully-funded-24-month-research-opportunity-for-international-scholars/",
+   "date": "2026-11-21",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Gen Foundation Grants Support Food Science and Technology Study and Research",
+   "excerpt": "The Gen Foundation grants support individual students and researchers working in natural sciences, with a particular…",
+   "link": "https://opportunitiesfeed.com/2026/11/21/gen-foundation-grants/",
+   "date": "2026-11-21",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Study in the UK 2027: Best Universities, Scholarships, Admission Requirements and Student Visa Guide",
+   "excerpt": "Plan to study in the UK. Compare top universities, UCAS deadlines, tuition fees, scholarships, Student visa costs and the new Graduate visa rules.",
+   "link": "https://persmind.com/en/study-in-the-uk/",
+   "date": "2026-11-21",
+   "source": "Persmind"
+  },
+  {
+   "title": "Study in Saudi Arabia 2027: Best Universities, Scholarships, Admission and Student Visa Guide",
+   "excerpt": "Discover how to study in Saudi Arabia. Compare top universities, fully funded scholarships, admission requirements, tuition costs and student visas.",
+   "link": "https://persmind.com/en/study-in-saudi-arabia-2/",
+   "date": "2026-11-21",
+   "source": "Persmind"
+  },
+  {
+   "title": "ICMR ANVESHAN Extramural Grants 2027",
+   "excerpt": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” scale_desktop=”0.8″ text_color=”dark” text_align=”left” row_border_radius=”none” row_border_radius_applies=”bg” zindex=”auto” row_position_desktop=”default” row_position_tablet=”inherit” row_posit",
+   "link": "https://andpurpose.world/icmr-anveshan-extramural-grants-2027/",
+   "date": "2026-11-21",
+   "source": "&Purpose"
+  },
   {
    "title": "OIST Internship Program in Japan 2027 | Fully Funded",
    "excerpt": "Applications are open for the OIST Internship Program in Japan 2027. OIST research internship in Japan is an exciting opportunity for international students who want to become a part of research in advanced labs with cutting-edge technology. The Japan internship program will be held at the Okinawa Institute of Science and Technology, providing a chance […]",
@@ -153,6 +188,83 @@
    "link": "https://www2.fundsforngos.org/innovation/call-for-applications-east-africa-biodesign-innovation-fellowship-program/",
    "date": "2026-11-20",
    "source": "fundsforNGOs"
+  },
+  {
+   "title": "NIVEA CONNECT Gen Z Research Grant Program 2026 (up to €30,000)",
+   "excerpt": "Deadline: December 11, 2026 Applications are open for the NIVEA CONNECT Gen Z Research Grant Program 2026. NIVEA CONNECT invites researchers worldwide to propose innovative, early-stage studies that advance understanding of social connection among Gen Z, approximately ages 14–29. Funding may support pilot studies, exploratory research, feasibility studies, methodological development, or targeted a",
+   "link": "https://opportunitydesk.org/2026/11/20/nivea-connect-gen-z-research-grant-program-2026/",
+   "date": "2026-11-20",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "The Central Bank of Kenya (CBK) Internship Programme 2026 for young Kenyan graduates",
+   "excerpt": "Application Deadline: December 10, 2026 Applications are now open for the 2026 Central Bank of Kenya (CBK) Internship Programme. In line with its mandate of maintaining stability and fostering a…",
+   "link": "https://www.opportunitiesforafricans.com/the-central-bank-of-kenya-cbk-internship-programme-2026-for-young-kenyan-graduates/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The University of Cambridge Mastercard Foundation Scholars Programme 2027/2028 for young Africans (Fully Funded)",
+   "excerpt": "Application Deadline: Varies by Course Applications are now open for the 2027/2028 University of Cambridge Mastercard Foundation Scholars Programme. The Mastercard Foundation Scholars Program at the University of Cambridge enables…",
+   "link": "https://www.opportunitiesforafricans.com/the-university-of-cambridge-mastercard-foundation-scholars-programme-2027-2028/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "Asia House Fellowship 2027/2028: Apply for a Fully Funded 12-Month Research Fellowship with a £24,000 Stipend",
+   "excerpt": "Applications are now open for the Asia House Fellowship 2027/2028, an exciting opportunity for early-career professionals and researchers interested in international affairs, geopolitics, economics, trade, technology, and policy developments across Asia and the Middle East. Organised by Asia House, the fellowship aims to develop the next generation of business and policy leaders by providing talen",
+   "link": "https://opportunitiesforyouth.org/2026/11/20/asia-house-fellowship-2027-2028-apply-for-a-fully-funded-12-month-research-fellowship-with-a-24000-stipend/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Rockefeller Foundation Big Bets Fellowship 2027 in the United States | Applications Open for Community Leaders and Social Impact Innovators",
+   "excerpt": "The Rockefeller Foundation Big Bets Fellowship 2027 in the United States is now accepting applications from experienced leaders, entrepreneurs, community innovators, and professionals working to expand economic opportunities and improve access to quality employment. The fellowship aims to support individuals developing innovative solutions to employment challenges, particularly in underserved and ",
+   "link": "https://opportunitiesforyouth.org/2026/11/20/rockefeller-foundation-big-bets-fellowship-2027-in-the-united-states-applications-open-for-community-leaders-and-social-impact-innovators/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Up to 6 Fully Funded PhD Positions in Economics at the University of Gothenburg, Sweden – 2027",
+   "excerpt": "The University of Gothenburg in Sweden is inviting applications for up to six fully funded PhD positions in Economics for its September 2027 intake. These doctoral positions offer an excellent opportunity for aspiring researchers to pursue advanced studies in economics within an internationally recognized academic environment, supported by comprehensive doctoral training, faculty supervision and f",
+   "link": "https://opportunitiesforyouth.org/2026/11/20/up-to-6-fully-funded-phd-positions-in-economics-at-the-university-of-gothenburg-sweden-2027/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027–2029: Earn an $80,000 Stipend Through a Fully Funded Two-Year Policy Fellowship in Washington, D.C.",
+   "excerpt": "Recent doctoral graduates of The University of Texas at Austin who are interested in national security, public policy and federal government decision-making have an opportunity to apply for the Clements-Archer National Security Policy Postdoctoral Fellowship 2027–2029. Offered through a partnership between the Clements Center for National Security and the Archer Center, this prestigious two-year f",
+   "link": "https://opportunitiesforyouth.org/2026/11/20/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2029-earn-an-80000-stipend-through-a-fully-funded-two-year-policy-fellowship-in-washington-d-c/",
+   "date": "2026-11-20",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "ETH Student Summer Research Fellowship 2027 in Switzerland | Fully Funded",
+   "excerpt": "Looking for a summer internship? The ETH Student Summer Research Fellowship 2027 is a fully funded fellowship at Zurich University, Switzerland. The summer research fellowship in Switzerland is open to both undergraduate and graduate students from around the world. Through the ETH summer fellowship, students will gain research experience during their summers. This fully funded fellowship […]",
+   "link": "https://www.opportunitiescircle.com/eth-student-summer-research-fellowship/",
+   "date": "2026-11-20",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Erasmus Mundus EMLE Scholarship 2027 | Fully Funded",
+   "excerpt": "Are you looking for fully funded scholarships in Europe to study law and maritime law? Then you are in the right place! Applications are now open for the Erasmus Mundus EMLE Scholarship 2027. It is an amazing European scholarship program that allows international students to pursue a Master’s in Maritime and Logistics Law (EMLE) at […]",
+   "link": "https://www.opportunitiescircle.com/erasmus-mundus-emle-scholarship/",
+   "date": "2026-11-20",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "John M. Belk Impact Fellowship 2027–2028 in the USA: Paid 10-Month Fellowship for College Students",
+   "excerpt": "John M. Belk Impact Fellowship 2027–2028 in the USA: Paid 10-Month Fellowship for College Students Are you a college student passionate about education, public policy, social impact, and community development? The John M. Belk Impact Fellowship 2027–2028 offers an excellent opportunity to gain practical professional experience through a paid, 10-month fellowship in North Carolina, USA. […]",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/john-m-belk-impact-fellowship-2027-2028-in-the-usa-paid-10-month-fellowship-for-college-students/",
+   "date": "2026-11-20",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "STBI G₹OWTH Fund Grant-in-Aid 2026",
+   "excerpt": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” scale_desktop=”0.8″ text_color=”dark” text_align=”left” row_border_radius=”none” row_border_radius_applies=”bg” zindex=”auto” row_position_desktop=”default” row_position_tablet=”inherit” row_posit",
+   "link": "https://andpurpose.world/stbi-g%e2%82%b9owth-fund-grant-in-aid-2026/",
+   "date": "2026-11-20",
+   "source": "&Purpose"
   },
   {
    "title": "Texas A&M University Scholarship 2027 in USA | Fully Funded",
@@ -12431,41 +12543,6 @@
    "link": "https://www.scholarshipregion.com/visa-scholarship-programme/",
    "date": "2026-07-24",
    "source": "Scholarship Region"
-  },
-  {
-   "title": "Moderna Graduate Program 2027 – Opportunities for Students and Early Career Professionals",
-   "excerpt": "Students and recent graduates looking to make an impact in biotechnology and pharmaceuticals can apply for…",
-   "link": "https://opportunitiesfeed.com/2026/07/23/moderna-graduate-program/",
-   "date": "2026-07-23",
-   "source": "Opportunities Feed"
-  },
-  {
-   "title": "African Epidemic Service Epidemiology Track Fellowship Programme",
-   "excerpt": "Deadline: 26-Aug-2026 The African Epidemic Service (AES) Epidemiology Fellowship Programme is a fully funded two-year applied epidemiology training programme designed to strengthen Africa’s public health workforce. The fellowship equips professionals with practical skills in disease surveillance, outbreak investigation, data analysis, and evidence-based public health decision-making across African",
-   "link": "https://www2.fundsforngos.org/leadership/african-epidemic-service-epidemiology-track-fellowship-programme/",
-   "date": "2026-07-23",
-   "source": "fundsforNGOs"
-  },
-  {
-   "title": "Open Call: Laboratory Leadership Fellowship Program",
-   "excerpt": "Deadline: 26-Aug-2026 The Laboratory Leadership Fellowship Program is a 12-month fully funded fellowship by Africa CDC designed to strengthen laboratory leadership, management, and technical skills among public health professionals in African Union Member States. The programme prepares laboratory leaders to improve disease detection, outbreak response, quality management, and public health laborat",
-   "link": "https://www2.fundsforngos.org/leadership/open-call-laboratory-leadership-fellowship-program/",
-   "date": "2026-07-23",
-   "source": "fundsforNGOs"
-  },
-  {
-   "title": "Africa Epidemic Services: Public Health Informatics Track Fellowship",
-   "excerpt": "Deadline: 26-Aug-2026 The Africa Epidemic Services Public Health Informatics Fellowship Program is a fully funded fellowship designed to strengthen digital health and public health informatics skills among mid-level public health professionals across Africa. The two-year programme supports professionals working in disease surveillance, health data systems, and digital transformation through compet",
-   "link": "https://www2.fundsforngos.org/science/africa-epidemic-services-public-health-informatics-track-fellowship/",
-   "date": "2026-07-23",
-   "source": "fundsforNGOs"
-  },
-  {
-   "title": "Going Global Partnerships TNE Grants India 2026–27",
-   "excerpt": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” scale_desktop=”0.8″ text_color=”dark” text_align=”left” row_border_radius=”none” row_border_radius_applies=”bg” zindex=”auto” overflow=”hidden” advanced_gradient_angle=”0″ overlay_strength=”0.3″ g",
-   "link": "https://andpurpose.world/going-global-partnerships-tne-grants-india-2026-27/",
-   "date": "2026-07-23",
-   "source": "&Purpose"
   }
  ]
 }
