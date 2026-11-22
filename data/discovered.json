@@ -1,26 +1,110 @@
 {
- "generated": "2026-11-21T12:47:17+00:00",
+ "generated": "2026-11-22T12:44:08+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+18)",
-  "Opportunities for Africans": "ok (+58)",
+  "Opportunity Desk": "ok (+19)",
+  "Opportunities for Africans": "ok (+56)",
   "Scholars4Dev": "ok (+5)",
   "Opportunities Corners": "ok (+37)",
   "ProFellow": "ok (+55)",
-  "Opportunities for Youth": "ok (+6)",
-  "After School Africa": "ok (+0)",
-  "Opportunities Feed": "ok (+6)",
+  "Opportunities for Youth": "ok (+1)",
+  "After School Africa": "failed: TimeoutError",
+  "Opportunities Feed": "ok (+13)",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "ok (+16)",
+  "Opportunities Circle": "ok (+14)",
   "Opportunities Nexus": "ok (+15)",
-  "Oya Opportunities": "ok (+40)",
-  "Persmind": "ok (+4)",
+  "Oya Opportunities": "ok (+41)",
+  "Persmind": "ok (+8)",
   "Mladiinfo": "ok (+116)",
   "Scholarship Region": "ok (+16)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+4)",
-  "&Purpose": "ok (+50)"
+  "fundsforNGOs": "ok (+7)",
+  "&Purpose": "ok (+49)"
  },
  "items": [
+  {
+   "title": "U.S. Department of Energy Community College Internships Fund Summer Technical Training at National Labs",
+   "excerpt": "The U.S. Department of Energy Community College Internships programme, also called DOE CCI, is accepting applications…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/doe-cci-summer-2027/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "U.S. Department of Energy SULI Program Pays Undergraduates for Ten Weeks of National Laboratory Research",
+   "excerpt": "The U.S. Department of Energy SULI Program is accepting applications for paid Summer 2027 research internships.…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/doe-suli-summer-2027/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Amazon Future Engineer Scholarship Pairs Up to $40,000 in College Funding With an Internship Opportunity",
+   "excerpt": "The Amazon Future Engineer Scholarship can provide U.S. high school seniors up to US$40,000 over four…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/amazon-future-engineer-2027/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "AAAS Mass Media Fellowship Pays $10,000 for Ten Weeks in a Newsroom",
+   "excerpt": "The AAAS Mass Media Fellowship places people with science, engineering or mathematics training at media organisations…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/aaas-mass-media-fellowship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "SMART Scholarship-for-Service Pairs STEM Tuition Funding With Paid Summer Internships",
+   "excerpt": "The SMART Scholarship-for-Service helps selected students pay for eligible STEM degrees and links that funding to…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/smart-scholarship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Lunar and Planetary Institute Summer Internship Includes Stipends for Research, Housing and Travel",
+   "excerpt": "The LPI Summer Internship at the Lunar and Planetary Institute gives undergraduate students ten weeks of…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/lpi-summer-internship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "CHCI Congressional Internship Pays $4,776 for Summer and Covers Furnished Housing and Travel",
+   "excerpt": "The CHCI Congressional Internship gives selected undergraduates and eligible recent graduates a chance to work in…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/chci-congressional-internship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Asia House Fellowship 2027–2028 in the UK | £24,000 Stipend | Fully Remote",
+   "excerpt": "Asia House Fellowship 2027–2028 in the UK | £24,000 Stipend | Fully Remote Applications are now open for the Asia House Fellowship 2027–2028, an international research fellowship designed to develop the next generation of business and policy leaders. Offered by Asia House, the programme provides early-career professionals and researchers with an opportunity to conduct original […]",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/asia-house-fellowship-2027-2028-in-the-uk-24000-stipend-fully-remote/",
+   "date": "2026-11-22",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "European Master in Law and Economics (EMLE) 2027–2028: Erasmus Mundus Scholarship Worth Up to €1,400 Per Month",
+   "excerpt": "European Master in Law and Economics (EMLE) 2027–2028: Erasmus Mundus Scholarship Worth Up to €1,400 Per Month Are you a law or economics graduate looking to pursue an international master’s degree in Europe? The European Master in Law and Economics (EMLE) 2027–2028 offers an outstanding opportunity to study at leading European universities while gaining interdisciplinary […]",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/european-master-in-law-and-economics-emle-2027-2028-erasmus-mundus-scholarship-worth-up-to-e1400-per-month/",
+   "date": "2026-11-22",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "Australia Scholarships Without IELTS 2027: Universities, Funding and Application Guide",
+   "excerpt": "Discover Australia scholarships without IELTS, including Sydney, Monash, Melbourne and Australia Awards. Explore funding, alternatives and visa",
+   "link": "https://persmind.com/en/without-ielts/",
+   "date": "2026-11-22",
+   "source": "Persmind"
+  },
+  {
+   "title": "Master’s Scholarships in Arab Countries 2027: Fully Funded and Partial Opportunities",
+   "excerpt": "Explore master’s scholarships in Arab countries, including KAUST, KFUPM, HBKU, MBZUAI, funding benefits, eligibility, and application deadlines.",
+   "link": "https://persmind.com/en/masters-scholarships-in-arab/",
+   "date": "2026-11-22",
+   "source": "Persmind"
+  },
+  {
+   "title": "CCP Fellowship Germany 2027: Fully Funded CrossCulture Programme",
+   "excerpt": "Apply for CCP Fellowship Germany. Get €650 monthly, flights, accommodation and insurance. Check eligibility, countries and the December",
+   "link": "https://persmind.com/en/ccp-fellowship-germany/",
+   "date": "2026-11-22",
+   "source": "Persmind"
+  },
   {
    "title": "2026 JSPS–UNU Postdoctoral Fellowship in Japan: Fully Funded 24-Month Research Opportunity for International Scholars",
    "excerpt": "The 2026 JSPS–UNU Postdoctoral Fellowship Programme offers an international research opportunity for outstanding early-career researchers seeking to advance their academic careers while contributing to solutions for some of the world’s most pressing sustainability challenges. Jointly organised by the United Nations University Institute for the Advanced Study of Sustainability (UNU-IAS) and the Jap",
@@ -55,6 +139,41 @@
    "link": "https://andpurpose.world/icmr-anveshan-extramural-grants-2027/",
    "date": "2026-11-21",
    "source": "&Purpose"
+  },
+  {
+   "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028 ($80,000 stipend)",
+   "excerpt": "Deadline: January 15, 2027 Applications are open for the Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028. Through a partnership between the Clements Center for National Security and the Archer Center, The University of Texas System campus in Washington, D.C., the Clements-Archer National Security Policy Postdoctoral Fellowship offers recent Ph.D. graduates of The Univers",
+   "link": "https://opportunitydesk.org/2026/11/21/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2028/",
+   "date": "2026-11-21",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Asia House Fellowship 2027/2028 (£24,000 stipend)",
+   "excerpt": "Deadline: January 31, 2027 Applications are open for the Asia House Fellowship 2027/2028. The Asia House Fellowship aims to develop the next generation of business and policy leaders. Now in its sixth year, it is a unique opportunity for two candidates who share Asia House’s vision for a strong and dynamic relationship between Asia, the",
+   "link": "https://opportunitydesk.org/2026/11/21/asia-house-fellowship-2027-2028/",
+   "date": "2026-11-21",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "16 Scholarship Interview Questions and Answers for 2027: Complete Preparation Guide",
+   "excerpt": "Prepare scholarship interviews with 16 common questions, sample answers, the STAR method, expert tips and a practical preparation checklist.",
+   "link": "https://persmind.com/en/scholarship-interview/",
+   "date": "2026-11-21",
+   "source": "Persmind"
+  },
+  {
+   "title": "DAAD RISE Germany 2027: Paid Summer Research Internship in Germany",
+   "excerpt": "Apply for DAAD RISE Germany 2027. Explore the €992 monthly stipend, eligibility, research fields, required documents and November 30 deadline.",
+   "link": "https://persmind.com/en/daad-rise-germany/",
+   "date": "2026-11-21",
+   "source": "Persmind"
+  },
+  {
+   "title": "Study in Switzerland 2027: Best Universities, Tuition Fees, Scholarships and Student Visa Guide",
+   "excerpt": "Discover how to study in Switzerland. Compare ETH Zurich and EPFL tuition fees, living costs, scholarships, admission requirements and student",
+   "link": "https://persmind.com/en/study-in-switzerland-2/",
+   "date": "2026-11-21",
+   "source": "Persmind"
   },
   {
    "title": "OIST Internship Program in Japan 2027 | Fully Funded",
@@ -12522,27 +12641,6 @@
    "link": "https://opportunitydesk.org/2026/07/25/break-into-tech-ai-developer-scholarship-2026/",
    "date": "2026-07-25",
    "source": "Opportunity Desk"
-  },
-  {
-   "title": "Google for Startups Accelerator South Africa Program 2026 for growth-stage technology startups.",
-   "excerpt": "Application Deadline: August 28, 2026 Applications are now open for the 2026 Google for Startups Accelerator South Africa Program. A three-month hybrid accelerator program for growth-stage technology startups. The Accelerator…",
-   "link": "https://www.opportunitiesforafricans.com/google-for-startups-accelerator-south-africa-program-2026/",
-   "date": "2026-07-24",
-   "source": "Opportunities for Africans"
-  },
-  {
-   "title": "Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for Young Nigerians (N50,000 Monthly Stipend)",
-   "excerpt": "The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 is open to young Nigerians. This fellowship offers an N50,000 monthly stipend. If you are a young Nigerian interested in Gen AI, this programme may be worth considering. Apply below. Application Deadline: Tell Me About The Award: The Gen AI Fellowship, organised by the Bosun Tijani … Read more",
-   "link": "https://www.afterschoolafrica.com/98271/bosun-tijani-foundation-gen-ai-fellowship/",
-   "date": "2026-07-24",
-   "source": "After School Africa"
-  },
-  {
-   "title": "Visa Scholarship Programme in UK 2026 | How To Apply",
-   "excerpt": "The Visa Scholarship Programme is for students from underrepresented backgrounds to pursue undergraduate degree in the United Kingdom (UK). For all winners of the Visa UK Scholarship. An award of up to £9535 per year to help pay for your tuition fees and an ongoing programme of support throughout your academic study. In this post, […]",
-   "link": "https://www.scholarshipregion.com/visa-scholarship-programme/",
-   "date": "2026-07-24",
-   "source": "Scholarship Region"
   }
  ]
 }
