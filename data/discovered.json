@@ -1,26 +1,208 @@
 {
- "generated": "2026-11-22T12:44:08+00:00",
+ "generated": "2026-11-23T14:45:34+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+19)",
-  "Opportunities for Africans": "ok (+56)",
-  "Scholars4Dev": "ok (+5)",
+  "Opportunity Desk": "ok (+17)",
+  "Opportunities for Africans": "ok (+57)",
+  "Scholars4Dev": "ok (+6)",
   "Opportunities Corners": "ok (+37)",
   "ProFellow": "ok (+55)",
-  "Opportunities for Youth": "ok (+1)",
-  "After School Africa": "failed: TimeoutError",
-  "Opportunities Feed": "ok (+13)",
+  "Opportunities for Youth": "ok (+13)",
+  "After School Africa": "ok (+0)",
+  "Opportunities Feed": "ok (+10)",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "ok (+14)",
-  "Opportunities Nexus": "ok (+15)",
-  "Oya Opportunities": "ok (+41)",
-  "Persmind": "ok (+8)",
+  "Opportunities Circle": "ok (+16)",
+  "Opportunities Nexus": "ok (+17)",
+  "Oya Opportunities": "ok (+42)",
+  "Persmind": "ok (+2)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+16)",
+  "Scholarship Region": "ok (+19)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "ok (+7)",
-  "&Purpose": "ok (+49)"
+  "fundsforNGOs": "failed: TimeoutError",
+  "&Purpose": "failed: HTTPError"
  },
  "items": [
+  {
+   "title": "Top 20+ Scholarships in Sweden for International Students",
+   "excerpt": "Do you want to study in Sweden? There are a considerable number of scholarships that are being offered by the Swedish Government and Swedish Universities to attract international students like you. Read more » See also 15 Development-related Courses in Sweden with Scholarships",
+   "link": "https://www.scholars4dev.com/scholarships-in-sweden-for-international-students/",
+   "date": "2026-11-23",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "Public Policy New Voices Fellowship Program 2026-2027",
+   "excerpt": "Deadline: November 29, 2026 Applications are invited for the Public Policy New Voices Fellowship Program 2026-2027. The Public Policy New Voices (PPNV) Program is a collaboration among leading public policy graduate schools, corporate public policy teams, and some of the most innovative global strategic advisory firms in the nation who are committed to addressing the",
+   "link": "https://opportunitydesk.org/2026/11/23/public-policy-new-voices-fellowship-program-2026-2027/",
+   "date": "2026-11-23",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Stockholm University Scholarships for International Students",
+   "excerpt": "2027-28 Stockholm University Scholarships are open to students from outside the EU/EEA and Switzerland who pay tuition fees. The scholarships cover the whole tuition fee for a Master’s programme at Stockholm University in Sweden. Apply for your programme by 15 January 2027. Admitted students apply for the scholarship after admission results come out on 1 April 2027 (in the last round, the scholars",
+   "link": "https://www.scholars4dev.com/stockholm-university-scholarships/",
+   "date": "2026-11-23",
+   "source": "Scholars4Dev"
+  },
+  {
+   "title": "WHO/Europe Knowledge Community on Social Media, AI and Youth Mental Health 2026: Call for Participants to Help Shape Safer Digital Environments for Young People",
+   "excerpt": "The World Health Organization Regional Office for Europe (WHO/Europe) is inviting individuals and stakeholders from different professional, academic and community backgrounds to join its Knowledge Community on Social Media, AI and Youth Mental Health. This initiative seeks to bring together young people, parents and caregivers, health professionals, policy-makers, educators, researchers, technolog",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/who-europe-knowledge-community-on-social-media-ai-and-youth-mental-health-2026-call-for-participants-to-help-shape-safer-digital-environments-for-young-people/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Sanofi Foundation Climate Action and Youth Resilience Grant 2026: Apply for €50,000–€100,000 Funding for Youth-Led Climate and Health Projects in Africa",
+   "excerpt": "The Sanofi Foundation Climate Action and Youth Resilience Grant 2026 presents an important funding opportunity for eligible youth-led organisations, community-based organisations, and non-governmental organisations working to address the growing effects of climate change on the health and wellbeing of children and young people in Africa. Through its 2026 Call for Proposals on Climate Action and […",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/sanofi-foundation-climate-action-and-youth-resilience-grant-2026-apply-for-e50000-e100000-funding-for-youth-led-climate-and-health-projects-in-africa/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Skoll Scholarship 2027–2028 at the University of Oxford: MBA Scholarship for Social Entrepreneurs, Innovators and Global Changemakers",
+   "excerpt": "The Skoll Scholarship 2027–2028 at the University of Oxford offers an exciting funding opportunity for experienced social entrepreneurs and impact-driven professionals seeking to pursue a Master of Business Administration (MBA) at Oxford University’s Saïd Business School. The scholarship is designed to support individuals who have demonstrated a commitment to addressing important social and enviro",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/the-skoll-scholarship-empowering-social-entrepreneurs-to-lead-change-at-oxford/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "ACS Public Policy Fellowships 2027: Fully Funded Science Policy Fellowship Opportunities in the United States – Apply by January 5, 2027",
+   "excerpt": "The American Chemical Society (ACS) is inviting applications for its 2027 Public Policy Fellowships and WISE Summer Internship Program, offering scientists, engineers, graduate degree holders, and undergraduate students opportunities to contribute their scientific knowledge to public policy and government decision-making. The ACS Public Policy Fellowships provide opportunities to work directly wit",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/acs-public-policy-fellowships-2027-fully-funded-science-policy-fellowship-opportunities-in-the-united-states-apply-by-january-5-2027/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Robertson Foundation for Government Fellowship 2027 at the University of Minnesota, USA – Fully Funded Master’s Tuition for Public Service Careers",
+   "excerpt": "The University of Minnesota’s Hubert H. Humphrey School of Public Affairs has joined the expanded national fellowship network of the Robertson Foundation for Government (RFG), introducing a new opportunity for graduate students interested in international affairs, public policy, human rights, and global development. Beginning in Fall 2027, selected students will have the opportunity to receive […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/robertson-foundation-for-government-fellowship-2027-at-the-university-of-minnesota-usa-fully-funded-masters-tuition-for-public-service-careers/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Fulbright Teacher Exchanges 2027–2028: Global Professional Development Opportunities for Educators and School Leaders",
+   "excerpt": "Educators play a vital role in shaping the knowledge, skills, and future opportunities of students. The Fulbright Teacher Exchanges provide professional development opportunities that help teachers and school leaders strengthen their practice, learn from international education systems, and bring new perspectives into their classrooms and communities. Applications are now open for Fulbright Teache",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/fulbright-teacher-exchanges-2027-2028-global-professional-development-opportunities-for-educators-and-school-leaders/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Johan Huizinga Fellowship 2027–2028 in the Netherlands | Fully Funded Research Fellowship Offering Up to €45,000 Stipend",
+   "excerpt": "The Johan Huizinga Fellowship 2027–2028 at the Rijksmuseum in Amsterdam, Netherlands, is an excellent opportunity for early-career scholars, MA graduates, PhD students, and postdoctoral researchers interested in conducting advanced historical research into objects held in the Rijksmuseum collection. The fellowship invites outstanding international candidates to submit research proposals that explo",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/johan-huizinga-fellowship-2027-2028-in-the-netherlands-fully-funded-research-fellowship-offering-up-to-e45000-stipend/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Tor Community Fellowship 2027: Applications Open for Human Rights Defenders, Journalists, Technologists, and Researchers",
+   "excerpt": "The Tor Project has officially announced the launch of the Tor Community Fellowship, a new six-month learning and development opportunity designed to strengthen knowledge and practical skills in digital rights, internet censorship, online privacy, anonymity, and security. The fellowship aims to support individuals who are actively engaged in protecting digital freedom and who want to […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/tor-community-fellowship-2027-applications-open-for-human-rights-defenders-journalists-technologists-and-researchers/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "U.S. Exchange Alumni Fellowship 2027 in the United States | Monthly Stipend and Professional Development Opportunity",
+   "excerpt": "The U.S. Exchange Alumni Fellowship 2027 is an exciting professional development and leadership opportunity for eligible alumni of U.S. government-sponsored exchange programs who want to strengthen their leadership abilities, develop professional networks, and contribute to their local communities across the United States. Supported by the U.S. Department of State and implemented by the Internatio",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/u-s-exchange-alumni-fellowship-2027-in-the-united-states-monthly-stipend-and-professional-development-opportunity/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Maastricht University Scholarships 2027-28 | 22 Full Scholarships with Tuition + €1,550/Month",
+   "excerpt": "Maastricht University Scholarships 2027-28: 22 full scholarships across four programmes for students from outside the EU/EEA, covering tuition, €1,550 a month, insurance and visa costs. Air tickets are not included. Complete your programme admission file by 10 December 2026; the scholarship deadline is 1 February 2027.",
+   "link": "https://opportunitiesnexus.com/maastricht-university-scholarship/",
+   "date": "2026-11-23",
+   "source": "Opportunities Nexus"
+  },
+  {
+   "title": "ETH Summer Fellowship 2027 in Switzerland | Fully Funded",
+   "excerpt": "The ETH SummerFellowship 2027 in Switzerland | Fully Funded offers an excellent opportunity to gain hands-on research experience at ETH Zurich, one of the world’s leading universities in science and technology. Organized by the Department of Computer Science at ETH Zurich, the ETH Student Summer Research Fellowship (ETH SSRF) welcomes talented students from universities worldwide, […]",
+   "link": "https://oyaop.com/opportunity/internships/eth-summer-fellowship-2027-in-switzerland-fully-funded/",
+   "date": "2026-11-23",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "US Government Scholarships 2027 for International Students | Fully Funded Scholarships & Exchange Programs",
+   "excerpt": "US Government Scholarships 2027 for International Students | Fully Funded Scholarships & Exchange Programs Are you dreaming of studying in the United States in 2027? The US Government offers numerous international scholarships, academic exchange programmes, research opportunities, and professional fellowships for talented students, graduates, teachers, researchers, and young professionals from aro",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/us-government-scholarships-2027-for-international-students-fully-funded-scholarships-exchange-programs/",
+   "date": "2026-11-23",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "10 International Organisations Offering Internship Programmes to Students Worldwide",
+   "excerpt": "Internships are one way students and recent graduates gain practical experience while exploring career opportunities beyond their home countries. At international organisations such as the United Nations, these placements offer exposure to work in areas ranging from humanitarian assistance and public health to economic development, education and international policy. The scale of these opportuniti",
+   "link": "https://www.scholarshipregion.com/international-organisations-offering-internship-programmes/",
+   "date": "2026-11-23",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "2027 University of Tokyo Research Internship Program (UTRIP) in Japan | Fully Funded",
+   "excerpt": "Applications are now open for the 2027 University of Tokyo Research Internship Program (UTRIP) in Japan for international undergraduate students. The UTRIP includes a fully funded internship program that covers the full participation costs for selected participants, including accommodation, round-trip airfare tickets, meals, and an allowance for living expenses. In this post, we will discuss […]",
+   "link": "https://www.scholarshipregion.com/university-of-tokyo-research-internship/",
+   "date": "2026-11-23",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Cambridge University Mastercard Research Fund for Africans | £80,000 Grant",
+   "excerpt": "The Cambridge University Mastercard Research Fund aims to catalyze new and strengthen existing collaborations between researchers in Africa and Cambridge and support high-quality training activities. The Climate Resilience and Sustainability Research offers a Fund Research Catalyst Grant for up to £20,000, a Research Project Grant for up to £80,000, or a Workshop Grant for up to £50,000. In […]",
+   "link": "https://www.scholarshipregion.com/cambridge-university-mastercard-research-fund/",
+   "date": "2026-11-23",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "4004 Nature Education and Science Schools Support Program (Turkey)",
+   "excerpt": "The Scientific and Technological Research Council of Turkey (TÜBİTAK) has announced the 20th call for the “4004 Nature Education and Science Schools Support Program.” This program, managed by TÜBİTAK’s Science and Society Department, aims to support projects that promote awareness and interest in nature and science across various societal segments. The deadline for applications is 14 December 2026",
+   "link": "https://www2.fundsforngos.org/fellowships/4004-nature-education-and-science-schools-support-program-turkey/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Request for Applications: Public Diplomacy Small Grants Program (Bahrain)",
+   "excerpt": "The U.S. Embassy in Bahrain is inviting proposals for the FY2027 Public Diplomacy Small Grants Program. This initiative, managed by the Public Affairs Section (PAS) of the U.S. Department of State, aims to strengthen bilateral ties between the United States and Bahrain through projects that promote mutual understanding. The deadline for submissions is 31 March 2027, with additional deadlines on 30",
+   "link": "https://www2.fundsforngos.org/fellowships/request-for-applications-public-diplomacy-small-grants-program-bahrain/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Toloa Scholarship for Secondary and Tertiary STEM Students in New Zealand",
+   "excerpt": "The Toloa Scholarships, administered by Le Va on behalf of the Ministry for Pacific Peoples, aim to encourage Pacific students in New Zealand to pursue studies in Science, Technology, Engineering, and Mathematics (STEM). These scholarships are available for both secondary and tertiary students, with applications for the 2027 academic year now open. The program also includes a community fund to pro",
+   "link": "https://www2.fundsforngos.org/fellowships/toloa-scholarship-for-secondary-and-tertiary-stem-students-in-new-zealand/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: The Jeffrey S. Haber Prize for Student Scholarship (US)",
+   "excerpt": "The Dukeminier Awards Journal celebrates outstanding law review articles addressing sexual orientation and gender identity issues. Sponsored by the Williams Institute at UCLA School of Law, the Journal republishing these award-winning articles provides valuable resources to scholars, lawyers, judges, and policymakers. The deadline for submission nominations for the 2024 awards is not specified.",
+   "link": "https://www2.fundsforngos.org/fellowships/apply-now-the-jeffrey-s-haber-prize-for-student-scholarship-us/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply now for IBMA Foundation Project Grants (United States)",
+   "excerpt": "The IBMA Foundation invites applications for its Project Grants, designed to support initiatives that align with its mission to advance bluegrass music through education, arts & culture, academic programs, and historical preservation. Applicants can request funding typically ranging from $1,000 to $2,500. The application deadline is 2 December 2026.",
+   "link": "https://www2.fundsforngos.org/fellowships/apply-now-for-ibma-foundation-project-grants-united-states/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Request for Applications: Indigenous Languages Grant (Australia)",
+   "excerpt": "The 2026-2027 Indigenous Languages Grant, offered by the Queensland Department of Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism (DWATSIPM), aims to support initiatives that promote the preservation and revitalization of Indigenous languages in Queensland. Applications are currently open and must be submitted by 8:00 am on 7 December 2026 (AEST).",
+   "link": "https://www2.fundsforngos.org/fellowships/request-for-applications-indigenous-languages-grant-australia/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: MECAM Residential Research Fellowship Program",
+   "excerpt": "The Merian Centre for Advanced Studies in the Maghreb (MECAM) is inviting applications for eight residential fellowships aimed at postdoctoral and advanced researchers in the humanities and social sciences. The fellowships will run from September 2027 to April 2028 under the theme “Imagining Futures: Dealing with Disparity.” This opportunity is open to researchers globally, including those from Tu",
+   "link": "https://www2.fundsforngos.org/fellowships/apply-now-mecam-residential-research-fellowship-program/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submit Applications for V20 Climate Prosperity Fellowship Program",
+   "excerpt": "The V20 Climate Prosperity Fellowship Program, launched by the Climate Vulnerable Forum (CVF) and the Vulnerable Twenty (V20) Group in collaboration with the Boston University Global Development Policy Center, invites applications for its fourth cohort. This initiative is targeted at finance officials from CVF-V20 member countries, focusing on enhancing skills to drive climate action. The applicat",
+   "link": "https://www2.fundsforngos.org/fellowships/submit-applications-for-v20-climate-prosperity-fellowship-program/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
   {
    "title": "U.S. Department of Energy Community College Internships Fund Summer Technical Training at National Labs",
    "excerpt": "The U.S. Department of Energy Community College Internships programme, also called DOE CCI, is accepting applications…",
@@ -104,6 +286,90 @@
    "link": "https://persmind.com/en/ccp-fellowship-germany/",
    "date": "2026-11-22",
    "source": "Persmind"
+  },
+  {
+   "title": "University of Toronto India Foundation Research Catalyst Grants 2027–2028: Apply for Up to INR 15 Lakhs to Advance Urban Sustainability and Climate Resilience in Indian Cities",
+   "excerpt": "Are you a researcher, academic, non-profit organisation, civil society organisation or government institution working to address urban development challenges in India? The University of Toronto India Foundation (UTIF), in collaboration with the University of Toronto’s School of Cities, is inviting applications for its 2027–2028 Research Catalyst Grants. The programme provides seed funding to suppo",
+   "link": "https://opportunitiesforyouth.org/2026/11/22/university-of-toronto-india-foundation-research-catalyst-grants-2027-2028-apply-for-up-to-inr-15-lakhs-to-advance-urban-sustainability-and-climate-resilience-in-indian-cities/",
+   "date": "2026-11-22",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "AAPM DREAM Fellowship 2027 in the USA and Canada: $6,000 Stipend, 10-Week Medical Physics Research Programme and Mentorship for Undergraduate Students",
+   "excerpt": "The American Association of Physicists in Medicine (AAPM) is inviting applications for its 2027 Driving Recruitment through Education and Mentoring (DREAM) Fellowship Programme, a competitive 10-week summer research and mentorship opportunity designed to encourage undergraduate students to pursue advanced education and careers in medical physics. The programme offers selected fellows a valuable op",
+   "link": "https://opportunitiesforyouth.org/2026/11/22/aapm-dream-fellowship-2027-in-the-usa-and-canada-6000-stipend-10-week-medical-physics-research-programme-and-mentorship-for-undergraduate-students/",
+   "date": "2026-11-22",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Amnesty International USA International Rule of Law and Human Rights Fellowship 2026: Apply for the $75,000 Policy Advocacy Opportunity in Washington, D.C.",
+   "excerpt": "Are you a human rights professional, policy researcher, law graduate or public affairs specialist interested in defending international law, strengthening democratic institutions and challenging authoritarian practices? Amnesty International USA (AIUSA) is inviting qualified candidates to apply for the International Rule of Law and Human Rights Fellow position, a full-time, one-year fixed-term opp",
+   "link": "https://opportunitiesforyouth.org/2026/11/22/amnesty-international-usa-international-rule-of-law-and-human-rights-fellowship-2026-apply-for-the-75000-policy-advocacy-opportunity-in-washington-d-c/",
+   "date": "2026-11-22",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "MIT Fellowship for Advancing Science Journalism in Africa and the Middle East Pays $40,000 for One Semester",
+   "excerpt": "The MIT science journalism fellowship for Africa and the Middle East is accepting applications for the…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/mit-science-journalism-fellowship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Harvard’s CS50 Python Course Gives Beginners Free Access to Programming Lessons and Exercises",
+   "excerpt": "Harvard’s CS50 Python course gives beginners free access to lessons and practical programming exercises. Its official…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/cs50-python-course/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "NIST Summer Undergraduate Research Fellowship Pays a Student Stipend of $6,390 to $7,810",
+   "excerpt": "The NIST Summer Undergraduate Research Fellowship offers a total student stipend of US$6,390 to US$7,810 for…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/nist-summer-research-fellowship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Carnegie’s Gaither Junior Fellows Program Gives New Graduates a Paid Year in Policy Research",
+   "excerpt": "The Gaither Junior Fellows Program at the Carnegie Endowment for International Peace pays selected graduating seniors…",
+   "link": "https://opportunitiesfeed.com/2026/11/22/gaither-junior-fellows-program/",
+   "date": "2026-11-22",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "RIPS Summer Internship 2027 in USA | Fully Funded",
+   "excerpt": "Applications for RIPS Summer Internship 2027 in the United States are now open! This internship is an excellent chance for talented students. The Research in Industrial Projects for Students (RIPS) – Los Angeles program is an opportunity for undergraduates studying computer science, math, and related fields. Recent graduates who have got their degree no earlier […]",
+   "link": "https://www.opportunitiescircle.com/rips-summer-internship-in-usa/",
+   "date": "2026-11-22",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "ANSO-CAS-TWAS/UNESCO PhD Scholarship in China 2027",
+   "excerpt": "The ANSO-CAS-TWAS/UNESCO PhD Scholarship in China 2027 is calling for applications! This PhD scholarship in China is the result of an agreement between the Chinese Academy of Sciences (CAS), the Alliance of International Science Organizations (ANSO), and The World Academy of Sciences (TWAS/UNESCO). The main aim of this unique TWAS/UNESCO scholarship is to promote scientific […]",
+   "link": "https://www.opportunitiescircle.com/anso-cas-twas-unesco-phd-scholarship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "MCW Young Leaders Fellowship 2027 in USA | Flights, Housing and Meals Covered for Ages 18-26",
+   "excerpt": "MCW Young Leaders Fellowship 2027 – a year-long leadership programme by MCW Global for ages 18 to 26 from any country, with a 10-day in-person programme in New York and Burlington, Vermont (20 to 29 July 2027). Economy flights, housing and meals are covered; visa fees are not. No IELTS score or degree required. Deadline: 3 December 2026.",
+   "link": "https://opportunitiesnexus.com/mcw-young-leaders-fellowship/",
+   "date": "2026-11-22",
+   "source": "Opportunities Nexus"
+  },
+  {
+   "title": "Cambridge Africa Climate Collaborative Research Fund 2026/27: Apply for Research Grants of Up to £80,000",
+   "excerpt": "Cambridge Africa Climate Collaborative Research Fund 2026/27: Apply for Research Grants of Up to £80,000 Researchers from the University of Cambridge and universities across Africa can now apply for the Cambridge Africa Climate Collaborative Research Fund 2026/27, an international research funding opportunity supporting collaborative projects focused on climate resilience, sustainability, and inno",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/cambridge-africa-climate-collaborative-research-fund-2026-27-apply-for-research-grants-of-up-to-80000/",
+   "date": "2026-11-22",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "Mastercard Foundation Scholars Program at Cambridge 2027–2028 | Fully Funded Master’s Scholarship",
+   "excerpt": "Mastercard Foundation Scholars Program at Cambridge 2027–2028 | Fully Funded Master’s Scholarship Applications are now open for the 2027–2028 Mastercard Foundation Scholars Program at the University of Cambridge, offering talented young Africans the opportunity to pursue a master’s degree at one of the world’s most prestigious universities. The Mastercard Foundation Scholars Program supports outst",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-at-cambridge-2027-2028-fully-funded-masters-scholarship/",
+   "date": "2026-11-22",
+   "source": "Oya Opportunities"
   },
   {
    "title": "2026 JSPS–UNU Postdoctoral Fellowship in Japan: Fully Funded 24-Month Research Opportunity for International Scholars",
@@ -3200,13 +3466,6 @@
    "source": "Scholars4Dev"
   },
   {
-   "title": "Top 20+ Scholarships in Sweden for International Students",
-   "excerpt": "Do you want to study in Sweden? There are a considerable number of scholarships that are being offered by the Swedish Government and Swedish Universities to attract international students like you. Read more » See also 15 Development-related Courses in Sweden with Scholarships",
-   "link": "https://www.scholars4dev.com/scholarships-in-sweden-for-international-students/",
-   "date": "2026-11-12",
-   "source": "Scholars4Dev"
-  },
-  {
    "title": "Top 15+ UK Scholarships for International Students",
    "excerpt": "Do you want to study in the UK for free? The British Government and UK Universities provide scholarships for international students who wants to study in United Kingdom. See the Top 15+ UK Scholarships that are available to international students like you. Read more »",
    "link": "https://www.scholars4dev.com/scholarships-in-uk-for-international-students/",
@@ -4012,7 +4271,7 @@
    "source": "Opportunities Circle"
   },
   {
-   "title": "Community Solutions Program 2027 in USA | Fully Funde",
+   "title": "Community Solutions Program 2027 in USA | Fully Funded",
    "excerpt": "Are you looking for a leadership program? The Community Solutions Program 2027 in USA is a prestigious leadership development program hosted by the International Research and Exchanges Board (IREX) in 2027. The Community Solutions Program (CSP 2027) is a professional leadership development program for experienced community leaders who want to advance locally driven regional economic […]",
    "link": "https://www.opportunitiescircle.com/community-solutions-program-in-usa/",
    "date": "2026-11-10",
@@ -12627,20 +12886,6 @@
    "link": "https://opportunitiescorners.com/university-of-milan-dsu-scholarship-2026/",
    "date": "2026-07-26",
    "source": "Opportunities Corners"
-  },
-  {
-   "title": "Transfyr AI Fellowship 2026-2027 (up to $125,000)",
-   "excerpt": "Deadline: August 15, 2026 Applications are open for the Transfyr AI Fellowship 2026-2027. This is a one-year research fellowship for exceptional graduate students to lead a project solving frontier machine learning problems that impact real-world scientific systems. Fellows will work on ML systems that need to understand scientific work as it actually happens across people,",
-   "link": "https://opportunitydesk.org/2026/07/25/transfyr-ai-fellowship-2026-2027/",
-   "date": "2026-07-25",
-   "source": "Opportunity Desk"
-  },
-  {
-   "title": "Break Into Tech AI Developer Scholarship 2026 (Fully-funded)",
-   "excerpt": "Deadline: August 1, 2026 Applications are open for the Break Into Tech AI Developer Scholarship 2026. The Break Into Tech AI Developer Scholarship is a fully funded online training opportunity designed to help aspiring AI developers launch successful careers in artificial intelligence. The scholarship is ideal for complete beginners, career changers, and anyone looking to",
-   "link": "https://opportunitydesk.org/2026/07/25/break-into-tech-ai-developer-scholarship-2026/",
-   "date": "2026-07-25",
-   "source": "Opportunity Desk"
   }
  ]
 }
