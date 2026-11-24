@@ -1,26 +1,110 @@
 {
- "generated": "2026-11-23T14:45:34+00:00",
+ "generated": "2026-11-24T14:58:30+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+17)",
-  "Opportunities for Africans": "ok (+57)",
-  "Scholars4Dev": "ok (+6)",
-  "Opportunities Corners": "ok (+37)",
+  "Opportunity Desk": "ok (+20)",
+  "Opportunities for Africans": "ok (+61)",
+  "Scholars4Dev": "ok (+5)",
+  "Opportunities Corners": "ok (+36)",
   "ProFellow": "ok (+55)",
-  "Opportunities for Youth": "ok (+13)",
+  "Opportunities for Youth": "ok (+7)",
   "After School Africa": "ok (+0)",
-  "Opportunities Feed": "ok (+10)",
+  "Opportunities Feed": "ok (+7)",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "ok (+16)",
+  "Opportunities Circle": "ok (+18)",
   "Opportunities Nexus": "ok (+17)",
-  "Oya Opportunities": "ok (+42)",
+  "Oya Opportunities": "ok (+39)",
   "Persmind": "ok (+2)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "ok (+19)",
+  "Scholarship Region": "failed: JSONDecodeError",
   "Greatyop": "ok (+90)",
   "fundsforNGOs": "failed: TimeoutError",
-  "&Purpose": "failed: HTTPError"
+  "&Purpose": "ok (+49)"
  },
  "items": [
+  {
+   "title": "The Kenya Revenue Authority (KRA) Internship Program 2027 for young Kenyan graduates ( 25,000 Kshs monthly stipend)",
+   "excerpt": "Application Deadline: December 14th, 2026 Applications are now open for the 2027 Kenya Revenue Authority (KRA) Internship Program. In support of the Government’s Youth Initiative to develop a pool of…",
+   "link": "https://www.opportunitiesforafricans.com/the-kenya-revenue-authority-kra-internship-program-2027/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The Kenya Revenue Authority (KRA) Industrial Attachment Programme (January to March 2027 Intake) for young Kenyan students ( Kshs. 7,000 monthly stipend)",
+   "excerpt": "Application Deadline: December 14th, 2026 Applications are now open for the 2027 Kenya Revenue Authority (KRA) Industrial Attachment Programme. In support of the Government’s Youth Initiative to develop a pool…",
+   "link": "https://www.opportunitiesforafricans.com/the-kenya-revenue-authority-kra-industrial-attachment-programme-january-to-march-2027-intake/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "VBC Summer School 2027 in Austria (Fully Funded)",
+   "excerpt": "One of Austria’s best summer schools for international students, the VBC Summer School 2027 is now accepting applications. VBC stands for the Vienna BioCenter and offers a nine-week summer research program for Bachelor’s and Master’s students from all around the world. The Vienna BioCenter is one of Europe’s leading research centers. The summer school duration is […]",
+   "link": "https://opportunitiescorners.com/vbc-summer-school-2027-in-austria/",
+   "date": "2026-11-24",
+   "source": "Opportunities Corners"
+  },
+  {
+   "title": "University of Ghana–University of Manchester Fully Funded Dual PhD Scholarships 2027 in Development Studies: 9 Scholarships for Research on Africa’s Green Energy and Digital Transitions",
+   "excerpt": "The University of Ghana (UG), in partnership with the University of Manchester (UoM), is inviting applications for its new Dual PhD Award in Development Studies, an international doctoral programme designed to develop advanced research on Africa’s development challenges, with particular emphasis on the green energy transition and digital transformation. The programme is being delivered through […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/24/university-of-ghana-university-of-manchester-fully-funded-dual-phd-scholarships-2027-in-development-studies-9-scholarships-for-research-on-africas-green-energy-and-digital-transition/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Global Citizen Prize 2027 Cisco Youth Leadership Award: Three Young Leaders to Receive $250,000 Each for Using Technology to End Extreme Poverty",
+   "excerpt": "Young innovators, social entrepreneurs, technology-driven changemakers, and community leaders from around the world have an opportunity to receive international recognition and substantial financial support through the Global Citizen Prize: 2027 Cisco Youth Leadership Award. Established through a partnership between Cisco and Global Citizen, the award recognises young leaders who are using technol",
+   "link": "https://opportunitiesforyouth.org/2026/11/24/global-citizen-prize-2027-cisco-youth-leadership-award-three-young-leaders-to-receive-250000-each-for-using-technology-to-end-extreme-poverty/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "UKRI Policy Fellowships 2027: Apply for £220,000 Funding to Work with UK Government and Policy Organisations Through an 18-Month Research Fellowship",
+   "excerpt": "The UKRI Policy Fellowships 2027 offer early-career and mid-career researchers an opportunity to transfer their research knowledge, professional expertise and specialist skills into government and public policy organisations across the United Kingdom. Funded by UK Research and Innovation (UKRI) and its seven research councils, this programme aims to strengthen collaboration between academic resear",
+   "link": "https://opportunitiesforyouth.org/2026/11/24/ukri-policy-fellowships-2027-apply-for-220000-funding-to-work-with-uk-government-and-policy-organisations-through-an-18-month-research-fellowship/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "GSMA Innovation Fund for AI-Enabled Financial Health 2026: Grant Funding and Venture-Building Support for AI Startups in Africa and Asia",
+   "excerpt": "The GSMA Innovation Fund for AI-Enabled Financial Health is inviting applications from innovative businesses developing artificial intelligence (AI)-enabled solutions that improve financial health among underserved populations in low- and middle-income countries (LMICs). The initiative seeks to support commercially viable innovations that go beyond providing access to financial services and help i",
+   "link": "https://opportunitiesforyouth.org/2026/11/24/gsma-innovation-fund-for-ai-enabled-financial-health-2026-grant-funding-and-venture-building-support-for-ai-startups-in-africa-and-asia/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "a16z FDE Fellowship 2027: Apply for an Eight-Week Fellowship for Forward Deployed Engineers and Applied AI Leaders",
+   "excerpt": "The a16z FDE Fellowship 2027 is an opportunity for experienced Forward Deployed Engineers (FDEs), Applied AI professionals, and leaders of AI deployment teams to connect with some of the most influential people working in artificial intelligence. Organized by Andreessen Horowitz (a16z), one of the leading venture capital firms in the technology industry, this eight-week fellowship […]",
+   "link": "https://opportunitiesforyouth.org/2026/11/24/a16z-fde-fellowship-2027-apply-for-an-eight-week-fellowship-for-forward-deployed-engineers-and-applied-ai-leaders/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Stanford’s Democracy and Development Fellowships Fund Nine Months of Research",
+   "excerpt": "Stanford’s democracy and development fellowships are open for the 2027–28 academic year. The Center on Democracy,…",
+   "link": "https://opportunitiesfeed.com/2026/11/24/development-fellowships/",
+   "date": "2026-11-24",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Healthy Futures Mastercard Scholarship 2027 in South Africa",
+   "excerpt": "Are you looking for an international scholarship to study abroad? Applications are now open for the Healthy Futures Mastercard Scholarship 2027 at the University of Cape Town in South Africa. The Healthy Futures Mastercard Scholarship provides financial support for tuition fees and related academic costs for students pursuing an MPhil in Inclusive Innovation at the […]",
+   "link": "https://www.opportunitiescircle.com/healthy-futures-mastercard-scholarship/",
+   "date": "2026-11-24",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "London School of Economics Free Online Courses 2027 | LSE Online",
+   "excerpt": "Are you looking for online courses? London School of Economics Free Online Courses 2027 are an excellent opportunity for those who want to upskill and learn from their home. The London School of Economics (LSE) offers various free online courses to people from all over the world. With the LSE online courses, individuals can study […]",
+   "link": "https://www.opportunitiescircle.com/london-school-of-economics-free-online-courses/",
+   "date": "2026-11-24",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Yale Visiting African Scholars Fellowship 2027–2028 in the USA | Stipend and Research Support",
+   "excerpt": "Yale Visiting African Scholars Fellowship 2027–2028 in the USA | Stipend and Research Support The Yale Visiting African Scholars Fellowship 2027–2028 is inviting applications from experienced academics working at universities across Africa. Hosted by the Council on African Studies at Yale University’s Whitney and Betty MacMillan Center for International and Area Studies, this fellowship offers […]",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/yale-visiting-african-scholars-fellowship-2027-2028-in-the-usa-stipend-and-research-support/",
+   "date": "2026-11-24",
+   "source": "Oya Opportunities"
+  },
   {
    "title": "Top 20+ Scholarships in Sweden for International Students",
    "excerpt": "Do you want to study in Sweden? There are a considerable number of scholarships that are being offered by the Swedish Government and Swedish Universities to attract international students like you. Read more » See also 15 Development-related Courses in Sweden with Scholarships",
@@ -202,6 +286,69 @@
    "link": "https://www2.fundsforngos.org/fellowships/submit-applications-for-v20-climate-prosperity-fellowship-program/",
    "date": "2026-11-23",
    "source": "fundsforNGOs"
+  },
+  {
+   "title": "Google Student Researcher Internship 2026-27 | Paid Internships",
+   "excerpt": "Are you looking for Google internships? Applications for the Google Student Researcher Internship 2026-27 are currently open. This international internship is calling all bachelor’s and master’s students to become a student researcher. It is an excellent student researcher program for all students where they will be able to work with one of the top organizations in the world. Through these […]",
+   "link": "https://www.opportunitiescircle.com/google-student-researcher-internship/",
+   "date": "2026-11-23",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Yale Council on African Studies Visiting African Scholars Fellowship 2027-2028",
+   "excerpt": "Deadline: December 31, 2026 Applications are open for the Yale Council on African Studies Visiting African Scholars Fellowship 2027-2028. The Council on African Studies at the Whitney and Betty MacMillan Center for International and Area Studies at Yale University invites applications for its Visiting African Scholars Fellowship Program for the 2027-2028 academic year. This opportunity",
+   "link": "https://opportunitydesk.org/2026/11/23/yale-council-on-african-studies-visiting-african-scholars-fellowship-2027-2028/",
+   "date": "2026-11-23",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Tor Community Fellowship 2027 (stipend available)",
+   "excerpt": "Deadline: December 17, 2026 Applications are open for the Tor Community Fellowship 2027. For its first year, they are accepting 4 human rights defenders, journalists, technologists, and researchers. Fellows will get the chance to learn from the Tor Project team, build a deep understanding of how internet censorship works, how tools like Tor work to",
+   "link": "https://opportunitydesk.org/2026/11/23/tor-community-fellowship-2027/",
+   "date": "2026-11-23",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "The Tor Community Fellowship 2027 for human rights defenders, journalists, technologists, and researchers (500 USD monthly stipend)",
+   "excerpt": "Application Deadline: December 17, 2026. Applications are now open for the 2027 Tor Community Fellowship. Fellows will get the chance to learn from the Tor Project team, build a deep…",
+   "link": "https://www.opportunitiesforafricans.com/the-tor-community-fellowship-2027/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The Yale Council on African Studies Visiting African Scholars Fellowship 2027/2028 for African academics.",
+   "excerpt": "Application Deadline: December 31, 2026. Applications are now open for the 2027/2028 Yale Council on African Studies Visiting African Scholars Fellowship. The Council on African Studies at the Whitney and…",
+   "link": "https://www.opportunitiesforafricans.com/the-yale-council-on-african-studies-visiting-african-scholars-fellowship-2027-2028/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "African Futures Research Leadership Program 2027 (Cohort 7): Fully Funded Visiting Scholar Opportunity at Michigan State University for African Researchers",
+   "excerpt": "Applications are now invited for the seventh cohort of the African Futures Research Leadership Program, a competitive visiting scholar and professional development initiative organised by the Alliance for African Partnership (AAP) at Michigan State University (MSU). The programme is designed to strengthen the research, academic leadership, professional development and institutional collaboration c",
+   "link": "https://opportunitiesforyouth.org/2026/11/23/african-futures-research-leadership-program-2027-cohort-7-fully-funded-visiting-scholar-opportunity-at-michigan-state-university-for-african-researchers/",
+   "date": "2026-11-23",
+   "source": "Opportunities for Youth"
+  },
+  {
+   "title": "Vienna BioCenter Summer School 2027 in Austria | Fully Funded",
+   "excerpt": "Opportunities Circle is here with another amazing summer school opportunity “Vienna BioCenter Summer School 2027 in Austria. The Vienna BioCenter Summer School is a fully funded summer program for international students. The Vienna BioCenter Summer School in Austria 2027 is a research-oriented summer scholarship in Austria. The summer research program is a 9-week exchange program […]",
+   "link": "https://www.opportunitiescircle.com/vienna-biocenter-summer-school/",
+   "date": "2026-11-23",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "SBW Berlin Scholarship 2027 for International Students | Free Room, Tuition and €480/Month",
+   "excerpt": "SBW Berlin Scholarship 2027 for International Students: a furnished room in Berlin, tuition fees and €480 a month for a bachelor’s or master’s in Berlin or Potsdam. For socially committed applicants aged 18 to 30 from countries in need of development support. No deadline; applications accepted all year. Repayment applies if you stay in Germany.",
+   "link": "https://opportunitiesnexus.com/sbw-berlin-scholarship/",
+   "date": "2026-11-23",
+   "source": "Opportunities Nexus"
+  },
+  {
+   "title": "Dubai Business Associates 2027 | Fully Funded 9-Month Leadership Programme in Dubai for Graduates",
+   "excerpt": "Dubai Business Associates 2027: a fully funded nine-month leadership and business programme in Dubai for graduates of any nationality with less than three years of experience. Covers accommodation, flight, visa support and a monthly stipend. Early-bird deadline 21 February 2027; regular deadline 1 April 2027.",
+   "link": "https://opportunitiesnexus.com/dubai-business-associates/",
+   "date": "2026-11-23",
+   "source": "Opportunities Nexus"
   },
   {
    "title": "U.S. Department of Energy Community College Internships Fund Summer Technical Training at National Labs",
@@ -7758,7 +7905,7 @@
   },
   {
    "title": "VLIR-UOS Scholarships 2027 in Belgium | Study Free in Europe",
-   "excerpt": "Applications are now open for the VLIR-UOS Scholarships 2027 in Belgium. The international scholarship is open to students from 25 developing countries, including Africa, Asia, and Latin America. Preference will be given to Women participants. VLIR-UOS is offering these ICP scholarships for students starting in September 2027. If you are an international student and want […]",
+   "excerpt": "Applications are now open for the VLIR-UOS Scholarships 2027 in Belgium. These international scholarships for international students are open to students from 25 developing countries, including Africa, Asia, and Latin America. Preference will be given to Women participants. VLIR-UOS is offering these ICP scholarships for students starting in September 2027. If you are an international […]",
    "link": "https://www.opportunitiescircle.com/vlir-uos-scholarships-in-belgium/",
    "date": "2026-10-29",
    "source": "Opportunities Circle"
@@ -8980,6 +9127,13 @@
    "link": "https://www2.fundsforngos.org/individuals/apply-for-visiting-scholar-fellowship-program-kuwait/",
    "date": "2026-10-22",
    "source": "fundsforNGOs"
+  },
+  {
+   "title": "McCall MacBain International Fellowships 2027 | Paid Fellowship",
+   "excerpt": "Want to pursue a paid fellowship? McCall MacBain International Fellowships 2027 are now accepting applications. It is an excellent opportunity that will offer international experience, build global awareness, and cross-cultural understanding. This international fellowship will help participants enhance skills such as creativity, adaptability, independence, and critical thinking while encouraging f",
+   "link": "https://www.opportunitiescircle.com/mccall-macbain-international-fellowships/",
+   "date": "2026-10-22",
+   "source": "Opportunities Circle"
   },
   {
    "title": "CDC Public Health Informatics Fellowship Program 2027",
@@ -12139,8 +12293,8 @@
    "source": "Oya Opportunities"
   },
   {
-   "title": "OECD Internship 2026-27 in France | Paid Internship in Europe",
-   "excerpt": "Are you looking for a paid internship in Europe? The OECD Internship 2026-27 in France is an excellent opportunity for students with diverse backgrounds to pursue internships in an international setting. This internship in France is an initiative of the Organization for Economic Co-operation and Development (OECD) that aims to attract talented and driven students to contribute to projects aligned ",
+   "title": "OECD Internship 2027 in France | Paid Internship in Europe",
+   "excerpt": "Are you looking for a paid internship in Europe? The OECD Internship 2027 in France is an excellent opportunity for students with diverse backgrounds to pursue internships in an international setting. This internship in France is an initiative of the Organization for Economic Co-operation and Development (OECD) that aims to attract talented and driven students to […]",
    "link": "https://www.opportunitiescircle.com/oecd-internship-in-france/",
    "date": "2026-08-31",
    "source": "Opportunities Circle"
@@ -12636,13 +12790,6 @@
    "source": "ProFellow"
   },
   {
-   "title": "Google Student Researcher Internship 2026 | Paid Internships",
-   "excerpt": "Are you looking for Google internships? Applications for the Google Student Researcher Internship 2026 are currently open. This international internship is calling all bachelor’s and master’s students to become a student researcher. It is an excellent student researcher program for all students where they will be able to work with one of the top organizations in the world. Through these internship",
-   "link": "https://www.opportunitiescircle.com/google-student-researcher-internship/",
-   "date": "2026-08-06",
-   "source": "Opportunities Circle"
-  },
-  {
    "title": "The Gates Scholarship 2027 | Fully Funded Scholarship for Minority High School Seniors",
    "excerpt": "Apply for the Gates Scholarship 2027 — a fully funded last-dollar scholarship for minority US high school seniors from low-income households. Covers full cost of attendance for up to 5 years. Deadline: September 15, 2026. Apply at thegatesscholarship.org.",
    "link": "https://opportunitiesnexus.com/gates-scholarship-2027/",
@@ -12879,13 +13026,6 @@
    "link": "https://www.opportunitiescircle.com/columbia-university-online-courses/",
    "date": "2026-07-27",
    "source": "Opportunities Circle"
-  },
-  {
-   "title": "University of Milan DSU Scholarship 2026/27 in Italy (Fully Funded)",
-   "excerpt": "Are you looking to study in Italy with financial support? Applications are now open for the University of Milan DSU Scholarship 2026/27. The DSU (Diritto allo Studio Universitario) Regional Scholarship is one of the most popular financial aid programs for international students pursuing Bachelor’s, Master’s, PhD, and eligible postgraduate programs at the University of Milan. […]",
-   "link": "https://opportunitiescorners.com/university-of-milan-dsu-scholarship-2026/",
-   "date": "2026-07-26",
-   "source": "Opportunities Corners"
   }
  ]
 }
