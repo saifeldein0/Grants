@@ -1,26 +1,278 @@
 {
- "generated": "2026-11-24T14:58:30+00:00",
+ "generated": "2026-11-25T14:29:23+00:00",
  "sources": {
-  "Opportunity Desk": "ok (+20)",
-  "Opportunities for Africans": "ok (+61)",
+  "Opportunity Desk": "ok (+22)",
+  "Opportunities for Africans": "ok (+60)",
   "Scholars4Dev": "ok (+5)",
-  "Opportunities Corners": "ok (+36)",
+  "Opportunities Corners": "ok (+35)",
   "ProFellow": "ok (+55)",
-  "Opportunities for Youth": "ok (+7)",
-  "After School Africa": "ok (+0)",
-  "Opportunities Feed": "ok (+7)",
+  "Opportunities for Youth": "ok (+1)",
+  "After School Africa": "ok (+26)",
+  "Opportunities Feed": "ok (+9)",
   "Opportunities Radar": "ok (+26)",
-  "Opportunities Circle": "ok (+18)",
-  "Opportunities Nexus": "ok (+17)",
+  "Opportunities Circle": "ok (+16)",
+  "Opportunities Nexus": "ok (+16)",
   "Oya Opportunities": "ok (+39)",
   "Persmind": "ok (+2)",
   "Mladiinfo": "ok (+116)",
-  "Scholarship Region": "failed: JSONDecodeError",
+  "Scholarship Region": "ok (+29)",
   "Greatyop": "ok (+90)",
-  "fundsforNGOs": "failed: TimeoutError",
+  "fundsforNGOs": "ok (+41)",
   "&Purpose": "ok (+49)"
  },
  "items": [
+  {
+   "title": "African Union Development Agency Energize Africa Health Fellows Program 2027",
+   "excerpt": "Deadline: November 27, 2026 Applications are open for the African Union Development Agency Energize Africa Health Fellows Program 2027. The African Union Development Agency invites applicants who are citizens of African Union Member States for the post of Energize Africa Health Fellows. Under the supervision of the various supervisors, the Energize Africa Health Fellows will provide",
+   "link": "https://opportunitydesk.org/2026/11/25/energize-africa-health-fellows-program-2027/",
+   "date": "2026-11-25",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Free Online Courses From Leading Universities: 2026 Guide to Certificates and Academic Credit",
+   "excerpt": "Free online courses from universities can give you lecture notes, assignments or an entire self-study route…",
+   "link": "https://opportunitiesfeed.com/2026/11/25/free-online-courses-guide/",
+   "date": "2026-11-25",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "ICMS Allianz Care Scholarship Covers Up to A$15,000 in Master’s Tuition",
+   "excerpt": "The ICMS Allianz Care Scholarship is accepting applications from eligible new international master’s students for the…",
+   "link": "https://opportunitiesfeed.com/2026/11/25/icms-allianz-care-scholarship-2027/",
+   "date": "2026-11-25",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "UNESCO Junior Professional Officer Programme: Two-Year Career Route and Eligibility Guide",
+   "excerpt": "The UNESCO Junior Professional Officer Programme is a donor-sponsored route into early-career professional assignments at UNESCO.…",
+   "link": "https://opportunitiesfeed.com/2026/11/25/unesco-junior-professional-officer-programme/",
+   "date": "2026-11-25",
+   "source": "Opportunities Feed"
+  },
+  {
+   "title": "Erasmus Mundus Imaging Scholarship 2027 | Fully Funded",
+   "excerpt": "Are you looking for an opportunity to visit Europe for free? If yes, then we are here with an amazing opportunity. Applications are open for the Erasmus Mundus Imaging Scholarship 2027. This Erasmus Mundus Scholarship is funded by the European Union. The international scholarship program is open to students from all over the world. The […]",
+   "link": "https://www.opportunitiescircle.com/erasmus-mundus-imaging-scholarship/",
+   "date": "2026-11-25",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "NUS Amgen Scholars Program 2027 | 8-Week Research in Singapore + Symposium in Japan",
+   "excerpt": "NUS Amgen Scholars Program 2027: eight weeks of full-time biomedical research at the National University of Singapore (30 May to 30 July 2027), then the Amgen Scholars Asia Symposium in Kyoto, Japan (3 to 5 August 2027). SGD 6,000 stipend, accommodation, a travel grant of up to SGD 1,500 and work pass fees covered. For undergraduates at universities in Asia. Deadline: 1 February 2027.",
+   "link": "https://opportunitiesnexus.com/nus-amgen-scholars-program/",
+   "date": "2026-11-25",
+   "source": "Opportunities Nexus"
+  },
+  {
+   "title": "Commonwealth Study Conference 2027 in Australia and New Zealand | Fully Sponsored Leadership Programme",
+   "excerpt": "Commonwealth Study Conference 2027 in Australia and New Zealand | Fully Sponsored Leadership Programme Are you an emerging leader making a difference in business, entrepreneurship, government, public service, or community development? The Commonwealth Study Conference (CSC) 2027 offers an exceptional opportunity to connect with 200 emerging leaders from across the Commonwealth and explore global c",
+   "link": "https://oyaop.com/opportunity/conferences/commonwealth-study-conference-2027-in-australia-and-new-zealand-fully-sponsored-leadership-programme/",
+   "date": "2026-11-25",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "Northern Michigan University Scholarship in USA 2027 | Fully Funded",
+   "excerpt": "Northern Michigan University in the USA is offering fully funded Master’s assistantships to candidates from domestic and international backgrounds. The Northern Michigan University Master’s assistantships include a full tuition waiver, a stipend up to $18,000 per year, a laptop upon matriculation, as well as conference travel and research publication fees. In this post, we will […]",
+   "link": "https://www.scholarshipregion.com/northern-michigan-university-scholarship/",
+   "date": "2026-11-25",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "School of Public Health Masters Scholarships at ICL, UK 2027 | Step-by-Step Process",
+   "excerpt": "The Imperial College London (ICL) offers full scholarships for home and international students to pursue programs at the School of Public Health (SPH). The ICL School of Public Health Masters Scholarships offers a full tuition fee bursary for incoming students to pursue selected on-campus and online Master’s programmes. In this post, we will discuss the […]",
+   "link": "https://www.scholarshipregion.com/school-of-public-health-masters-scholarship/",
+   "date": "2026-11-25",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "University College Dublin (UCD) Iseult Honohan Doctoral Scholarship in Ireland 2027 | Fully Funded",
+   "excerpt": "The University College Dublin (UCD) is welcoming applications for a fully funded Iseult Honohan Doctoral Scholarship in Ireland. The UCD Iseult Honohan Doctoral Scholarship covers full fees (EU and Non-EU) and provides a living stipend of €25,000 per year for up to four years. This contains everything you need to know about the scholarship and […]",
+   "link": "https://www.scholarshipregion.com/ucd-iseult-honohan-doctoral-scholarship/",
+   "date": "2026-11-25",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "2027 RESCO Erasmus Mundus Scholarship in France, Spain, Portugal, Hungary | Fully Funded",
+   "excerpt": "RESCO is an Erasmus Mundus Joint Master’s Degree (EMJMD) designed to train highly skilled professionals in the fields of renewable energy systems and sustainable construction.The RESCO Erasmus Mundus Master Scholarship is a fully funded 2-year experience covering tuition and a €1,400 monthly stipend to study in four European institutions across Hungary, Portugal, Spain, and France. […]",
+   "link": "https://www.scholarshipregion.com/resco-erasmus-mundus-scholarship/",
+   "date": "2026-11-25",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "What Do Past Grants From Kenyan Corporate Foundations Reveal About the Projects They Back?",
+   "excerpt": "Focus Areas: Education and Livelihoods Dominate Corporate Foundation Funding Kenyan corporate foundations, through their grant-making activities, consistently demonstrate a strong commitment to advancing education and fostering sustainable livelihoods. Analysis of past grants reveals a strategic allocation of resources towards initiatives that aim to empower individuals and communities through imp",
+   "link": "https://www2.fundsforngos.org/cat/what-do-past-grants-from-kenyan-corporate-foundations-reveal-about-the-projects-they-back/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "5 Grantmakers for Indian NGOs Working With Women Farmers and Producer Collectives",
+   "excerpt": "5 Grantmakers Supporting Indian NGOs for Women Farmers and Producer Collectives Empowering women farmers and strengthening producer collectives are critical for achieving inclusive and sustainable agricultural development in India. These initiatives not only enhance food security and rural livelihoods but also promote gender equality and economic independence for women. For Non-Governmental Organi",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/5-grantmakers-for-indian-ngos-working-with-women-farmers-and-producer-collectives/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Can a South African Community Group Apply for a Grant Through a Registered Nonprofit?",
+   "excerpt": "Understanding Grant Eligibility for South African Community Groups Yes, a South African community group can absolutely apply for a grant through a registered nonprofit organisation (NPO). This is a common and often essential pathway for community-based initiatives to access funding, particularly when they may not yet have their own formal NPO registration or the capacity… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/can-a-south-african-community-group-apply-for-a-grant-through-a-registered-nonprofit/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "How to Write a Grant Proposal for an HIV Testing Pilot Led by Peer Educators",
+   "excerpt": "Understanding the Funding Landscape Securing funding for a pilot program focused on HIV testing, particularly one driven by peer educators, requires a strategic approach to grant writing. It’s not just about having a good idea; it’s about effectively communicating that idea’s value and impact to potential funders. This involves understanding who funds such initiatives, what… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-to-write-a-grant-proposal-for-an-hiv-testing-pilot-led-by-peer-educators/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "How to Find Ugandan Corporate Foundations That Have Funded Projects Like Yours",
+   "excerpt": "Understanding Corporate Foundations in Uganda Corporate foundations are philanthropic arms of businesses that channel corporate resources towards social good. In Uganda, these foundations play a vital role in supporting a wide range of development initiatives, from education and healthcare to environmental conservation and economic empowerment. They often focus on areas aligned with the parent com",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-to-find-ugandan-corporate-foundations-that-have-funded-projects-like-yours/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "7 Corporate Social Investment Programmes South African NPOs Can Explore by Province",
+   "excerpt": "Navigating Corporate Social Investment: A Provincial Guide for South African NPOs Finding the right funding can be a significant challenge for Non-Profit Organisations (NPOs). Corporate Social Investment (CSI) programmes offer a vital stream of support, but identifying those that align with an NPO’s mission, location, and thematic focus requires careful research. This guide explores seven… [Read M",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/7-corporate-social-investment-programmes-south-african-npos-can-explore-by-province/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "What Do National Lotteries Commission Awards Reveal About NGO Funding in Your Province?",
+   "excerpt": "Decoding Lottery Funding: A Province’s NGO Landscape The National Lotteries Commission (NLC) plays a pivotal role in channeling funds to non-profit organisations (NPOs) across South Africa, impacting various sectors from poverty alleviation to environmental conservation. Examining the NLC awards within a specific province offers a revealing snapshot of the current state of NGO funding, highlightin",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/what-do-national-lotteries-commission-awards-reveal-about-ngo-funding-in-your-province/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Applications open for Physicians of Tomorrow Scholarship Program (US)",
+   "excerpt": "The AMA Foundation’s Physicians of Tomorrow Scholarships provide crucial financial support to medical students demonstrating leadership, academic excellence, and a commitment to improving patient care. Offering $10,000 in tuition assistance, these scholarships aim to reduce financial burdens and nurture future physician leaders. Applications for the 2027 scholarships close on 19 January 2027.",
+   "link": "https://www2.fundsforngos.org/fellowships/applications-open-for-physicians-of-tomorrow-scholarship-program-us/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Apply Now: OJP Special Attorneys Program Round 12 (United States)",
+   "excerpt": "The Bureau of Justice Assistance (BJA) is inviting applications for the OJP FY 2026 Special Attorneys Program Round 12. This program aims to support state, local, Tribal, and territorial prosecuting agencies in assigning or hiring qualified prosecutors to serve as Special Attorneys or Special Assistant United States Attorneys (SAUSAs). The deadline for applications is 8 December 2026.",
+   "link": "https://www2.fundsforngos.org/fellowships/apply-now-ojp-special-attorneys-program-round-12-united-states/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "4th Virtual Mobility Grants Call for COST Action Participants",
+   "excerpt": "The COST Action 22125 Virtual Mobility Grants (VM Grants) offer a unique opportunity for researchers and innovators to engage in virtual collaboration within the COST Action network. These grants aim to enhance knowledge exchange, develop new skills, and foster collaboration across Europe. Applications for the 2026/2027 cycle must be submitted online through the e-COST platform.",
+   "link": "https://www2.fundsforngos.org/fellowships/4th-virtual-mobility-grants-call-for-cost-action-participants/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for 4th STSM Scientific Research Missions Grant",
+   "excerpt": "The fourth call for Short Term Scientific Missions (STSM) by COST Action 22125 is now open, offering researchers the opportunity to enhance their scientific networks and collaborations by visiting institutions across Europe. The initiative is part of the European Cooperation in Science and Technology (COST) framework, which aims to boost research and innovation by connecting scientists. Applicatio",
+   "link": "https://www2.fundsforngos.org/fellowships/open-call-for-4th-stsm-scientific-research-missions-grant/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "International Call for Films Generated with AI",
+   "excerpt": "The +RAIN Film Festival invites filmmakers to submit films utilizing Artificial Intelligence (AI) in their creative processes for the 2027 edition. Hosted by Universitat Pompeu Fabra, this festival encourages exploration of AI’s aesthetic, narrative, ethical, and political implications. The submission deadline is 15 February 2027.",
+   "link": "https://www2.fundsforngos.org/fellowships/international-call-for-films-generated-with-ai/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submit Applications for Big Chemistry Research Grant Programme (Netherlands)",
+   "excerpt": "The Dutch Research Council (NWO) invites applications for the Big Chemistry 2026 funding opportunity under the National Growth Fund Programme ‘Self-thinking Molecular Systems.’ This initiative supports projects that integrate artificial intelligence with chemistry to predict the physical and chemical properties of complex molecular systems. The application deadline is 23 February 2027, 14:00 CET.",
+   "link": "https://www2.fundsforngos.org/fellowships/submit-applications-for-big-chemistry-research-grant-programme-netherlands/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "How Can You Report Results in a Small Community While Protecting Privacy? An HIV and AIDS Grant FAQ",
+   "excerpt": "Understanding Your Reporting Obligations When you receive an HIV and AIDS grant, you’ll have reporting responsibilities. These are essential for demonstrating the impact of the funding and ensuring accountability to the grant provider. However, reporting in a small community presents unique challenges, especially when it comes to protecting the privacy of individuals you serve. This… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-can-you-report-results-in-a-small-community-while-protecting-privacy-an-hiv-and-aids-grant-faq/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "FCRA Registration or Prior Permission? What Indian NGOs Should Check Before Pursuing a Foreign Grant",
+   "excerpt": "Navigating Foreign Grants: FCRA Registration vs. Prior Permission for Indian NGOs The quest for foreign grants is a vital avenue for many Indian non-governmental organizations (NGOs) to fund their charitable activities, from education and healthcare to environmental conservation and social justice. However, securing these funds is not as simple as finding a willing donor. In… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/fcra-registration-or-prior-permission-what-indian-ngos-should-check-before-pursuing-a-foreign-grant/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "5 Donors to Approach for Girls’ Education and School Retention Projects in Uganda",
+   "excerpt": "Five Strategic Donors for Girls’ Education and School Retention Initiatives in Uganda Supporting girls’ education and ensuring their continued presence in school is a critical development priority in Uganda. While access to education has seen improvements, retaining girls, particularly adolescent girls, remains a significant challenge. Factors such as poverty, early marriage, unintended pregnancie",
+   "link": "https://www2.fundsforngos.org/cat/5-donors-to-approach-for-girls-education-and-school-retention-projects-in-uganda/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Which Embassy Small Grants Can Fund Community Projects Outside Nairobi?",
+   "excerpt": "United States Embassy: Opportunities Beyond the Capital The United States Embassy in Kenya, through its various programs, offers significant funding opportunities for community development projects across the nation, extending well beyond Nairobi. These grants are designed to empower local communities and foster sustainable development in areas such as health, education, democracy, and economic gr",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/which-embassy-small-grants-can-fund-community-projects-outside-nairobi/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Embassy Grants in Abujaʃ Which Calls Are Open to NGOs Working Across Nigeria?",
+   "excerpt": "Embassy Grants in Abuja: Opportunities for Nigerian NGOs Abuja, the Federal Capital Territory of Nigeria, serves as the diplomatic hub for numerous foreign embassies, many of which offer grant opportunities to Non-Governmental Organizations (NGOs) working across the nation. These grants, often aligned with the foreign policy objectives and development priorities of the donor country, can… [Read Mo",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/embassy-grants-in-abuja%ca%83-which-calls-are-open-to-ngos-working-across-nigeria/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Who Pays for Repairs After a School Borehole Breaks? 5 Donors for Ugandan WASH NGOs to Explore",
+   "excerpt": "Navigating Borehole Breakdowns: 5 Donor Pathways for Ugandan WASH NGOs When a school borehole in Uganda breaks down, the immediate question for administrators and communities is: who pays for the repairs? While official Ugandan guidelines highlight the shared responsibility of schools and communities for the management and maintenance of water facilities, securing external funding for… [Read More]",
+   "link": "https://www2.fundsforngos.org/cat/who-pays-for-repairs-after-a-school-borehole-breaks-5-donors-for-ugandan-wash-ngos-to-explore/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "NPO Registration, PBO Approval and Section 18A Status Explained for South African Grantseekers",
+   "excerpt": "Understanding NPO Registration, PBO Approval, and Section 18A Status in South Africa for Grantseekers Navigating the landscape of grant funding in South Africa requires Non-Profit Organisations (NPOs) to understand critical legal and tax statuses. These statuses, namely NPO registration, Public Benefit Organisation (PBO) approval, and Section 18A status, are not interchangeable and serve distinct ",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/npo-registration-pbo-approval-and-section-18a-status-explained-for-south-african-grantseekers/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Where Can a Newly Registered Indian NGO Seek Its First Domestic Grant?",
+   "excerpt": "Government Schemes and Initiatives Newly registered NGOs in India have a significant opportunity to secure their first domestic grants through various government schemes and initiatives. These programs are designed to foster grassroots development, promote social welfare, and empower organizations working on the ground. Understanding the landscape of government support is crucial for nascent NGOs.",
+   "link": "https://www2.fundsforngos.org/cat/where-can-a-newly-registered-indian-ngo-seek-its-first-domestic-grant/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Postdoctoral Enrichment Program for Biomedical Research (US and Canada)",
+   "excerpt": "The Burroughs Wellcome Fund (BWF) is inviting applications for the Postdoctoral Enrichment Program (PDEP), which offers $60,000 over three years to support the career development of underrepresented postdoctoral fellows in the United States and Canada. This program aims to enhance the career prospects of fellows engaged in biomedical or medical research. Applications are open until 12 January 2027",
+   "link": "https://www2.fundsforngos.org/fellowships/statespostdoctoral-enrichment-program-for-biomedical-research-us-and-canada/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "R. James Travers Foreign Corresponding Fellowship (Canada)",
+   "excerpt": "The R. James Travers Foreign Corresponding Fellowship, administered by Carleton University, offers up to CAD 25,000 to support journalists with innovative ideas and perspectives on global issues. This opportunity is aimed at Canadian and eligible non-Canadian journalists, including freelancers and students, who wish to undertake significant foreign reporting projects. The application deadline is 1",
+   "link": "https://www2.fundsforngos.org/fellowships/r-james-travers-foreign-corresponding-fellowship-canada/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Where Nurses and Community Health Workers Can Find Grants for Ideas Born on the Job",
+   "excerpt": "Identifying Your Project’s Needs and Scope Before you even start looking for grant money, it’s crucial to have a clear picture of what your idea entails. Nurses and community health workers often see problems firsthand – things that could be improved, services that are missing, or ways to better support a population. The first step… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/where-nurses-and-community-health-workers-can-find-grants-for-ideas-born-on-the-job/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Open Call for ASEF Fellowship Program – Visit Slovenia",
+   "excerpt": "The 2027 ASEF Fellowship Program – Visit Slovenia is now open for applications. Offered by the American Slovenian Education Foundation (ASEF), this program provides young individuals of Slovenian heritage with the chance to engage in a 10-week research or work visit at top Slovenian institutions. The fellowship is designed to help participants reconnect with their heritage, immerse themselves in S",
+   "link": "https://www2.fundsforngos.org/fellowships/open-call-for-asef-fellowship-program-visit-slovenia/",
+   "date": "2026-11-25",
+   "source": "fundsforNGOs"
+  },
   {
    "title": "The Kenya Revenue Authority (KRA) Internship Program 2027 for young Kenyan graduates ( 25,000 Kshs monthly stipend)",
    "excerpt": "Application Deadline: December 14th, 2026 Applications are now open for the 2027 Kenya Revenue Authority (KRA) Internship Program. In support of the Government’s Youth Initiative to develop a pool of…",
@@ -104,6 +356,153 @@
    "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/yale-visiting-african-scholars-fellowship-2027-2028-in-the-usa-stipend-and-research-support/",
    "date": "2026-11-24",
    "source": "Oya Opportunities"
+  },
+  {
+   "title": "Mastercard Innovation and Technology Scholarship 2027 (Online Graduate Certificate) | Fully Funded",
+   "excerpt": "The Mastercard Innovation and Technology Scholarship is a fully funded opportunity for applicants to pursue Online master’s degrees at Arizona State University while living in Kigali, Rwanda. The ASU Online Graduate Certificate is fully sponsored by the Mastercard Foundation to cover full tuition fees, housing, transport and visa costs, study materials, as well as coaching […]",
+   "link": "https://www.scholarshipregion.com/mastercard-innovation-and-technology-scholarship/",
+   "date": "2026-11-24",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Earth Observation (EO) Excellence Award 2027 (up to €15,000)",
+   "excerpt": "Deadline: January 22, 2027 Applications are open for the EO Excellence Award 2027. Are you an early-career individual using Earth Observation satellite data to advance science and applications? The EO Excellence Award, launched by the European Space Agency (ESA), celebrates outstanding achievements by early-career researchers who are advancing the innovative use of Earth observation (EO)",
+   "link": "https://opportunitydesk.org/2026/11/24/earth-observation-excellence-award-2027/",
+   "date": "2026-11-24",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "SparkUp Initiative Fellowship 2027",
+   "excerpt": "Deadline: December 20, 2026 Applications are open for the SparkUp Initiative Fellowship 2027. The SparkUp Initiative is a transformative capacity-building program designed to strengthen women-led organizations by equipping them with the knowledge, tools, and confidence to succeed in fundraising. This global initiative supports women-led organizations across all sectors—whether you’re working in ed",
+   "link": "https://opportunitydesk.org/2026/11/24/sparkup-initiative-fellowship-2027/",
+   "date": "2026-11-24",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "Call for Applications: Better Futures Fellowship 2027",
+   "excerpt": "Deadline: December 6, 2026 Applications are open for the Better Futures Fellowship 2027. The Better Futures Fellowship is a 9-week program for people deciding whether better-futures work should become their focus. Better-futures work is research and fieldbuilding aimed at improving how good the future is, conditional on humanity surviving. Most longtermist effort goes into making",
+   "link": "https://opportunitydesk.org/2026/11/24/better-futures-fellowship-2027/",
+   "date": "2026-11-24",
+   "source": "Opportunity Desk"
+  },
+  {
+   "title": "The GSMA Innovation Fund for AI-Enabled Financial Health 2026 – Grant Funding and Venture-Building Support for AI Startups.",
+   "excerpt": "Application Deadline: 17 December 2026 at 23:59 UTC. Applications are now open for the 2026 GSMA Innovation Fund for AI-Enabled Financial Health. Over the past decade, digital financial services have…",
+   "link": "https://www.opportunitiesforafricans.com/the-gsma-innovation-fund-for-ai-enabled-financial-health-2026/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The AUDA-NEPAD Energize Africa Health Fellows Programme 2026/2027 for African professionals (All-inclusive gross annual remuneration of US$27,200)",
+   "excerpt": "Application Deadline: 27 November 2026. Applications are now open for the 2026/2027 AUDA-NEPAD Energize Africa Health Fellows Programme. Under the supervision of the various supervisors, the Energize Africa Health Fellows will…",
+   "link": "https://www.opportunitiesforafricans.com/the-auda-nepad-energize-africa-health-fellows-programme/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "The Acumen Green RISE East Africa Fellowship 2027 (6-month leadership program) for Green Entrepreneurs (Fully Funded)",
+   "excerpt": "Application Deadline: December 22nd, 2026 Applications are now open for the 2027 Acumen Green RISE East Africa Fellowship. The Green RISE Africa (Resilient Impact through Sustainable Entrepreneurship) Fellowship delivered by…",
+   "link": "https://www.opportunitiesforafricans.com/the-acumen-green-rise-east-africa-fellowship-2027-6-month-leadership-program/",
+   "date": "2026-11-24",
+   "source": "Opportunities for Africans"
+  },
+  {
+   "title": "University of Cambridge CRASSH Visiting Fellowships 2027-28",
+   "excerpt": "Are you looking for University of Cambridge Programs? The University of Cambridge CRASSH Visiting Fellowships 2027-28 are currently accepting applications. The Centre for Research in the Arts, Humanities and Social Sciences (CRASSH) at the University of Cambridge is offering funded visiting fellowships for people from the Global South. These international fellowships will create opportunities for ",
+   "link": "https://www.opportunitiescircle.com/university-of-cambridge-crassh-visiting-fellowships/",
+   "date": "2026-11-24",
+   "source": "Opportunities Circle"
+  },
+  {
+   "title": "Public Policy New Voices Fellowship 2026–2027 | Virtual Fellowship for Graduate Students",
+   "excerpt": "Public Policy New Voices Fellowship 2026–2027 | Virtual Fellowship for Graduate Students Are you a graduate student interested in public policy, government affairs, corporate policy, or global strategic advisory? The Public Policy New Voices (PPNV) Fellowship 2026–2027 offers an opportunity to develop professional skills, connect with influential policy leaders, and become part of a growing […]",
+   "link": "https://oyaop.com/opportunity/scholarships-and-fellowships/public-policy-new-voices-fellowship-2026-2027-virtual-fellowship-for-graduate-students/",
+   "date": "2026-11-24",
+   "source": "Oya Opportunities"
+  },
+  {
+   "title": "DAAD Scholarships Available for Nigerian Students (2027)",
+   "excerpt": "The German Academic Exchange Service (DAAD), officially known as Deutscher Akademischer Austauschdienst, is the world’s largest organisation supporting international academic exchange. It supports more than 100,000 German and international students, graduates and researchers annually through scholarships and other funding opportunities. DAAD scholarships offer several routes to pursue your academi",
+   "link": "https://www.scholarshipregion.com/daad-scholarships/",
+   "date": "2026-11-24",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "8 German Universities Offering Double-Degree Programmes for International Students (2027)",
+   "excerpt": "Germany continues to attract international students seeking quality higher education and internationally recognised qualifications. According to the German Academic Exchange Service (DAAD), approximately 402,000 international students and doctoral candidates were enrolled at German higher education institutions during the 2024/2025 winter semester. Beyond its conventional bachelor’s and master’s p",
+   "link": "https://www.scholarshipregion.com/german-universities-offering-double-degree-programmes/",
+   "date": "2026-11-24",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "University of Gothenburg Scholarships 2027 in Sweden | Fully Funded",
+   "excerpt": "The University Of Gothenburg Scholarships provide international students dreaming of studying in Sweden in 2027 with fully funded opportunities. The University Of Gothenburg Sweden Scholarships not only provide financial support but also open doors to incredible academic and professional opportunities. More details about the scholarship opportunities will be provided for interested and qualified c",
+   "link": "https://www.scholarshipregion.com/university-of-gothenburg-scholarships/",
+   "date": "2026-11-24",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "REPLAY Scholarships 2027 (Erasmus Mundus) in Europe | Fully Funded",
+   "excerpt": "The European Commission is pleased to welcome applications from all interested and qualified candidates for the 2027 Erasmus Mundus REPLAY Scholarships. The REPLAY Erasmus Mundus Scholarships will cover the total tuition fee and will guarantee a monthly allowance of 1.400€ for the duration of the academic activities and/or maximum of 24 months, to cover installation, […]",
+   "link": "https://www.scholarshipregion.com/replay-scholarship-erasmus-mundus/",
+   "date": "2026-11-24",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "University of Science and Technology Beijing (USTB) Scholarship 2027 | Fully Funded",
+   "excerpt": "The University of Science and Technology Beijing (USTB) has announced the call for applications for the 2027 Chinese Government Scholarship. The University of Science and Technology Beijing (USTB) Scholarship is funded by the Chinese Ministry of Education and covers tuition, accommodation, medical insurance, and a living stipend of ¥3500 per month. In this post, the […]",
+   "link": "https://www.scholarshipregion.com/university-of-science-and-technology-beijing-ustb-scholarship/",
+   "date": "2026-11-24",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Texas Tech University Graduate Research Assistantship in USA 2027 | Fully Funded",
+   "excerpt": "A fully funded doctoral research assistantship is open to Canadian and international students at Texas Tech University in the United States. The Texas Tech University Graduate Research Assistantship includes a full tuition waiver and a living stipend of $25,000 for up to four years of study. In this post, we will discuss the details of […]",
+   "link": "https://www.scholarshipregion.com/texas-tech-university-graduate-research-assistantship/",
+   "date": "2026-11-24",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Apply for EDSAFE AI Leadership-Development Fellowship Program",
+   "excerpt": "The EDSAFE AI Fellowship is a leadership development program that aims to empower underrepresented leaders in artificial intelligence (AI) within the education sector. Offered by the EDSAFE AI Alliance, the fellowship provides interactive workshops, mentorship, and a collaborative capstone project to deepen understanding of AI’s ethical, safe, and equitable use in education. Applications are due b",
+   "link": "https://www2.fundsforngos.org/fellowships/apply-for-edsafe-ai-leadership-development-fellowship-program/",
+   "date": "2026-11-24",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "What a Waste Picker Would Put in a Recycling Innovation Grant Budget",
+   "excerpt": "Tools and Gear to Make the Job Easier and Safer As a waste picker, the first thing I’d focus on for a grant is getting better tools. We’re out there every day, sorting through piles of discards. The stuff we use now is often basic, sometimes just what we can find or afford. A grant… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/what-a-waste-picker-would-put-in-a-recycling-innovation-grant-budget/",
+   "date": "2026-11-24",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Who Owns the Farm Data? A Grant Application Checklist for Digital Agriculture Projects",
+   "excerpt": "Understanding Farm Data Ownership for Grant Applications When you’re looking to fund a digital agriculture project, particularly through grants, a crucial aspect you’ll face is the question of data ownership. It’s not just a legal detail; it impacts how your project can be implemented, shared, and what its long-term value will be. Grant providers want… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/who-owns-the-farm-data-a-grant-application-checklist-for-digital-agriculture-projects/",
+   "date": "2026-11-24",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Submissions open for New Europe College Fellowship Program",
+   "excerpt": "The New Europe College (NEC) in Bucharest, Romania, is inviting applications for its 2027-2028 Fellowships. These fellowships are open to Romanian and international postdoctoral scholars in the humanities and social sciences, including law and economics. Approximately 25 fellowships are available across eight distinct programs. The application deadline is 17 January 2027.",
+   "link": "https://www2.fundsforngos.org/fellowships/submissions-open-for-new-europe-college-fellowship-program/",
+   "date": "2026-11-24",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Applications Open for Tor Community Fellowship Program",
+   "excerpt": "The Tor Project has announced its inaugural Community Fellowship, seeking applications from human rights defenders, journalists, technologists, and researchers. This part-time fellowship runs from February to July 2027, offering participants a chance to deepen their understanding of internet censorship and develop technical skills. Applications are open until 17 December 2026.",
+   "link": "https://www2.fundsforngos.org/research-2/applications-open-for-tor-community-fellowship-program/",
+   "date": "2026-11-24",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "Call for Entries: JAWS Health Reporting Fellowship (United States)",
+   "excerpt": "The Journalism & Women Symposium (JAWS) offers a unique opportunity for early-career journalists and those new to the health beat to enhance their reporting skills through the 2027 Health Reporting Fellowship. Supported by the Commonwealth Fund, this fellowship is designed for women and individuals identifying as women, aiming to advance their careers in health journalism. The application deadline",
+   "link": "https://www2.fundsforngos.org/fellowships/call-for-entries-jaws-health-reporting-fellowship-united-states/",
+   "date": "2026-11-24",
+   "source": "fundsforNGOs"
   },
   {
    "title": "Top 20+ Scholarships in Sweden for International Students",
@@ -349,6 +748,48 @@
    "link": "https://opportunitiesnexus.com/dubai-business-associates/",
    "date": "2026-11-23",
    "source": "Opportunities Nexus"
+  },
+  {
+   "title": "US Government Fulbright Teaching Excellence and Achievement (TEA) Program 2027/28 | Fully Funded",
+   "excerpt": "The United States Department of Education annually offers the Fulbright Teaching Excellence and Achievement Program to educators from within and outside the US. The Fulbright Teaching Excellence and Achievement Program fully sponsors international secondary-level educators to the United States for a six-week professional learning opportunity at a host university. We have written this post as […]",
+   "link": "https://www.scholarshipregion.com/us-government-fulbright-teaching-excellence-program/",
+   "date": "2026-11-23",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "8 IT Courses Africans Can Study for Remote Work Opportunities",
+   "excerpt": "The global technology industry is expanding remote opportunities as businesses adopt AI, cloud computing and data analytics. The World Economic Forum’s Future of Jobs Report 2025 identifies AI and big data, networks and cybersecurity, and technological literacy among the fastest-growing skills employers will need by 2030. For African students, graduates and professionals, learning an in-demand […]",
+   "link": "https://www.scholarshipregion.com/it-courses-africans-can-study-for-remote-work-opportunities/",
+   "date": "2026-11-23",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "University of Birmingham Wolfson Postgraduate Scholarships in the UK 2027 | Fully Funded",
+   "excerpt": "The University of Birmingham is welcoming applications for its fully funded Wolfson Postgraduate Scholarships for domestic and international students. The Birmingham Wolfson Scholarship is worth £38,000 per year over three years and covers the costs of tuition, and living costs for all selected candidates. Appliations are currently open until February 24, 2027. Click this post […]",
+   "link": "https://www.scholarshipregion.com/wolfson-postgraduate-scholarship/",
+   "date": "2026-11-23",
+   "source": "Scholarship Region"
+  },
+  {
+   "title": "Seed Grant, Fellowship, or Challenge Prize? A Funding Cheat Sheet for Innovators",
+   "excerpt": "Navigating the world of funding for your innovative ideas can feel like trying to find your way through a maze. You’ve got a brilliant concept, maybe even a prototype, and you’re ready to make it a reality. But where do you get the money to do it? There are several pathways, and understanding the differences… [Read More]",
+   "link": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/seed-grant-fellowship-or-challenge-prize-a-funding-cheat-sheet-for-innovators/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "George Alexander Foundation Fellowship for Australian Residents",
+   "excerpt": "Applications are now open for the 2027 George Alexander Foundation International Fellowship, offered by The George Alexander Foundation in collaboration with the International Specialised Skills Institute (ISS Institute). This Fellowship provides financial support of $15,000 to five individuals aged 18-35 to conduct international applied research with an emphasis on innovative practices and skill ",
+   "link": "https://www2.fundsforngos.org/fellowships/george-alexander-foundation-fellowship-for-australian-residents/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
+  },
+  {
+   "title": "International Research Fellowships for VET Educators in Australia",
+   "excerpt": "The Skills SA International Research Fellowship offers South Australian Vocational Education and Training (VET) and Adult Community Education (ACE) educators the opportunity to engage in international research to enhance skills, training delivery, and innovation. Managed by the International Specialised Skills Institute in collaboration with Skills SA, this fellowship aims to improve educational p",
+   "link": "https://www2.fundsforngos.org/fellowships/international-research-fellowships-for-vet-educators-in-australia/",
+   "date": "2026-11-23",
+   "source": "fundsforNGOs"
   },
   {
    "title": "U.S. Department of Energy Community College Internships Fund Summer Technical Training at National Labs",
@@ -8226,13 +8667,6 @@
    "source": "Scholarship Region"
   },
   {
-   "title": "Mastercard Innovation and Technology Scholarship 2027 (Online Graduate Certificate) | Fully Funded",
-   "excerpt": "The Mastercard Innovation and Technology Scholarship is a fully funded opportunity for applicants to pursue Online master’s degrees at Arizona State University while living in Kigali, Rwanda. The ASU Online Graduate Certificate is fully sponsored by the Mastercard Foundation to cover full tuition fees, housing, transport and visa costs, study materials, as well as coaching […]",
-   "link": "https://www.scholarshipregion.com/mastercard-innovation-and-technology-scholarship/",
-   "date": "2026-10-28",
-   "source": "Scholarship Region"
-  },
-  {
    "title": "Murtala Muhammed Foundation Scholarship (MMF) 2027 | Fully Funded",
    "excerpt": "The Murtala Muhammed Foundation Scholarship in collaboration with the Africa Science Academy, is pleased to announce a fully funded program tailored for African women interested in pursuing studies in STEM fields at universities across Africa. The MMF Scholarship not only provides fully funded scholarship package that includes tuition, accommodation, and living stipends, it also offers […]",
    "link": "https://www.scholarshipregion.com/murtala-muhammed-foundation-scholarship/",
@@ -13005,27 +13439,6 @@
    "link": "https://andpurpose.world/weeden-foundation-grants-2026/",
    "date": "2026-07-28",
    "source": "&Purpose"
-  },
-  {
-   "title": "The Google for Startups Accelerator: Middle East, North Africa Program 2026/2027 for MENA startups.",
-   "excerpt": "Application Deadline: August 31, 2026 Applications are now open for the Google for Startups Accelerator: Middle East, North Africa Program. Google for Startups Accelerator: Middle East, North Africa and Turkey…",
-   "link": "https://www.opportunitiesforafricans.com/the-google-for-startups-accelerator-middle-east-north-africa-program-2026-2027-for-mena-startups/",
-   "date": "2026-07-27",
-   "source": "Opportunities for Africans"
-  },
-  {
-   "title": "WHO Internship 2026 in Germany | Paid Internship in Berlin",
-   "excerpt": "Applications are now open for the WHO Internship 2026 in Germany. The World Health Organization (WHO) is inviting applications for the Intern – Collaborative Analysis position at the WHO Hub for Pandemic and Epidemic Intelligence in Berlin, Germany. This is a paid internship opportunity for students and recent graduates to gain hands-on experience in global […]",
-   "link": "https://opportunitiescorners.com/who-internship-2026-in-germany/",
-   "date": "2026-07-27",
-   "source": "Opportunities Corners"
-  },
-  {
-   "title": "Columbia University Online Courses",
-   "excerpt": "Are you looking for free online courses from one of the world’s leading universities? The Columbia University Online Courses offer an excellent opportunity for students, graduates, educators, researchers, and professionals to learn from anywhere in the world. Through ColumbiaX, Columbia University provides a wide range of online courses across different subjects, including business, finance, artif",
-   "link": "https://www.opportunitiescircle.com/columbia-university-online-courses/",
-   "date": "2026-07-27",
-   "source": "Opportunities Circle"
   }
  ]
 }
